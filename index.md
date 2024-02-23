@@ -10,18 +10,17 @@ sections:
       title: Individual Transition Planning
       subtitle: A Tool Kit by the Ministry of Education
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Family Envisioning Meeting
-          description: Important Collaborative Effort
-          url: https://google.com
-        - title: Individual Transition Plan (ITP)
-          description: A Standardised ITP
-          url: https://gmail.com
-        - title: PCP Framework
-          description: PCP for Singapore
-          url: /privacy/
+      dropdown:
+        title: "I am a... "
+        options:
+          - title: SPED School Teacher
+            url: https://www.google.com/
+          - title: Parent
+            url: https://www.google.com/
+          - title: MSF Personnel
+            url: https://www.google.com/
+          - title: Job Coach
+            url: https://www.google.com/
   - infobar:
       title: Person-Centered Planning (PCP)
       subtitle: Subtitle
