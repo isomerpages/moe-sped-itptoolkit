@@ -1,15 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
+  - title: Introduction
+    url: /intro-itp/
+  - title: Development of ITP
     collection: example-folder
+  - title: Resources
+    url: /permalink
+  - title: MATM
+    url: /permalink
