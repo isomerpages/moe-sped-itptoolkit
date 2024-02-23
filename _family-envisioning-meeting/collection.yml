@@ -4,6 +4,6 @@ collections:
     order:
       - FEM Overview.md
       - Pre Family Envisioning Meeting.md
-      - Development of the ITP/.keep
-      - Development of the ITP/Family Envisioning Meeting (FEM).md
+      - Family Envisioning Meeting/.keep
+      - Family Envisioning Meeting/Family Envisioning Meeting (FEM).md
       - Post FEM.md
