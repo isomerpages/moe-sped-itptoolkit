@@ -4,3 +4,4 @@ permalink: /resources/
 variant: tiptap
 description: ""
 ---
+<p></p>
