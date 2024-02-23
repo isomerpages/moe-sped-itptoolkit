@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - FEM Overview.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - Development of the ITP/.keep
+      - Development of the ITP/subfolder-page.md
