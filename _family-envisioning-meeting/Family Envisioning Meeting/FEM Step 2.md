@@ -6,7 +6,8 @@ description: FEM Step 2
 third_nav_title: Family Envisioning Meeting
 ---
 <h1>Eliciting Contributions about the Student from Everyone</h1>
-<p></p>
+<p><strong><em>Suggested Time: 15 mins</em></strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Draw everyone’s attention to the first flip chart “<strong><em>What do we appreciate about them…” </em></strong><em>.</em>
