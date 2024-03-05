@@ -13,5 +13,20 @@ the student is 15 years of age to generate a set of personalised goals
 with respect to common planning areas. It is <strong>a working document</strong> that
 will be annually reviewed till the year of graduation.&nbsp;</p>
 <p></p>
+<p>This section will bring you through:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>the preparation work for FEM;</p>
+</li>
+<li>
+<p>the steps involved in FEM; and</p>
+</li>
+<li>
+<p>how to translate FEM insights into the student’s ITP for follow-up support
+and action.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 <p>&lt;Link to ITP Template here&gt;</p>
 <p></p>
