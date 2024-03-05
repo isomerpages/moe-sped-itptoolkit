@@ -6,7 +6,8 @@ description: FEM Step 3
 third_nav_title: Family Envisioning Meeting
 ---
 <h1>Discussing <em>What's Working</em> and <em>What's Not Working</em></h1>
-<p></p>
+<p><strong><em>Suggested Time: 10 mins</em></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Visual of Transferring two Flipcharts to Living, Learning and Working Chart" src="/images/FEM_Step_3.png">
 </div>
