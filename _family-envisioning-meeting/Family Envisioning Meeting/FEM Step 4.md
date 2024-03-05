@@ -6,6 +6,8 @@ description: FEM Step 4
 third_nav_title: Family Envisioning Meeting
 ---
 <h1><strong>Identifying the Priority Areas</strong></h1>
+<p><strong><em>Suggested Time: 10 mins  </em></strong>
+</p>
 <p>Identifying the student’s priority areas can be done through the <strong>3-Dots Voting Process</strong>:</p>
 <p></p>
 <div class="isomer-image-wrapper">
