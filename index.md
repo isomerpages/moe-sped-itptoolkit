@@ -10,17 +10,21 @@ sections:
       title: Individual Transition Planning
       subtitle: A Tool Kit by the Ministry of Education
       background: /images/hero-banner.png
-      dropdown:
-        title: "I am a... "
-        options:
-          - title: SPED School Teacher
-            url: https://www.google.com/
-          - title: Parent
-            url: https://www.google.com/
-          - title: MSF Personnel
-            url: https://www.google.com/
-          - title: Job Coach
-            url: https://www.google.com/
+      variant: floating
+      key_highlights:
+        - title: Family Envisioning Meeting
+          description: "Description here "
+          url: www.google.com
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+      button: "Individual Transition Plan "
+      url: www.google.com
+      backgroundColor: gray
+      alignment: right
   - infobar:
       title: Person-Centered Planning (PCP)
       subtitle: Subtitle
