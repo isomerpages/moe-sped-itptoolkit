@@ -19,9 +19,6 @@ and <strong>scribe down what was shared</strong> on the flip chart.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Visual of 5 Flip Chart Papers" src="/images/FEM_Step_2.png">
 </div>
-<p></p>
-<p><em> </em>
-</p>
 </li>
 <li>
 <p>Everyone takes some time to post as many responses as they wish to the
@@ -33,4 +30,7 @@ Post-its.</p>
 contributed by others too.</p>
 </li>
 </ol>
+<blockquote>
+<p>PCP Process Spotlight: Flip Charts &amp; Post-Its</p>
+</blockquote>
 <p></p>
