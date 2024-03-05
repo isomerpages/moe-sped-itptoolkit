@@ -14,5 +14,9 @@ third_nav_title: Family Envisioning Meeting
 <p>Referencing <strong>‘What is important <u>TO</u> them now?’ </strong>and <strong>‘What is important <u>FOR</u> them now?’</strong>,
 list down ‘What’s Working and What’s NOT Working’ in the areas of Living,
 Learning and Working for the student.</p>
+<blockquote>
+<p>PCP Process Spotlight: Important <u>To</u> vs. Important <u>For</u>
+</p>
+</blockquote>
 <p></p>
 <p></p>
