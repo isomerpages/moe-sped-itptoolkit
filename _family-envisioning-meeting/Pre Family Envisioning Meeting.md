@@ -124,5 +124,8 @@ will be used in FEM Step 2.&nbsp;</p>
 <p>&lt;Include Images here&gt;</p>
 <p><em><br>[Optional] Extract some information from the preparation booklets and capture it in the form of Post-its&nbsp;and stick them on the respective flip charts.</em>
 </p>
-<p></p>
+<blockquote>
+<p><em>Pro Tip: Setting up the Room for FEM</em>
+</p>
+</blockquote>
 <p></p>
