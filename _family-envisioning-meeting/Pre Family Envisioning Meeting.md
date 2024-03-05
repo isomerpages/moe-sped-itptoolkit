@@ -32,7 +32,7 @@ therapists, job coaches etc.)</p>
 <p></p>
 </li>
 </ul>
-<p><strong>How can everyone be supported? </strong>
+<p><strong>How can everyone be supported?</strong>
 </p>
 <table>
 <tbody>
@@ -109,7 +109,7 @@ the student in his/her life.</p>
 <p>PCP Process Spotlight: Quality Person Centered Information</p>
 </blockquote>
 <p></p>
-<h4>Preparing the Day </h4>
+<h4>Preparing the Day</h4>
 <p><strong>Setting up the FEM Room</strong>
 </p>
 <ul data-tight="true" class="tight">
