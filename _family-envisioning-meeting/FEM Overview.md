@@ -13,5 +13,5 @@ the student is 15 years of age to generate a set of personalised goals
 with respect to common planning areas. It is <strong>a working document</strong> that
 will be annually reviewed till the year of graduation.&nbsp;</p>
 <p></p>
-<p></p>
+<p>&lt;Link to ITP Template here&gt;</p>
 <p></p>
