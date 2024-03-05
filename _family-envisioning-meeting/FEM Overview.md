@@ -9,7 +9,7 @@ description: Family Envisioning Meeting Overview
 <p>The Individual Transition Plan (ITP) captures <strong>a student’s personal aspirations for his/her future</strong>.
 It comprises of a student’s personal goals, strategies and supports, needed
 for successful post-school transition.</p>
-<p><em>&lt;Phase 1: Initiating | Phase 2: Planning | Phase 3: Consolidating Image&gt; </em>
+<p><em>&lt;Phase 1: Initiating | Phase 2: Planning | Phase 3: Consolidating Image&gt;</em>
 </p>
 <p></p>
 <p>The ITP is developed <strong>at the start of Planning Phase in Transition Planning </strong>when
