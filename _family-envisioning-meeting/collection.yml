@@ -4,7 +4,6 @@ collections:
     order:
       - FEM Overview.md
       - Pre Family Envisioning Meeting.md
-      - Family Envisioning Meeting/FEM Checklist.md
       - Family Envisioning Meeting/.keep
       - Family Envisioning Meeting/FEM | The 6 Step Process.md
       - Family Envisioning Meeting/FEM Step 1.md
@@ -13,4 +12,5 @@ collections:
       - Family Envisioning Meeting/FEM Step 4.md
       - Family Envisioning Meeting/FEM Step 5.md
       - Family Envisioning Meeting/FEM Step 6.md
+      - Family Envisioning Meeting/FEM Checklist.md
       - Post FEM.md
