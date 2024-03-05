@@ -13,7 +13,7 @@ sections:
       variant: floating
       key_highlights:
         - title: Family Envisioning Meeting
-          description: "Description here "
+          description: Description here
           url: www.google.com
         - title: Key Highlight Title
           description: Key Highlight description
@@ -21,7 +21,7 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
-      button: "Individual Transition Plan "
+      button: Individual Transition Plan
       url: www.google.com
       backgroundColor: gray
       alignment: right
