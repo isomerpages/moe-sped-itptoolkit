@@ -31,3 +31,7 @@ and meaningful.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Visual of Outcome Sequence Checklist" src="/images/FEM_Step_5_Checklist.png">
 </div>
 <p></p>
+<blockquote>
+<p>PCP Process Spotlight: Using the Outcome Sequence to Develop Goals</p>
+</blockquote>
+<p></p>
