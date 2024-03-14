@@ -4,8 +4,26 @@ permalink: /example-folder/fem-overview/
 variant: tiptap
 description: Family Envisioning Meeting Overview
 ---
+<h3><strong><em>About this Toolkit</em></strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>This toolkit serves to guide schools on the implementation of the Individual
+Transition Plan (ITP) predicated on Person-Centred Principles, as part
+of facilitating a student's transition process to post-school.</p>
+</li>
+<li>
+<p>It is a step-by-step comprehensive guide that can be used by Transition
+Teams in schools to support the development of a student’s ITP through
+the conduct of a Family Envisioning Meeting (FEM).</p>
+</li>
+<li>
+<p>It also provides information on the newly standardised ITP, which takes
+in information shared at FEM and would be reviewed annually till the final
+schooling year in SPED.</p>
+</li>
+</ul>
 <h2><strong>Overview</strong></h2>
-<h3>Individual Transition Plan (ITP)</h3>
+<h2>Individual Transition Plan (ITP)</h2>
 <p>The Individual Transition Plan (ITP) captures <strong>a student’s personal aspirations for his/her future</strong>.
 It comprises of a student’s personal goals, strategies and supports, needed
 for successful post-school transition.</p>
