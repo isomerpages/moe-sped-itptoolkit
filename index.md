@@ -36,4 +36,7 @@ sections:
       description: '"How do we ensure that everyone can have hope to do justice to
         their different talents and blessings, regardless of background,
         ancestry, and connections?"'
+  - resources:
+      title: News and Happenings
+      id: resources
 ---
