@@ -7,28 +7,33 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Individual Transition Planning
-      subtitle: A Tool Kit by the Ministry of Education
+      title: Person-Centered Planning
+      subtitle: Listening to their aspirations, strengths and concerns
       background: /images/hero-banner.png
-      variant: floating
-      key_highlights:
-        - title: Family Envisioning Meeting
-          description: Description here
-          url: www.google.com
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-      button: Individual Transition Plan
+      variant: center
+      button: Learn more
       url: www.google.com
       backgroundColor: gray
       alignment: right
+      size: md
+  - infopic:
+      title: Family Envisioning Meeting (FEM)
+      id: infopic
+      description: Bringing together everyone significant to a child to
+        collaboratively chart her future
+      button: About FEM
+      url: www.google.com
+      alt: Image alt text
+  - infopic:
+      title: Individual Transition Plan (ITP)
+      id: infopic
+      button: Download MOE's ITP Template
+      url: www.google.com
+      alt: Image alt text
   - infobar:
-      title: Person-Centered Planning (PCP)
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      subtitle: Minister Chan Chun Sing
+      id: infobar
+      description: '"How do we ensure that everyone can have hope to do justice to
+        their different talents and blessings, regardless of background,
+        ancestry, and connections?"'
 ---
