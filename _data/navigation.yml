@@ -1,8 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Transition Planning in SPED
-    url: /tp-in-sped/
+    collection: transition-planning-in-sped
   - title: Family Envisioning Meeting
     collection: family-envisioning-meeting
-  - title: Resources in SPED
-    url: /resources/
+  - title: Individual Transition Plan
+    collection: individual-transition-plan
+  - title: Resources for SPED
+    collection: resources-for-sped
+  - title: Resources for Families
+    collection: resources-for-families
