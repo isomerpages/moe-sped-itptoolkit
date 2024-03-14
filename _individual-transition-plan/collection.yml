@@ -1,4 +1,5 @@
 collections:
   individual-transition-plan:
     output: true
-    order: []
+    order:
+      - About.md
