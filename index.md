@@ -22,13 +22,13 @@ sections:
       description: Bringing together everyone significant to a child to
         collaboratively chart her future
       button: About FEM
-      url: www.google.com
+      url: /example-folder/fem-overview/
       alt: Image alt text
   - infopic:
       title: Individual Transition Plan (ITP)
       id: infopic
       button: Download MOE's ITP Template
-      url: www.google.com
+      url: /individual-transition-plan/about-itp/
       alt: Image alt text
   - infobar:
       subtitle: Minister Chan Chun Sing
