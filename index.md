@@ -12,7 +12,7 @@ sections:
       background: /images/hero-banner.png
       variant: center
       button: Learn more
-      url: www.google.com
+      url: /pcp/
       backgroundColor: gray
       alignment: right
       size: md
