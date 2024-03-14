@@ -23,13 +23,15 @@ sections:
         collaboratively chart her future
       button: About FEM
       url: /example-folder/fem-overview/
-      alt: Image alt text
+      alt: FEM meeting in action at sch
+      image: /images/Eden_FEM.png
   - infopic:
       title: Individual Transition Plan (ITP)
       id: infopic
       button: Download MOE's ITP Template
       url: /individual-transition-plan/about-itp/
       alt: Image alt text
+      image: /images/pexels_rdne_stock_project_7821682.jpg
   - infobar:
       subtitle: Minister Chan Chun Sing
       id: infobar
