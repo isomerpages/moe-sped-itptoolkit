@@ -2,6 +2,7 @@ collections:
   family-envisioning-meeting:
     output: true
     order:
+      - FEM Video.md
       - FEM Overview.md
       - Pre Family Envisioning Meeting.md
       - Family Envisioning Meeting/.keep
