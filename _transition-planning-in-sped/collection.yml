@@ -2,6 +2,6 @@ collections:
   transition-planning-in-sped:
     output: true
     order:
+      - Person Centered Planning.md
       - Transition Planning Process in SPED Schools.md
       - SPED Outcomes.md
-      - Person Centered Planning.md
