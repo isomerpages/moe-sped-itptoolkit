@@ -1,10 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Introduction
-    url: /intro-itp/
+  - title: Transition Planning in SPED
+    url: /tp-in-sped/
   - title: Family Envisioning Meeting
     collection: family-envisioning-meeting
-  - title: Resources
+  - title: Resources in SPED
     url: /resources/
-  - title: MATM
-    url: /matm
