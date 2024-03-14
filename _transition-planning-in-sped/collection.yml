@@ -2,4 +2,5 @@ collections:
   transition-planning-in-sped:
     output: true
     order:
+      - SPED Outcomes.md
       - Person Centered Planning.md
