@@ -2,5 +2,5 @@ collections:
   individual-transition-plan:
     output: true
     order:
-      - Filing in the ITP.md
       - About.md
+      - Filing in the ITP.md
