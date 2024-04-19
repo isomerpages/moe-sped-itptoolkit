@@ -1,5 +1,5 @@
 collections:
-  resources-for-sped:
+  pcp-resources:
     output: true
     order:
       - PCP Tools.md
