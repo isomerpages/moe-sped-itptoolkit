@@ -4,7 +4,7 @@ permalink: /transition-planning-in-sped/sped-outcomes/
 variant: tiptap
 description: Information about SPED Outcomes
 ---
-<h3>Transition Planning Outcomes</h3>
+<h2>Transition Planning Outcomes</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>The SPED outcomes are the end goals of special education and represent
