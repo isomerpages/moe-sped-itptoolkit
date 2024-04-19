@@ -2,7 +2,7 @@ collections:
   pcp-resources:
     output: true
     order:
-      - Resources for SPED Schools/MOE Resources.md
-      - Resources for SPED Schools/Resources for Conducting FEM.md
-      - Resources for SPED Schools/PCP Tools.md
       - Resources for SPED Schools/.keep
+      - Resources for SPED Schools/PCP Tools.md
+      - Resources for SPED Schools/Resources for Conducting FEM.md
+      - Resources for SPED Schools/MOE Resources.md
