@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Person-Centered Planning
       subtitle: Listening to their aspirations, strengths and concerns
-      background: /images/hero-banner.png
+      background: /images/CPASS.jpg
       variant: center
       button: Learn more
       url: /pcp/
