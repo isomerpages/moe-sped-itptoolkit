@@ -6,28 +6,44 @@ description: ""
 third_nav_title: Family Envisioning Meeting
 ---
 <h1>Introducing Everyone</h1>
-<p><strong><em>Suggested Time: 5 mins</em></strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Step_1_Timer.png">
+</div>
+<p>The facilitator begins the meeting by welcoming participants to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Settle into their seats and be comfortable at the meeting venue;</p>
+</li>
+<li>
+<p>Introduce themselves and their role in the student’s life; and</p>
+</li>
+<li>
+<p>Set ground rules collectively.</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Graphic summary of principles for creating a welcoming environment for FEM" src="/images/FEM_Step_1.png">
 </div>
-<h4><strong>Before Getting Started</strong></h4>
-<p><em>Before the student and his/her family enter the venue, c</em>heck
-that the venue is comfortable as arranged with the student.</p>
-<h4><strong>Getting Started</strong></h4>
+<blockquote>
+<p><strong>TIP: What are Ground Rules?</strong>
+</p>
+<p>Ground rules<strong> </strong>are important for setting the right tone
+for the meeting as well as reminding everyone that it is a safe, respectful
+and intentional space.&nbsp;&nbsp;</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Welcome everyone to the meeting.</p>
+<p>The ground rules for the meeting should be discussed with the student
+beforehand.&nbsp;</p>
 </li>
 <li>
-<p>Everyone introduces themselves and their role in the student’s life.&nbsp;</p>
+<p>Others can be invited to add some of their own ground rules to the list
+during the meeting.&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>The ground rules of the meeting&nbsp;are established and agreed upon.&nbsp;</p>
+<p>It is important that everyone understands and agrees with these rules
+before starting.&nbsp;</p>
 </li>
 </ul>
-<p></p>
-<blockquote>
-<p>PCP Process Spotlight: Ground Rules</p>
 </blockquote>
 <p></p>
