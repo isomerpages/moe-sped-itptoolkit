@@ -26,16 +26,11 @@ on the highest number of votes.</p>
 <blockquote>
 <p><strong>TIP: Voting with Different Stickers</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
 <p>During the voting process, the student can be given <em>larger or different-coloured stickers </em>compared
 to other stakeholders, symbolising the significance of their voice in shaping
-the direction of the discussion. &nbsp;</p>
-</li>
-<li>
+the direction of the discussion. </p>
+<p></p>
 <p>This visual distinction reminds us of the commitment that we must have
 towards prioritising our student’s input in the decision-making process.&nbsp;</p>
-</li>
-</ul>
 </blockquote>
 <p></p>
