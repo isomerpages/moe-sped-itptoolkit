@@ -12,9 +12,6 @@ third_nav_title: Family Envisioning Meeting
 <p>The Facilitator leads participants in developing the student’s post-school
 goals for the priority areas identified in Step 4.</p>
 <p>This involves the following steps of the Outcome Sequence:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Visual of Goals and Outcome Sequence" src="/images/FEM_Step_5.png">
-</div>
 <p><strong>Step 1:</strong> What matters, who matters and where matters to
 the student (and his/her aspirations where appropriate). What are their
 strengths, assets and qualities?</p>
@@ -26,6 +23,9 @@ strengths, assets and qualities?</p>
 <p><strong>Step 5:</strong> Now check it!
 <br><em>(Assess the quality of the goal using the checklist.)</em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Visual of Goals and Outcome Sequence" src="/images/FEM_Step_5.png">
+</div>
 <p>Refer to the following checklist to ensure that the goal is targeted and
 meaningful.</p>
 <div class="isomer-image-wrapper">
