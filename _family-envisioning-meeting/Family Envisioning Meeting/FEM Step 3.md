@@ -29,7 +29,7 @@ the community
 </p>
 </li>
 <li>
-<p>Contributing<strong> productively</strong>
+<p>Contributing<strong> productively</strong> 
 <br><em>This considers how student is prepared for meaningful contribution including employment, work, volunteering, home-based work or household chores.</em>
 </p>
 </li>
