@@ -42,8 +42,67 @@ they may write their views on Post-its and paste on respective flipcharts,
 where everyone will move around to read the Post-its contributed by other
 participants.</p>
 <blockquote>
-<p><strong>TIP:</strong>
+<p><strong>TIP: Important <u>TO</u> and Important <u>FOR</u></strong>
 </p>
+<p>In eliciting contributions from participants, it is important for the
+facilitator to aim for a balance of views between what is important <u>TO</u> the
+student and what is important <u>FOR</u> the student.&nbsp;&nbsp;</p>
+<p></p>
+<p>What's Important <u>TO</u> the student?</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>What makes life worth living for the student?</p>
+</li>
+<li>
+<p>What makes life pleasurable and fun?</p>
+</li>
+<li>
+<p>Examples:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Time to eat with his/her family</p>
+</li>
+<li>
+<p>Enjoy playing music</p>
+</li>
+<li>
+<p>Taking his/her dog for a walk&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Going for an annual holiday</p>
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
+<p>What's Important <u>FOR</u> the student?</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>What does the student ought to do?</p>
+</li>
+<li>
+<p>What do we nag the student to do more or less of?</p>
+</li>
+<li>
+<p><em>Examples:</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Exercising</p>
+</li>
+<li>
+<p>Eating more fruits and vegetables</p>
+</li>
+<li>
+<p>Not binge-watching dramas</p>
+</li>
+<li>
+<p>Not scrolling mindlessly on my phone&nbsp;</p>
+</li>
+</ul>
+</li>
+</ul>
 </blockquote>
+<p></p>
 <p></p>
 <p></p>
