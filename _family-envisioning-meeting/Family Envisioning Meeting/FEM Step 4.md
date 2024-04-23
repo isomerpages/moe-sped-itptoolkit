@@ -6,15 +6,36 @@ description: FEM Step 4
 third_nav_title: Family Envisioning Meeting
 ---
 <h1><strong>Identifying the Priority Areas</strong></h1>
-<p><strong><em>Suggested Time: 10 mins</em></strong>
-</p>
-<p>Identifying the student’s priority areas can be done through the <strong>3-Dots Voting Process</strong>:</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Visual of the process of the 3-Dots voting process" src="/images/FEM_Step_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Step_4_Timer.png">
+</div>
+<p>The facilitator invites participants to vote on their top 3 choices from
+the following two areas:</p>
+<p>a) Aspirations</p>
+<p>b) What’s Working?</p>
+<p>c) What’s Not Working?</p>
+<p></p>
+<p>The facilitator leads the process of determining the priority areas based
+on the highest number of votes.</p>
+<p></p>
+<p>The process for FEM Step 4 is explained in the visual below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Voting.png">
 </div>
 <p></p>
 <blockquote>
-<p>Pro-Tip: Voting with Different Stickers</p>
+<p><strong>TIP: Voting with Different Stickers</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>During the voting process, the student can be given <em>larger or different-coloured stickers </em>compared
+to other stakeholders, symbolising the significance of their voice in shaping
+the direction of the discussion. &nbsp;</p>
+</li>
+<li>
+<p>This visual distinction reminds us of the commitment that we must have
+towards prioritising our student’s input in the decision-making process.&nbsp;</p>
+</li>
+</ul>
 </blockquote>
 <p></p>
