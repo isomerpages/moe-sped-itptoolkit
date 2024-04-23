@@ -6,42 +6,57 @@ description: FEM Step 6
 third_nav_title: FEM
 ---
 <h1>Determining Actions through Support Sequence</h1>
-<p><strong><em>Suggested Time: 15 mins</em></strong>
-</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Step_6_Timer.png">
+</div>
+<p>The facilitator leads the participants in brainstorming possible ways
+of supporting the student in achieving the post-school goals.</p>
+<p>This is done through the use of Support Sequence which oulines different
+modes of support:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Yourself, i.e. the student</p>
+</li>
+<li>
+<p>Technology</p>
+</li>
+<li>
+<p>Equipment &amp; Adaption</p>
+</li>
+<li>
+<p>Family, Friends and Neighbours</p>
+</li>
+<li>
+<p>Community</p>
+</li>
+<li>
+<p>Services and Settings</p>
+</li>
+<li>
+<p>Specialised Support</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Visual of Action Template and Support Sequence" src="/images/FEM_Step_6_Action_Template_and_SS.png">
 </div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Walk through the Support Sequence <em>(which will be introduced next) </em>to
-co-create possible ways of moving the student towards his/her goal.</p>
-</li>
-<li>
-<p>Decide on the time-bound next steps to be taken, noting them down on the <strong><em>Action Template flip chart</em></strong>.&nbsp;</p>
-</li>
-</ul>
-<p>&lt;Type of Support Table here&gt;</p>
-<p></p>
-<h4>Frequently Asked Questions (FAQs) related to Support &amp; Actions</h4>
-<p>1. Must the school cater to everything that the child wants? What if the
-School is unable to make arrangements for this support?</p>
-<p><strong>Ans: </strong>It takes a village to support a child. An important
-paradigm to establish and sustain through FEM is that this is a team effort
-– Everyone is involved in supporting the child to achieve his goals. If
-you are creative about it, resources can reside in many other places beside
-the school!</p>
-<p></p>
-<p>2. How are supports and actions different from the educational goals &amp;
-plans that [professional] has established for the child already?</p>
-<p><strong>Ans: </strong>Take a look again at the ‘outcomes’ the meeting
-has arrived at and run it through the checklist in FEM Step 5. The most
-outstanding difference between educational goals and PCP outcomes is that
-is does not focus on a behavioural modification but a specific aspiration
-of the child.&nbsp;&nbsp;&nbsp;</p>
+<p>After determining the possible supports, the facilitator leads the participants
+to set time-bound next steps using the Action Template.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Action_Template.png">
+</div>
 <p></p>
 <blockquote>
-<p>PCP Process Spotlight: Support Sequence + Action Template</p>
+<p><strong>TIP: Support Sequence and Action Template</strong>
+</p>
+<p>Refer to the following guiding questions in the Support Sequence to generate
+more possible supports for the student.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Support_Sequence.png">
+</div>
+<p>The Action Template helps to set clear follow-up supports and actions
+needed by the people supporting the student. Actions should change the
+'What’s not working' for the student, moving him/her closer to the eventual
+post-school goals<strong>.</strong>
+</p>
 </blockquote>
-<p></p>
 <p></p>
