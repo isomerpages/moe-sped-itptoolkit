@@ -7,7 +7,7 @@ third_nav_title: Family Envisioning Meeting
 ---
 <h1>Introducing Everyone</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Step_1_Timer.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Step_1_Timer.png">
 </div>
 <p>The facilitator begins the meeting by welcoming participants to:</p>
 <ul data-tight="true" class="tight">
