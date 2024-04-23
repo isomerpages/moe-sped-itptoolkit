@@ -41,8 +41,8 @@ beforehand.&nbsp;</p>
 during the meeting.&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>It is important that everyone understands and agrees with these rules
-before starting.&nbsp;</p>
+<p>It is important that all participants understand and agree with these
+rules before starting.&nbsp;</p>
 </li>
 </ul>
 </blockquote>
