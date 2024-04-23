@@ -20,6 +20,7 @@ on the highest number of votes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Voting.png">
 </div>
+<p></p>
 <blockquote>
 <p><strong>TIP: Voting with Different Stickers</strong>
 </p>
