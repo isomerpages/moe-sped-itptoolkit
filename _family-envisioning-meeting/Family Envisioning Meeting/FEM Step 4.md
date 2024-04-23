@@ -14,15 +14,12 @@ the following two areas:</p>
 <p>a) Aspirations</p>
 <p>b) What’s Working?</p>
 <p>c) What’s Not Working?</p>
-<p></p>
 <p>The facilitator leads the process of determining the priority areas based
 on the highest number of votes.</p>
-<p></p>
 <p>The process for FEM Step 4 is explained in the visual below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Voting.png">
 </div>
-<p></p>
 <blockquote>
 <p><strong>TIP: Voting with Different Stickers</strong>
 </p>
