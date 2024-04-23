@@ -6,32 +6,37 @@ description: FEM Step 2
 third_nav_title: Family Envisioning Meeting
 ---
 <h1>Eliciting Contributions about the Student from Everyone</h1>
-<p><strong><em>Suggested Time: 15 mins</em></strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Step_2_Timer.png">
+</div>
+<p>The facilitator invites participants to contribute their views about the
+student in the following areas:</p>
+<p>a) <strong>What do we appreciate about the student?</strong> &nbsp;<em>&nbsp;</em>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Draw everyone’s attention to the first flip chart “<strong><em>What do we appreciate about them…” </em></strong><em>.</em>
+<p><strong>b) What are the student’s aspirations? </strong>
+<br><em>The student’s thoughts, ambitions or dreams about his/her future.</em>
 </p>
-</li>
-<li>
-<p>Invite everyone to share something that they appreciate about the student
-and <strong>scribe down what was shared</strong> on the flip chart.</p>
-<p></p>
+<p>c) <strong>What is important <u>TO</u> the student now?</strong> 
+<br><em>What the student </em><strong><em>ought to</em></strong><em> learn, do or acquire because it will be beneficial in helping him or her to learn, live or work</em>
+</p>
+<p>d) <strong>What is important <u>FOR</u> the student now?</strong> 
+<br><em>What the student </em><strong><em>appreciates, likes, or enjoys.</em></strong>
+</p>
+<p>These 4 areas are typically framed as standing flipcharts around the meeting
+room.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Visual of 5 Flip Chart Papers" src="/images/FEM_Step_2.png">
 </div>
-</li>
-<li>
-<p>Everyone takes some time to post as many responses as they wish to the
-questions on <strong><em>the rest of the flip charts</em></strong> using
-Post-its.</p>
-</li>
-<li>
-<p>Everyone <strong>stands up and moves around the flip charts to read</strong> Post-its
-contributed by others too.</p>
-</li>
-</ol>
+<p></p>
+<p>Participants may turn take to verbally express their views. Alternatively,
+they may write their views on Post-its and paste on respective flipcharts,
+and everyone will move around to read other Post-its contributed by other
+participants.</p>
 <blockquote>
-<p>PCP Process Spotlight: Flip Charts &amp; Post-Its</p>
+<p><strong>TIP: Flip Charts &amp; Post-Its</strong>
+</p>
+<p>To streamline the meeting process, extract and capture information from
+the Preparation Booklets in the form of Post-its&nbsp;and stick them on
+the respective flipcharts in advance.</p>
 </blockquote>
 <p></p>
