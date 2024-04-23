@@ -25,7 +25,7 @@ third_nav_title: Family Envisioning Meeting
 <img style="width: 100%" height="auto" width="100%" alt="Graphic summary of principles for creating a welcoming environment for FEM" src="/images/FEM_Step_1.png">
 </div>
 <blockquote>
-<p><strong>TIP: What are Ground Rules?</strong>
+<p><strong>TIP: Ground Rules</strong>
 </p>
 <p>Ground rules<strong> </strong>are important for setting the right tone
 for the meeting as well as reminding everyone that it is a safe, respectful
