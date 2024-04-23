@@ -2,7 +2,7 @@ collections:
   family-envisioning-meeting:
     output: true
     order:
-      - FEM Overview.md
+      - Overview of Family Envisioning Meeting.md
       - Family Envisioning Meeting/.keep
       - Family Envisioning Meeting/FEM | The 6 Step Process.md
       - Family Envisioning Meeting/FEM Step 1.md
