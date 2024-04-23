@@ -35,5 +35,52 @@ meaningful.</p>
 <blockquote>
 <p><strong>TIP: The Outcome Sequence</strong>
 </p>
+<p>A goal is more than an educational target; it embodies a vision aligned
+with the student’s aspirations<strong> </strong>as seen in the Golden Thread
+above.&nbsp;&nbsp;</p>
+<p></p>
+<p>It transcends mere solutions, reflecting a deep understanding of the student’s
+genuine needs and serves as a guiding vision, influencing a series of tailored
+support and actions, ensuring a comprehensive and individualised approach
+towards the student’s post-school life.&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p>Writing goals is a challenging but critical step in the FEM.&nbsp;</p>
+<p></p>
+<p>Here are a few reminders when writing Goals:&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A time-bound aspiration that a time-bound aspiration that the student
+and those supporting him/her will strive towards attaining. &nbsp;</p>
+</li>
+<li>
+<p>The goal states WHAT, not HOW.&nbsp;&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Do not embed the solution in the goal. (Solutions are discussed only at
+the next FEM step!) &nbsp;</p>
+</li>
+<li>
+<p>Be specific.&nbsp;</p>
+</li>
+<li>
+<p>Identify priority areas.&nbsp;</p>
+</li>
+<li>
+<p>Start with broad statements but make them concrete! &nbsp;</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Link the goal to what matters to the student.&nbsp;</p>
+</li>
+<li>
+<p>The goal should not merely be education-focused, but an aspiration that
+an aspiration that <em>matters</em> to the child.&nbsp;</p>
+</li>
+<li>
+<p>Do not use service speak (E.g. The student’s goal is to get into a Day
+Activity Centre to learn how to read).&nbsp;</p>
+</li>
+</ul>
 </blockquote>
 <p></p>
