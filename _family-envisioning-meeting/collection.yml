@@ -3,15 +3,15 @@ collections:
     output: true
     order:
       - FEM Overview.md
-      - Family Envisioning Meeting/.keep
-      - Family Envisioning Meeting/FEM | The 6 Step Process.md
-      - Family Envisioning Meeting/FEM Step 1.md
-      - Family Envisioning Meeting/FEM Step 2.md
-      - Family Envisioning Meeting/FEM Step 3.md
-      - Family Envisioning Meeting/FEM Step 4.md
-      - Family Envisioning Meeting/FEM Step 5.md
-      - Family Envisioning Meeting/FEM Step 6.md
-      - Family Envisioning Meeting/FEM Checklist.md
+      - FEM/.keep
+      - FEM/FEM | The 6 Step Process.md
+      - FEM/FEM Step 1.md
+      - FEM/FEM Step 2.md
+      - FEM/FEM Step 3.md
+      - FEM/FEM Step 4.md
+      - FEM/FEM Step 5.md
+      - FEM/FEM Step 6.md
+      - FEM/FEM Checklist.md
       - Pre Family Envisioning Meeting Preparations.md
       - Post FEM.md
       - FEM Video.md
