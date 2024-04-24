@@ -11,8 +11,8 @@ third_nav_title: FEM
 </div>
 <p>The facilitator leads the participants in brainstorming possible ways
 of supporting the student in achieving the post-school goals.</p>
-<p>This is done through the use of Support Sequence which oulines different
-modes of support:</p>
+<p>This is done through the use of the <strong>Support Sequence</strong> which
+oulines different modes of support:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Yourself, i.e. the student</p>
@@ -36,13 +36,17 @@ modes of support:</p>
 <p>Specialised Support</p>
 </li>
 </ul>
+<p></p>
+<h4>The Support Sequence</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Visual of Action Template and Support Sequence" src="/images/FEM_Step_6_Action_Template_and_SS.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Visual of Action Template and Support Sequence" src="/images/FEM_Step_6_Action_Template_and_SS.png">
 </div>
+<p></p>
 <p>After determining the possible supports, the facilitator leads the participants
-to set time-bound next steps using the Action Template.</p>
+to set time-bound next steps using the <strong>Action Template</strong>.</p>
+<h4>The Action Template</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Action_Template.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Action_Template.png">
 </div>
 <p></p>
 <blockquote>
@@ -51,7 +55,7 @@ to set time-bound next steps using the Action Template.</p>
 <p>Refer to the following guiding questions in the Support Sequence to generate
 more possible supports for the student.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Support_Sequence.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Support_Sequence.png">
 </div>
 <p>The Action Template helps to set clear follow-up supports and actions
 needed by the people supporting the student. Actions should change the
