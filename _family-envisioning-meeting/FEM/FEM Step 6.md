@@ -37,14 +37,14 @@ oulines different modes of support:</p>
 </li>
 </ul>
 <p></p>
-<h4>The Support Sequence</h4>
+<h3><strong>The Support Sequence</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="Visual of Action Template and Support Sequence" src="/images/FEM_Step_6_Action_Template_and_SS.png">
 </div>
 <p></p>
 <p>After determining the possible supports, the facilitator leads the participants
 to set time-bound next steps using the <strong>Action Template</strong>.</p>
-<h4>The Action Template</h4>
+<h3><strong>The Action Template</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Action_Template.png">
 </div>
