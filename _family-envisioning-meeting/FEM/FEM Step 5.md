@@ -34,7 +34,8 @@ meaningful.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Goal_Checklist.png">
 </div>
 <p></p>
-<p>TIP: The Outcome Sequence</p>
+<blockquote>
+<p>PCP SPOTLIGHT: The Outcome Sequence</p>
 <p>A goal is more than an educational target; it embodies a vision aligned
 with the student’s aspirations as seen in the Golden Thread above.&nbsp;&nbsp;</p>
 <p></p>
@@ -77,4 +78,5 @@ an aspiration that matters to the child.&nbsp;</p>
 Activity Centre to learn how to read).&nbsp;</p>
 </li>
 </ul>
+</blockquote>
 <p></p>
