@@ -24,19 +24,27 @@ student in the following areas:</p>
 </p>
 <p>These 4 areas are typically framed as standing flipcharts around the meeting
 room.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Visual of 5 Flip Chart Papers" src="/images/FEM_Step_2.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="5 Flip Charts for FEM" src="/images/5_Flip_Charts.jpg">
+</div>
 <p>Participants may turn take to verbally express their views. Alternatively,
 they may write their views on Post-its and paste on respective flipcharts,
 and everyone will move around to read other Post-its contributed by other
 participants.</p>
-<blockquote>
+<p></p>
+<p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>TIP: Flip Charts &amp; Post-Its</strong>
 </p>
-<p>To streamline the meeting process, extract and capture information from
-the Preparation Booklets in the form of Post-its&nbsp;and stick them on
-the respective flipcharts in advance.</p>
-</blockquote>
+<p><strong>To streamline the meeting process, extract and capture information from the Preparation Booklets in the form of Post-its&nbsp;and stick them on the respective flipcharts in advance.</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
