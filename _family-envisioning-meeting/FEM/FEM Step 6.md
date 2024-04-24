@@ -11,9 +11,9 @@ third_nav_title: FEM
 </div>
 <p>The facilitator leads the participants in brainstorming possible ways
 of supporting the student in achieving the post-school goals. This is done
-through the use of the <strong>Action Template </strong>and <strong>Support Sequence.</strong> 
+through the use of the <strong>Action Template </strong>and <strong>Support Sequence.</strong>
 </p>
-<h3><strong>The Action Template and Support Sequence </strong></h3>
+<h3><strong>The Action Template and Support Sequence</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="Visual of Action Template and Support Sequence" src="/images/FEM_Step_6_Action_Template_and_SS.png">
 </div>
@@ -41,8 +41,8 @@ through the use of the <strong>Action Template </strong>and <strong>Support Sequ
 <p>Specialised Support</p>
 </li>
 </ul>
-<p>Refer to these guiding questions for more ideas of how to generate possible
-supports with the Support Sequence.</p>
+<p>Refer to these <a href="/support-sequence-guiding-questions/" rel="noopener noreferrer nofollow" target="_blank">guiding questions</a> for
+more ideas of how to generate possible supports with the Support Sequence.</p>
 <p></p>
 <p>After determining the possible supports, the facilitator leads the participants
 to set time-bound next steps using the <strong>Action Template</strong>.</p>
