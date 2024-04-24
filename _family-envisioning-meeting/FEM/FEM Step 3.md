@@ -42,7 +42,7 @@ they may write their views on Post-its and paste on respective flipcharts,
 where everyone will move around to read the Post-its contributed by other
 participants.</p>
 <blockquote>
-<p><strong>TIP: Important <u>TO</u> and Important <u>FOR</u></strong>
+<p><strong>PCP SPOTLIGHT: Important <u>TO</u> and Important <u>FOR</u></strong>
 </p>
 <p>In eliciting contributions from participants, it is important for the
 facilitator to aim for a balance of views between what is important <u>TO</u> the
