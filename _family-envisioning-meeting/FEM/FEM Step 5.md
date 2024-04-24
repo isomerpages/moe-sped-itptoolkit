@@ -23,8 +23,10 @@ strengths, assets and qualities?</p>
 <p><strong>Step 5:</strong> Now check it!
 <br><em>(Assess the quality of the goal using the checklist.)</em>
 </p>
+<p></p>
+<h3><strong>The Outcome Sequence</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Visual of Goals and Outcome Sequence" src="/images/FEM_Step_5.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Visual of Goals and Outcome Sequence" src="/images/FEM_Step_5.png">
 </div>
 <p>Refer to the following checklist to ensure that the goal is targeted and
 meaningful.</p>
@@ -32,12 +34,9 @@ meaningful.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Goal_Checklist.png">
 </div>
 <p></p>
-<blockquote>
-<p><strong>TIP: The Outcome Sequence</strong>
-</p>
+<p>TIP: The Outcome Sequence</p>
 <p>A goal is more than an educational target; it embodies a vision aligned
-with the student’s aspirations<strong> </strong>as seen in the Golden Thread
-above.&nbsp;&nbsp;</p>
+with the student’s aspirations as seen in the Golden Thread above.&nbsp;&nbsp;</p>
 <p></p>
 <p>It transcends mere solutions, reflecting a deep understanding of the student’s
 genuine needs and serves as a guiding vision, influencing a series of tailored
@@ -47,14 +46,12 @@ towards the student’s post-school life.&nbsp;&nbsp;&nbsp;</p>
 <p>Writing goals is a challenging but critical step in the FEM.&nbsp;</p>
 <p></p>
 <p>Here are a few reminders when writing Goals:&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>A time-bound aspiration that a time-bound aspiration that the student
 and those supporting him/her will strive towards attaining. &nbsp;</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>The goal states WHAT, not HOW.&nbsp;&nbsp;</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>Do not embed the solution in the goal. (Solutions are discussed only at
 the next FEM step!) &nbsp;</p>
@@ -68,19 +65,16 @@ the next FEM step!) &nbsp;</p>
 <li>
 <p>Start with broad statements but make them concrete! &nbsp;</p>
 </li>
-</ul>
-</li>
 <li>
 <p>Link the goal to what matters to the student.&nbsp;</p>
 </li>
 <li>
 <p>The goal should not merely be education-focused, but an aspiration that
-an aspiration that <em>matters</em> to the child.&nbsp;</p>
+an aspiration that matters to the child.&nbsp;</p>
 </li>
 <li>
 <p>Do not use service speak (E.g. The student’s goal is to get into a Day
 Activity Centre to learn how to read).&nbsp;</p>
 </li>
 </ul>
-</blockquote>
 <p></p>
