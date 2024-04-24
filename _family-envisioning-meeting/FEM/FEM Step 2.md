@@ -33,20 +33,13 @@ they may write their views on Post-its and paste on respective flipcharts,
 and everyone will move around to read other Post-its contributed by other
 participants.</p>
 <p></p>
-<p></p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<blockquote>
 <p><strong>TIP: Put up Contributions before the Meeting starts!</strong>
 </p>
 <p>Instead of having blank standing flipcharts, you can choose to extract
 contributions from the Preparation Booklets to stick on the respective
 flipcharts in advance. This may warm participants up and encourage them
 to contribute further.</p>
-</td>
-</tr>
-</tbody>
-</table>
+</blockquote>
 <p></p>
 <p></p>
