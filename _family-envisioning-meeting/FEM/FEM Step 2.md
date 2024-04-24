@@ -38,10 +38,12 @@ participants.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>TIP: Flip Charts &amp; Post-Its</strong>
+<p><strong>TIP: Put up Contributions before the Meeting starts!</strong>
 </p>
-<p><strong>To streamline the meeting process, extract and capture information from the Preparation Booklets in the form of Post-its&nbsp;and stick them on the respective flipcharts in advance.</strong>
-</p>
+<p>Instead of having blank standing flipcharts, you can choose to extract
+contributions from the Preparation Booklets to stick on the respective
+flipcharts in advance. This may warm participants up and encourage them
+to contribute further.</p>
 </td>
 </tr>
 </tbody>
