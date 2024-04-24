@@ -22,15 +22,12 @@ third_nav_title: FEM
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Graphic summary of principles for creating a welcoming environment for FEM" src="/images/FEM_Step_1.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Graphic summary of principles for creating a welcoming environment for FEM" src="/images/FEM_Step_1.png">
 </div>
-<blockquote>
-<p><strong>TIP: Ground Rules</strong>
-</p>
+<h3><strong>Ground Rules</strong></h3>
 <p>Ground rules<strong> </strong>are important for setting the right tone
 for the meeting as well as reminding everyone that it is a safe, respectful
 and intentional space.&nbsp;&nbsp;</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The ground rules for the meeting should be discussed with the student
@@ -46,5 +43,4 @@ rules before starting.&nbsp;</p>
 <p></p>
 </li>
 </ul>
-</blockquote>
 <p></p>
