@@ -51,10 +51,10 @@ to set time-bound next steps using the <strong>Action Template</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Action_Template.png">
 </div>
-<p>The <strong>Action Template</strong> helps to set clear follow-up supports
-and actions needed by the people supporting the student. Actions should
-change the <em>'What’s not working'</em> elements for the student, moving
-him/her closer to the eventual post-school goals<strong>.</strong>
+<p>The <strong>Action Template</strong> helps the meeting to set clear follow-up
+supports and actions needed by the people supporting the student. Actions
+should change the <em>'What’s not working'</em> elements for the student,
+moving him/her closer to the eventual post-school goals<strong>.</strong>
 </p>
 <p></p>
 <p></p>
