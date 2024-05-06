@@ -40,7 +40,7 @@ for FEM</p>
 </li>
 </ul>
 <p></p>
-<p>Participants are encouraged to give detailed and specific input <strong><em>(Link to PCP Spotlight: Quality Person-Centered Information)</em></strong> in
+<p>Participants are encouraged to give <a href="/quality-person-centered-information/" rel="noopener noreferrer nofollow" target="_blank">detailed and specific input</a> in
 their booklets. This will make it easier to develop meaningful goals with
 the student during the meeting.</p>
 <p>The information provided in the preparation booklets will be used during
