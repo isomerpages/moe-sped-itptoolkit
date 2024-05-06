@@ -31,10 +31,10 @@ room.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="5 Flip Charts for FEM" src="/images/5_Flip_Charts.jpg">
 </div>
-<p>Participants may turn take to verbally express their views. Alternatively,
-they may write their views on Post-its and paste on respective flipcharts,
-and everyone will move around to read other Post-its contributed by other
-participants.</p>
+<p></p>
+<p>Participants may verbally express their views in turn or write their views
+on post-its which they paste on respective flipcharts<strong>.</strong>
+</p>
 <p></p>
 <p>&lt;&lt;&lt; DESIGN FEATURE &gt;&gt;&gt;&gt;&gt;</p>
 <p>TIP: <strong>Put up Contributions before the Meeting starts!</strong>
