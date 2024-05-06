@@ -21,14 +21,13 @@ on the highest number of votes.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Voting.png">
 </div>
 <p></p>
-<blockquote>
-<p><strong>TIP: Voting with Different Stickers</strong>
-</p>
-<p>During the voting process, the student can be given <em>larger or different-coloured stickers </em>compared
-to other stakeholders, symbolising the significance of their voice in shaping
-the direction of the discussion. </p>
-<p></p>
+<p>&lt;&lt;&lt;&lt;&lt; DESIGN ELEMENT &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
+<p>TIP: Voting with Different Stickers</p>
+<p>During the voting process, the student can be given larger or different-coloured
+stickers compared to other stakeholders, symbolising the significance of
+their voice in shaping the direction of the discussion. </p>
 <p>This visual distinction reminds us of the commitment that we must have
 towards prioritising our student’s input in the decision-making process.&nbsp;</p>
-</blockquote>
+<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
 <p></p>
