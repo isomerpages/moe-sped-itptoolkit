@@ -11,17 +11,20 @@ third_nav_title: FEM
 </div>
 <p>The facilitator invites participants to contribute their views about the
 student in the following areas:</p>
-<p>a) <strong>What do we appreciate about the student?</strong> &nbsp;<em>&nbsp;</em>
-</p>
-<p><strong>b) What are the student’s aspirations? </strong>
+<p>a) <strong>What do we appreciate about the student? &nbsp;</strong>&nbsp;</p>
+<p>b) <strong>What are the student’s aspirations? </strong>
 <br><em>The student’s thoughts, ambitions or dreams about his/her future.</em>
 </p>
-<p>c) <strong>What is important <u>TO</u> the student now?</strong> 
+<p>c) <strong>What is important <u>TO</u> the student now? </strong>
 <br><em>What the student </em><strong><em>ought to</em></strong><em> learn, do or acquire because it will be beneficial in helping him or her to learn, live or work</em>
 </p>
-<p>d) <strong>What is important <u>FOR</u> the student now?</strong> 
+<p>d) <strong>What is important FOR the student now? </strong>
 <br><em>What the student </em><strong><em>appreciates, likes, or enjoys.</em></strong>
 </p>
+<p>e) <strong>What does Good Support look like for the Student? </strong>
+<br><em>How the student might be effectively supported to reach his/her aspirations</em>
+</p>
+<p></p>
 <p>These 4 areas are typically framed as standing flipcharts around the meeting
 room.</p>
 <p></p>
@@ -33,13 +36,13 @@ they may write their views on Post-its and paste on respective flipcharts,
 and everyone will move around to read other Post-its contributed by other
 participants.</p>
 <p></p>
-<blockquote>
-<p><strong>TIP: Put up Contributions before the Meeting starts!</strong>
+<p>&lt;&lt;&lt; DESIGN FEATURE &gt;&gt;&gt;&gt;&gt;</p>
+<p>TIP: <strong>Put up Contributions before the Meeting starts!</strong>
 </p>
 <p>Instead of having blank standing flipcharts, you can choose to extract
 contributions from the Preparation Booklets to stick on the respective
 flipcharts in advance. This may warm participants up and encourage them
 to contribute further.</p>
-</blockquote>
+<p>&lt;&lt;&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
 <p></p>
 <p></p>
