@@ -5,12 +5,12 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<h1>Preparing for FEM </h1>
+<h1>Preparing for FEM</h1>
 <p>The success of FEM hinges on <strong>thoughtful preparation </strong>before
 the meeting itself takes place.&nbsp; This involves preparing the meeting’s
 participants and ensuring that the room is properly set-up and ready with
 relevant resources for an effective FEM.</p>
-<h3><strong>Preparing the Participants </strong></h3>
+<h3><strong>Preparing the Participants</strong></h3>
 <h4>Determine who attends the Meeting</h4>
 <p>Besides the student, everyone important to the student should be present
 in this meeting. This may include the student’s family members, caregivers,
@@ -103,7 +103,7 @@ view will be given its proper ‘airtime’ and attention.&nbsp;</p>
 but it’s a process that shapes the culture of the FEM meeting: One that
 is safe, inclusive<strong> </strong>and where every individual is empowered
 to have a voice and make a choice.&nbsp;</p>
-<h4>Setting up the Space </h4>
+<h4>Setting up the Space</h4>
 <p>A carefully designed space will encourage active participation and create
 a conducive atmosphere for open communication.</p>
 <p>When setting up the space, consider factors such as:&nbsp;</p>
