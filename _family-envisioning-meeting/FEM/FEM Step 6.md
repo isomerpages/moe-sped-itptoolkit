@@ -11,13 +11,13 @@ third_nav_title: FEM
 </div>
 <p>The facilitator leads the participants in brainstorming possible ways
 of supporting the student in achieving the post-school goals. This is done
-through the use of the <strong>Action Template </strong>and <strong>Support Sequence.</strong>
+through the use of the <strong>Support Sequence.</strong>
 </p>
-<h3><strong>The Action Template and Support Sequence</strong></h3>
+<h3><strong>The Support Sequence</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="Visual of Action Template and Support Sequence" src="/images/FEM_Step_6_Action_Template_and_SS.png">
 </div>
-<p>The <strong>support sequence</strong> outlines different modes of support:</p>
+<p>The <strong>Support Sequence</strong> outlines different modes of support:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Yourself, i.e. the student</p>
@@ -41,6 +41,7 @@ through the use of the <strong>Action Template </strong>and <strong>Support Sequ
 <p>Specialised Support</p>
 </li>
 </ul>
+<p></p>
 <p>Refer to these <a href="/support-sequence-guiding-questions/" rel="noopener noreferrer nofollow" target="_blank">guiding questions</a> for
 more ideas of how to generate possible supports with the Support Sequence.</p>
 <p></p>
@@ -50,10 +51,10 @@ to set time-bound next steps using the <strong>Action Template</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Action_Template.png">
 </div>
-<p>The Action Template helps to set clear follow-up supports and actions
-needed by the people supporting the student. Actions should change the
-'What’s not working' for the student, moving him/her closer to the eventual
-post-school goals<strong>.</strong>
+<p>The <strong>Action Template</strong> helps to set clear follow-up supports
+and actions needed by the people supporting the student. Actions should
+change the <em>'What’s not working'</em> elements for the student, moving
+him/her closer to the eventual post-school goals<strong>.</strong>
 </p>
 <p></p>
 <p></p>
