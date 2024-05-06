@@ -24,7 +24,7 @@ third_nav_title: FEM
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="Graphic summary of principles for creating a welcoming environment for FEM" src="/images/FEM_Step_1.png">
 </div>
-<h3><strong>Ground Rules</strong></h3>
+<h3><strong>What are Ground Rules?</strong></h3>
 <p>Ground rules<strong> </strong>are important for setting the right tone
 for the meeting as well as reminding everyone that it is a safe, respectful
 and intentional space.&nbsp;&nbsp;</p>
