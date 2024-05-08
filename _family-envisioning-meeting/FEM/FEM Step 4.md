@@ -5,10 +5,13 @@ variant: tiptap
 description: FEM Step 4
 third_nav_title: FEM
 ---
-<h1><strong>Identifying the Priority Areas</strong></h1>
+<h1><strong>Using the Outcome Sequence</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Step_4_Timer.png">
 </div>
+<p><strong>^Timebar needs to change!</strong> 
+</p>
+<p></p>
 <p>The facilitator invites participants to vote on their top 3 choices from
 the following two areas:</p>
 <p>a) Aspirations</p>
@@ -17,10 +20,10 @@ the following two areas:</p>
 <p>The facilitator leads the process of determining the priority areas based
 on the highest number of votes.</p>
 <p>The process for FEM Step 4 is explained in the visual below.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Voting.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="3 Dots Voting Diagram" src="/images/UPDATED_3_Dots_voting.jpg">
+</div>
 <p>&lt;&lt;&lt;&lt;&lt; DESIGN ELEMENT &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
 <p>TIP: Voting with Different Stickers</p>
 <p>During the voting process, the student can be given larger or different-coloured
