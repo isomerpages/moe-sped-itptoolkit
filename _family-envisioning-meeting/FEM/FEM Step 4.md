@@ -9,14 +9,40 @@ third_nav_title: FEM
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Step_4_Timer.png">
 </div>
-<p><strong>^Timebar needs to change!</strong> 
+<p><strong>^Timebar needs to change!</strong>
 </p>
 <p></p>
-<p>The facilitator invites participants to vote on their top 3 choices from
-the following two areas:</p>
-<p>a) Aspirations</p>
-<p>b) What’s Working?</p>
-<p>c) What’s Not Working?</p>
+<h3><strong>The Outcome Sequence </strong></h3>
+<p>The facilitator leads the participants through the two stages of the Outcome
+Sequence:</p>
+<p>A. Identifying Priority Areas<em> (Outcome Sequence Steps 1-2) </em>
+</p>
+<p>B. Developing Goals and Checking them <em>(Outcome Sequence Steps 3-5) </em>
+</p>
+<p></p>
+<h3>Identifying Priority Areas</h3>
+<p>The facilitator leads the participants to identify the student’s priority
+areas through steps 1-2 of the Outcome Sequence:</p>
+<p></p>
+<p><strong>Step 1</strong>: Determine what matters, who matters and where
+matters to the student (and his/her aspirations). What are the student's
+strengths, assets and qualities?</p>
+<p><strong>Step 2:</strong> Determine <em>What is working</em> and<em> what is not working now</em>?</p>
+<p></p>
+<p></p>
+<p>To do this, the facilitator invites participants to vote on their top
+3 choices from the following three areas:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Aspirations</p>
+</li>
+<li>
+<p>What’s Working?</p>
+</li>
+<li>
+<p>What’s Not Working?</p>
+</li>
+</ol>
 <p>The facilitator leads the process of determining the priority areas based
 on the highest number of votes.</p>
 <p>The process for FEM Step 4 is explained in the visual below.</p>
@@ -33,4 +59,19 @@ their voice in shaping the direction of the discussion. </p>
 towards prioritising our student’s input in the decision-making process.&nbsp;</p>
 <p>&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
 &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
+<p></p>
+<h3>Developing Goals and Checking them</h3>
+<p>The Facilitator leads participants in crafting the student’s post-school
+goals through steps 3-5 of the Outcome Sequence: &nbsp;</p>
+<p></p>
+<p><strong>Step 3</strong>: What is the positive change you want to see?
+(<em>This could be either changing what is not working or moving towards an aspiration</em>.)</p>
+<p><strong>Step 4</strong>: Make this into a specific outcome.</p>
+<p><strong>Step 5</strong>: Now check it! (<em>Assess the quality of the goal using the checklist</em>.)</p>
+<p></p>
+<h4>Quality Goals Checklist</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Checklist for writing Goals" src="/images/Goal_Checklist.png">
+</div>
+<p></p>
 <p></p>
