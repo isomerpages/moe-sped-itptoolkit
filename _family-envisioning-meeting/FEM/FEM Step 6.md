@@ -5,22 +5,26 @@ variant: tiptap
 description: FEM Step 6
 third_nav_title: FEM
 ---
-<h1>Determining Actions through Support Sequence</h1>
+<h1>Using the Support Sequence to Determine Actions</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Step_6_Timer.png">
 </div>
-<p>The facilitator leads the participants in brainstorming possible ways
-of supporting the student in achieving the post-school goals. This is done
-through the use of the <strong>Support Sequence.</strong>
-</p>
-<h3><strong>The Support Sequence</strong></h3>
+<p>The facilitator leads the participants in brainstorming supports and actions
+that help the student to &nbsp;achieve &nbsp;the post-school goals. This
+is done through &nbsp;the<strong> <em>Support Sequence</em></strong> and
+the <strong><em>Action plan template</em></strong>.</p>
+<h2><strong>The Support Sequence</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="Visual of Action Template and Support Sequence" src="/images/FEM_Step_6_Action_Template_and_SS.png">
+<img style="width: 40%;" height="auto" width="100%" alt="Visual of Action Template and Support Sequence" src="/images/FEM_Step_6_Action_Template_and_SS.png">
 </div>
-<p>The <strong>Support Sequence</strong> outlines different modes of support:</p>
+<p>The <strong><em>Support Sequence</em></strong> outlines different modes
+of support:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Yourself, i.e. the student</p>
+</li>
+<li>
+<p>Learning</p>
 </li>
 <li>
 <p>Technology</p>
@@ -32,10 +36,7 @@ through the use of the <strong>Support Sequence.</strong>
 <p>Family, Friends and Neighbours</p>
 </li>
 <li>
-<p>Community</p>
-</li>
-<li>
-<p>Services and Settings</p>
+<p>Community and Services</p>
 </li>
 <li>
 <p>Specialised Support</p>
@@ -46,15 +47,15 @@ through the use of the <strong>Support Sequence.</strong>
 more ideas of how to generate possible supports with the Support Sequence.</p>
 <p></p>
 <p>After determining the possible supports, the facilitator leads the participants
-to set time-bound next steps using the <strong>Action Template</strong>.</p>
-<h3><strong>The Action Template</strong></h3>
+to develop an action plan using <strong>the <em>Action template.</em></strong>
+</p>
+<h2><strong>The Action Template</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Action_Template.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Action_Template.png">
 </div>
-<p>The <strong>Action Template</strong> helps the meeting to set clear follow-up
-supports and actions needed by the people supporting the student. Actions
-should change the <em>'What’s not working'</em> elements for the student,
-moving him/her closer to the eventual post-school goals<strong>.</strong>
+<p>The Action Template sets clear follow-up supports and actions including
+curriculum needed by the people supporting the student. These should move
+the student closer to the eventual post-school goals<strong>.</strong>
 </p>
 <p></p>
 <p></p>
