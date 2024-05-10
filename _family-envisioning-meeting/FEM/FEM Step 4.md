@@ -7,19 +7,22 @@ third_nav_title: FEM
 ---
 <h1><strong>Using the Outcome Sequence</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Step_4_Timer.png">
+<img style="width: 100%" height="auto" width="100%" alt="Time Progress Bar for Step 4" src="/images/Step_4.png">
 </div>
-<p><strong>^Timebar needs to change!</strong>
-</p>
-<p></p>
-<h3><strong>The Outcome Sequence </strong></h3>
+<h3><strong>The Outcome Sequence</strong></h3>
 <p>The facilitator leads the participants through the two stages of the Outcome
 Sequence:</p>
-<p>A. Identifying Priority Areas<em> (Outcome Sequence Steps 1-2) </em>
+<ul data-tight="true" class="tight">
+<li>
+<p>Identifying Priority Areas<em> (Outcome Sequence Steps 1-2) </em>
 </p>
-<p>B. Developing Goals and Checking them <em>(Outcome Sequence Steps 3-5) </em>
+</li>
+<li>
+<p>Developing Goals and Checking them <em>(Outcome Sequence Steps 3-5)</em>
 </p>
 <p></p>
+</li>
+</ul>
 <h3>Identifying Priority Areas</h3>
 <p>The facilitator leads the participants to identify the student’s priority
 areas through steps 1-2 of the Outcome Sequence:</p>
