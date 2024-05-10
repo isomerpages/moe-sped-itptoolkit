@@ -18,8 +18,7 @@ the <strong><em>Action plan template</em></strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Action Template and Support Sequence" src="/images/Support_Sequence_v2.png">
 </div>
-<p>The <strong><em>Support Sequence</em></strong> outlines different modes
-of support:</p>
+<p>The <strong><em>Support Sequence</em></strong> outlines 7 modes of support:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Yourself, i.e. the student</p>
@@ -46,7 +45,6 @@ of support:</p>
 <p></p>
 <p>Refer to these <a href="/support-sequence-guiding-questions/" rel="noopener noreferrer nofollow" target="_blank">guiding questions</a> for
 more ideas of how to generate possible supports with the Support Sequence.</p>
-<p></p>
 <p>After determining the possible supports, the facilitator leads the participants
 to develop an action plan using <strong>the <em>Action plan template.</em></strong>
 </p>
