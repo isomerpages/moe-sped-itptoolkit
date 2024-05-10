@@ -7,15 +7,16 @@ third_nav_title: FEM
 ---
 <h1>Using the Support Sequence to Determine Actions</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Step_6_Timer.png">
+<img style="width: 100%" height="auto" width="100%" alt="Time Progress bar for Step 5" src="/images/Step_5.png">
 </div>
 <p>The facilitator leads the participants in brainstorming supports and actions
 that help the student to &nbsp;achieve &nbsp;the post-school goals. This
 is done through &nbsp;the<strong> <em>Support Sequence</em></strong> and
 the <strong><em>Action plan template</em></strong>.</p>
-<h2><strong>The Support Sequence</strong></h2>
+<h2><strong>The Support Sequence and Action plan template</strong></h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Visual of Action Template and Support Sequence" src="/images/FEM_Step_6_Action_Template_and_SS.png">
+<img style="width: 100%" height="auto" width="100%" alt="Action Template and Support Sequence" src="/images/Support_Sequence_v2.png">
 </div>
 <p>The <strong><em>Support Sequence</em></strong> outlines different modes
 of support:</p>
@@ -47,15 +48,15 @@ of support:</p>
 more ideas of how to generate possible supports with the Support Sequence.</p>
 <p></p>
 <p>After determining the possible supports, the facilitator leads the participants
-to develop an action plan using <strong>the <em>Action template.</em></strong>
+to develop an action plan using <strong>the <em>Action plan template.</em></strong>
 </p>
-<h2><strong>The Action Template</strong></h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Action_Template.png">
+<img style="width: 100%" height="auto" width="100%" alt="Action Plan Template" src="/images/Action_Template_v2.png">
 </div>
-<p>The Action Template sets clear follow-up supports and actions including
-curriculum needed by the people supporting the student. These should move
-the student closer to the eventual post-school goals<strong>.</strong>
+<p>The <strong>Action plan Template</strong> sets clear follow-up supports
+and actions including curriculum needed by the people supporting the student.
+These should move the student closer to the eventual post-school goals<strong>.</strong>
 </p>
 <p></p>
 <p></p>
