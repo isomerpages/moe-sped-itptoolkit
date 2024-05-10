@@ -14,7 +14,7 @@ third_nav_title: FEM
 Sequence:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Identifying Priority Areas<em> (Outcome Sequence Steps 1-2) </em>
+<p>Identifying Priority Areas<em> (Outcome Sequence Steps 1-2)</em>
 </p>
 </li>
 <li>
