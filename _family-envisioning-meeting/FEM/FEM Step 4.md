@@ -20,9 +20,12 @@ Sequence:</p>
 <li>
 <p>Developing Goals and Checking them <em>(Outcome Sequence Steps 3-5)</em>
 </p>
-<p></p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Outcome Sequence" src="/images/FEM_Step_5.png">
+</div>
 <h3>Identifying Priority Areas</h3>
 <p>The facilitator leads the participants to identify the student’s priority
 areas through steps 1-2 of the Outcome Sequence:</p>
@@ -46,13 +49,13 @@ strengths, assets and qualities?</p>
 <p>What’s Not Working?</p>
 </li>
 </ol>
-<p>The facilitator leads the process of determining the priority areas based
-on the highest number of votes.</p>
-<p>The process for FEM Step 4 is explained in the visual below.</p>
+<p>The facilitator determines the priority areas through the <strong>3 Dots Voting Process:</strong> This
+process is further explained in the visual below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="3 Dots Voting Diagram" src="/images/UPDATED_3_Dots_voting.jpg">
 </div>
+<p></p>
 <p>&lt;&lt;&lt;&lt;&lt; DESIGN ELEMENT &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
 <p>TIP: Voting with Different Stickers</p>
 <p>During the voting process, the student can be given larger or different-coloured
