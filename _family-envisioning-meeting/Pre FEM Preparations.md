@@ -21,8 +21,9 @@ and send them <strong>the Preparation Booklets</strong> about 6 weeks before
 FEM. The Preparation Booklets serve as an effective PCP tool to help meeting
 participants to <strong>understand what FEM is about</strong>.</p>
 <p></p>
-<p><em>&lt;Include Graphic Showing a group meeting beside the text above&gt;</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="Room giving contributions" src="/images/TGS_step_2_photo.jpg">
+</div>
 <p></p>
 <h4>What are Preparation Booklets?</h4>
 <p>Preparation<strong> </strong>booklets<strong> </strong>prompt everyone
@@ -68,9 +69,15 @@ important to the student.</p>
 <li>
 <p><strong>Professionals</strong>: Share with them information about the
 student’s background and any concerns raised by the family</p>
-<p></p>
 </li>
 </ul>
+<p></p>
+<blockquote>
+<p><em>"I think that person-centered planning principles should guide our teaching as well. In PCP, the student (with family)'s voice is heard and this is the key to planning for teaching and learning. Schools and families can co-create goals and support the generalisation of skills. All planning can be based on strengths, preferences, and interests and learning needs, within the curriculum design of Teaching and Learning."</em>
+</p>
+<p></p>
+<p><strong>Joseph</strong>, Transition Planning Coordinator (Eden School)</p>
+</blockquote>
 <h3><strong>Preparing the Room</strong></h3>
 <p>Besides the people attending the meeting, the environment where the meeting
 is taking place is crucial.</p>
