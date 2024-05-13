@@ -40,10 +40,10 @@ on post-its which they paste on respective flipcharts<strong>.</strong>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="CPASS East Conducting FEM" src="/images/CPASS__East__FEM.jpg">
 </div>
-<p></p>
+<p><em>Source:</em> FEM at CPASS (East)</p>
 <p></p>
 <blockquote>
-<p><em>The PCP session was beneficial as teachers, therapists, and parents collaborated and contributing their insightful perceptions and observations. The preparation beforehand proved equally important, aiding parent and child in outlining priorities for the discussions. Overall, the exercise was helpful for all parties involved, fostering forward planning and realistic goal-setting for the child. </em>
+<p><em>The PCP session was beneficial as teachers, therapists, and parents collaborated and contributing their insightful perceptions and observations. The preparation beforehand proved equally important, aiding parent and child in outlining priorities for the discussions. Overall, the exercise was helpful for all parties involved, fostering forward planning and realistic goal-setting for the child.</em>
 </p>
 <p>Mrs Giang, Parent</p>
 </blockquote>
