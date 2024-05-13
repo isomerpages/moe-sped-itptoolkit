@@ -81,3 +81,11 @@ goals through steps 3-5 of the Outcome Sequence: &nbsp;</p>
 </div>
 <p></p>
 <p></p>
+<blockquote>
+<p><em>"I think that person-centered planning principles should guide our teaching as well. In PCP, the student (with family)'s voice is heard and this is the key to planning for teaching and learning. Schools and families can co-create goals and support the generalisation of skills. All planning can be based on strengths, preferences, and interests and learning needs, within the curriculum design of Teaching and Learning."</em>
+</p>
+<p></p>
+<p><strong>Joseph</strong>, Transition Planning Coordinator (Eden School)</p>
+</blockquote>
+<p></p>
+<p></p>
