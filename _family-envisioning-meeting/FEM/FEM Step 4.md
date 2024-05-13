@@ -81,8 +81,8 @@ goals through steps 3-5 of the Outcome Sequence: &nbsp;</p>
 </div>
 <p></p>
 <p></p>
-<blockquote>
-<p></p>
-</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="GOS at a House" src="/images/GOS_7.jpg">
+</div>
 <p></p>
 <p></p>
