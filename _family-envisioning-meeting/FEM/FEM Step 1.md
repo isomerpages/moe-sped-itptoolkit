@@ -40,7 +40,11 @@ during the meeting.&nbsp;&nbsp;</p>
 <li>
 <p>It is important that all participants understand and agree with these
 rules before starting.&nbsp;</p>
-<p></p>
 </li>
 </ul>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MINDS CSS Welcome" src="/images/MINDS_CSS.jpg">
+</div>
+<p><em>Source: </em>FEM at MINDS (Caregiver Support Services)</p>
