@@ -59,9 +59,19 @@ These should move the student closer to the eventual post-school goals<strong>.<
 <p></p>
 <p></p>
 <blockquote>
-<p><em>"I think that person-centered planning principles should guide our teaching as well. In PCP, the student (with family)'s voice is heard and this is the key to planning for teaching and learning. Schools and families can co-create goals and support the generalisation of skills. All planning can be based on strengths, preferences, and interests and learning needs, within the curriculum design of Teaching and Learning."</em>
+<p><em>Although it takes a village to raise a child, not all families have the support of a ‘village’. There is a need to help them build that village sometimes.</em>
 </p>
-<p><strong>Joseph</strong>, Transition Planning Coordinator (Eden School)</p>
+<p></p>
+<p><em>During the process, I really had to put myself in the shoes of the caregivers and see through their lens in order to genuinely help them understand the importance of envisioning for their children through action plans. Most caregivers are more cooperative when we believe in their vision for their child, no matter how impossible it may seem now.</em>
+</p>
+<p></p>
+<p><strong>Chan Mei Leng</strong>, Transition Planning Coordinator (MINDS
+Towner Garden School)</p>
+</blockquote>
+<p></p>
+<p></p>
+<blockquote>
+<p></p>
 </blockquote>
 <p></p>
 <p></p>
