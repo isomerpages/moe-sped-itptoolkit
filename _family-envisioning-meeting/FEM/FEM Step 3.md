@@ -37,7 +37,19 @@ to me?’ &nbsp;</p>
 on post-its which they paste on respective flipcharts<strong>.</strong>
 </p>
 <p></p>
-<p>&lt;&lt;&lt;&lt;&lt; Design Element &gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="CPASS East Conducting FEM" src="/images/CPASS__East__FEM.jpg">
+</div>
+<p></p>
+<p></p>
+<blockquote>
+<p><em>The PCP session was beneficial as teachers, therapists, and parents collaborated and contributing their insightful perceptions and observations. The preparation beforehand proved equally important, aiding parent and child in outlining priorities for the discussions. Overall, the exercise was helpful for all parties involved, fostering forward planning and realistic goal-setting for the child.</em>
+</p>
+<p>Mrs Giang (Parent)</p>
+</blockquote>
+<p></p>
+<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+Design Element &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
 <p>PCP SPOTLIGHT: Important TO and Important FOR</p>
 <p>In eliciting contributions from participants, it is important for the
 facilitator to aim for a balance of views between what is important TO
@@ -68,6 +80,6 @@ the student and what is important FOR the student.&nbsp;&nbsp;</p>
 <p>Eating more fruits and vegetables</p>
 <p>Not binge-watching dramas</p>
 <p>Not scrolling mindlessly on my phone&nbsp;</p>
-<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
+<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
 <p></p>
 <p></p>
