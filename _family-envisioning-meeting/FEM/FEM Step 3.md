@@ -43,9 +43,9 @@ on post-its which they paste on respective flipcharts<strong>.</strong>
 <p></p>
 <p></p>
 <blockquote>
-<p><em>The PCP session was beneficial as teachers, therapists, and parents collaborated and contributing their insightful perceptions and observations. The preparation beforehand proved equally important, aiding parent and child in outlining priorities for the discussions. Overall, the exercise was helpful for all parties involved, fostering forward planning and realistic goal-setting for the child.</em>
+<p><em>The PCP session was beneficial as teachers, therapists, and parents collaborated and contributing their insightful perceptions and observations. The preparation beforehand proved equally important, aiding parent and child in outlining priorities for the discussions. Overall, the exercise was helpful for all parties involved, fostering forward planning and realistic goal-setting for the child. </em>
 </p>
-<p>Mrs Giang (Parent)</p>
+<p>Mrs Giang, Parent</p>
 </blockquote>
 <p></p>
 <p>&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
