@@ -129,23 +129,8 @@ a conducive atmosphere for open communication.</p>
 his/her preferences into account!&nbsp;This is the student’s meeting and
 he/she should own this part of the process as well.</p>
 <p></p>
-<p>&lt;&lt;&lt;&lt;&lt; DESIGN ELEMENT &gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
-<p>TIPS FOR SETTING UP A ROOM FOR FEM</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ask the student about what music he would like to have playing in the
-background and have it on loop to welcome participants when they enter
-the meeting</p>
-</li>
-<li>
-<p>Put up photos of the student doing what matters to him or her around the
-walls</p>
-</li>
-<li>
-<p>Prior to the meeting, you can choose to extract information from the preparation
-booklets and capture it in the form of Post-its to stick on the respective
-flip charts</p>
-</li>
-</ul>
-<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Pro Tip: For setting up a room in FEM" src="/images/Pro_Tip__Setting_up_Room__Pre_FEM__v1.png">
+</div>
 <p></p>
