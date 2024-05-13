@@ -36,13 +36,9 @@ room.</p>
 on post-its which they paste on respective flipcharts<strong>.</strong>
 </p>
 <p></p>
-<p>&lt;&lt;&lt; DESIGN FEATURE &gt;&gt;&gt;&gt;&gt;</p>
-<p>TIP: <strong>Put up Contributions before the Meeting starts!</strong>
-</p>
-<p>Instead of having blank standing flipcharts, you can choose to extract
-contributions from the Preparation Booklets to stick on the respective
-flipcharts in advance. This may warm participants up and encourage them
-to contribute further.</p>
-<p>&lt;&lt;&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 55%;" height="auto" width="100%" alt="Pro Tip: Put up contributions before the meeting starts!" src="/images/Pro_Tip__Flip_Charts__FEM_Step2__v1.png">
+</div>
 <p></p>
 <p></p>
