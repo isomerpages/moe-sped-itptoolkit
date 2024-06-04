@@ -10,8 +10,6 @@ third_nav_title: Resources for SPED Schools
 <h3>Person-Centered Planning Tools</h3>
 <p>Tool 1</p>
 <p>Tool 2</p>
-<p><a href="files/ITP Toolkit/ITP_Toolkit__Ver_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Checklist</a>
-</p>
 <p></p>
 <p><a href="/files/ITP Toolkit/ITP_Toolkit__Ver_3_.pdf" rel="noopener noreferrer nofollow" target="_blank">Check List</a>
 </p>
