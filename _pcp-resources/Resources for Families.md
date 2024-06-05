@@ -16,6 +16,7 @@ the life stages.</p>
 <p><a href="https://www.enablingguide.sg/" rel="noopener noreferrer nofollow" target="_blank">Enabling Guide | A guide for persons with disabilities</a>
 </p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sge_post_18_interactive_guide.png">
 </div>
