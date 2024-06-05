@@ -14,7 +14,7 @@ of the purposes and processes of the Individual Education Plan (IEP) and
 Individual Transition Plan (ITP) and how they are aligned, to support schools
 in planning and implementing school-wide person-centred IEPs and ITPs for
 all students.&nbsp;</p>
-<p><a href="." class="Hyperlink SCXW253498063 BCX8" rel="noreferrer noopener" target="_blank"><u>MOE | Individual Planning Guide (2020)</u></a>&nbsp;</p>
+<p><a href="/files/Resources for SPED Schools/MOE Resources/MOE_Individual_Planning_Guide__2020___compressed_.pdf" class="Hyperlink SCXW253498063 BCX8" rel="noreferrer noopener" target="_blank"><u>MOE | Individual Planning Guide (2020)</u></a>&nbsp;</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
