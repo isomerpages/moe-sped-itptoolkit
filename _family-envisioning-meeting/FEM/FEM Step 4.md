@@ -5,11 +5,10 @@ variant: tiptap
 description: FEM Step 4
 third_nav_title: FEM
 ---
-<h1><strong>Using the Outcome Sequence</strong></h1>
+<h3><strong>Using the Outcome Sequence</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Time Progress Bar for Step 4" src="/images/Step_4.png">
 </div>
-<h3><strong>The Outcome Sequence</strong></h3>
 <p>The facilitator leads the participants through the two stages of the Outcome
 Sequence:</p>
 <ul data-tight="true" class="tight">
@@ -25,7 +24,7 @@ Sequence:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Outcome Sequence" src="/images/FEM_Step_5.png">
 </div>
-<h3>Identifying Priority Areas</h3>
+<h4>Identifying Priority Areas</h4>
 <p>The facilitator leads the participants to identify the student’s priority
 areas through steps 1-2 of the Outcome Sequence:</p>
 <p><strong>Step 1</strong>: Determine what matters, who matters and where
@@ -62,7 +61,7 @@ their voice in shaping the direction of the discussion. </p>
 towards prioritising our student’s input in the decision-making process.&nbsp;</p>
 <p>&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
 &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
-<h3>Developing Goals and Checking them</h3>
+<h4>Developing Goals and Checking TThem</h4>
 <p>The Facilitator leads participants in crafting the student’s post-school
 goals through steps 3-5 of the Outcome Sequence: &nbsp;</p>
 <p><strong>Step 3</strong>: What is the positive change you want to see?
