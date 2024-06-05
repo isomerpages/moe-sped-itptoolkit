@@ -13,7 +13,7 @@ in his/her preparation booklet, SPED educators can also integrate them
 into <strong>the curriculum</strong>. This thereby offers them the flexibility
 to utilise the tools beyond formal meetings like FEM.&nbsp;</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/Resources for SPED Schools/PCP Tools/One_Page_Profile__words_and_pictures_.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">One-Page Profile</div><div class="isomer-card-description">This tool distills key information about the student, including their strengths, preferences, interests, and the support they required. It facilitates more personal interactions.</div><div class="isomer-card-link">Download this tool here!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="[Download this tool here!](/files/Resources for SPED Schools/PCP Tools/One_Page_Profile__words)_and_pictures_.pdf)" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">One-Page Profile</div><div class="isomer-card-description">This tool distills key information about the student, including their strengths, preferences, interests, and the support they required. It facilitates more personal interactions.</div><div class="isomer-card-link">Download this tool here!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/files/Resources for SPED Schools/PCP Tools/Communication_Chart.pdf" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -58,7 +58,4 @@ preferences.</div>
 </div>
 </a>
 </div>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
