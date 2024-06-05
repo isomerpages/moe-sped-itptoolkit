@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: FEM
 ---
-<h1>Introducing Everyone</h1>
+<h3><strong>Introducing Everyone</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Step_1_Timer.png">
 </div>
@@ -24,7 +24,7 @@ third_nav_title: FEM
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="Graphic summary of principles for creating a welcoming environment for FEM" src="/images/FEM_Step_1.png">
 </div>
-<h3><strong>What are Ground Rules?</strong></h3>
+<h4><strong>What are Ground Rules?</strong></h4>
 <p>Ground rules<strong> </strong>are important for setting the right tone
 for the meeting as well as reminding everyone that it is a safe, respectful
 and intentional space.&nbsp;&nbsp;</p>
