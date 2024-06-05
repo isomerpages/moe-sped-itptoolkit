@@ -8,10 +8,9 @@ description: Write-up on Quality Person-Centered Information
 should strive to offer <strong>quality person-centered information</strong>.
 High quality information helps the meeting to develop richer and stronger
 outcomes.</p>
-<h4><strong>What makes good quality person-centered information?&nbsp; </strong></h4>
+<h3><strong>What makes good quality person-centered information?&nbsp;</strong></h3>
 <p>‘Quality check (QC)’&nbsp; your information through this checklist of
 questions…</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
