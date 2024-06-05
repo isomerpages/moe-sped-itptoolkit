@@ -17,7 +17,6 @@ graduate</p>
 </li>
 </ul>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Living, Learning and Working Outcomes + VISION: Active in the Community, Valued in Society" src="/images/Transition_Planning_Outcomes.jpg">
 </div>
