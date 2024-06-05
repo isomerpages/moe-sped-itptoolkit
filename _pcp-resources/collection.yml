@@ -1,5 +1,5 @@
 collections:
-  pcp-resourcesa:
+  pcp-resources:
     output: true
     order:
       - Resources for Families/.keep
