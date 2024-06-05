@@ -5,7 +5,7 @@ variant: tiptap
 description: FEM Step 3
 third_nav_title: FEM
 ---
-<h1>Discussing <em>What's Working</em> and <em>What's Not Working</em></h1>
+<h3><strong>Discussing <em>What's Working</em> and <em>What's Not Working</em></strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Step_3_Timer.png">
 </div>
