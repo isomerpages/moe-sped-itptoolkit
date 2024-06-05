@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Resources for Families.md
-      - Resources for Families/.keep
       - Resources for SPED Schools/.keep
       - Resources for SPED Schools/Preparation Booklets.md
       - Resources for SPED Schools/PCP Tools.md
