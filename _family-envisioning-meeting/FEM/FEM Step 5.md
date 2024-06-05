@@ -42,9 +42,9 @@ the <strong><em>Action plan template</em></strong>.</p>
 <p>Specialised Support</p>
 </li>
 </ul>
-<p></p>
 <p>Refer to these <a href="/support-sequence-guiding-questions/" rel="noopener noreferrer nofollow" target="_blank">guiding questions</a> for
 more ideas of how to generate possible supports with the Support Sequence.</p>
+<p></p>
 <p>After determining the possible supports, the facilitator leads the participants
 to develop an action plan using <strong>the <em>Action plan template.</em></strong>
 </p>
@@ -57,7 +57,6 @@ and actions including curriculum needed by the people supporting the student.
 These should move the student closer to the eventual post-school goals<strong>.</strong>
 </p>
 <p></p>
-<p></p>
 <blockquote>
 <p><em>Although it takes a village to raise a child, not all families have the support of a ‘village’. There is a need to help them build that village sometimes.</em>
 </p>
@@ -68,10 +67,4 @@ These should move the student closer to the eventual post-school goals<strong>.<
 <p><strong>Chan Mei Leng</strong>, Transition Planning Coordinator (MINDS
 Towner Garden School)</p>
 </blockquote>
-<p></p>
-<p></p>
-<blockquote>
-<p></p>
-</blockquote>
-<p></p>
 <p></p>
