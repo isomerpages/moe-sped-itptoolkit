@@ -27,7 +27,6 @@ student in the following areas:</p>
 <p></p>
 <p>These 4 areas are typically framed as standing flipcharts around the meeting
 room.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="5 Flip Charts for FEM" src="/images/5_Flip_Charts.jpg">
 </div>
@@ -36,9 +35,7 @@ room.</p>
 on post-its which they paste on respective flipcharts<strong>.</strong>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="Pro Tip: Put up contributions before the meeting starts!" src="/images/Pro_Tip__Flip_Charts__FEM_Step2__v1.png">
 </div>
-<p></p>
 <p></p>
