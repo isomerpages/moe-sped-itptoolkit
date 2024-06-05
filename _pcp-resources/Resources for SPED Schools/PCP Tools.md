@@ -5,43 +5,16 @@ variant: tiptap
 description: Person-centered planning tools
 third_nav_title: Resources for SPED Schools
 ---
-<p><strong>Person-centered Planning (PCP) Tools</strong> are a set of templates
-designed to structure <strong>meaningful conversations</strong> and <strong>capture essential information </strong>for
+<p>Person-centered Planning (PCP) Tools are a set of templates designed to
+structure <strong>meaningful conversations</strong> and <strong>capture essential information </strong>for
 the person-centered planning process.</p>
 <p>While these tools can be used to help <strong>the student</strong> fill
 in his/her preparation booklet, SPED educators can also integrate them
 into <strong>the curriculum</strong>. This thereby offers them the flexibility
 to utilise the tools beyond formal meetings like FEM.&nbsp;</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/Resources for SPED Schools/PCP Tools/One_Page_Profile__words)_and_pictures_.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/one_page_profile.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">One-Page Profile</div><div class="isomer-card-description">This tool distills key information about the student, including their strengths, preferences, interests, and the support they required. It facilitates more personal interactions.</div><div class="isomer-card-link">Click to download this tool here!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/files/Resources for SPED Schools/PCP Tools/Communication_Chart.pdf" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/communication_chart.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Communication Chart</div>
-<div class="isomer-card-description">This tool documents the student’s ways of expressing their thoughts and
-feelings. It bridges communication gaps, especially for students with limited
-verbal communication abilities.</div>
-<div class="isomer-card-link">Click to download this tool here!</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/files/Resources for SPED Schools/PCP Tools/Relationship_Circle.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/relationship_circle.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Relationship Circle</div><div class="isomer-card-description">This tool visually depicts the student's relationships with others. It ensures an understanding of the student’s social ecosystem, allowing targeted efforts to strengthen their existing relationships and build new ones.</div><div class="isomer-card-link">Click to download this tool here!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/files/Resources for SPED Schools/PCP Tools/Decision_Making_Agreement.pdf" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/decision_making_agreement.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Decision-Making Agreement</div>
-<div class="isomer-card-description">The tool identifies the key decisions, how the student should be involved,
-and who holds the final say. It examines how much choice and control the
-student has, and realigns the balance of decision-making power.</div>
-<div class="isomer-card-link">Click to download this tool here!</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/files/Resources for SPED Schools/PCP Tools/Decision_Making_Profile.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/decision_making_profile.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Decision-Making Profile</div><div class="isomer-card-description">This tool identifies how the student receives, processes, and responds to information. It highlights effective communication methods and presents choices to the student, thereby empowering them to make decisions. It can be used with One-Page Profile and Communication Chart.</div><div class="isomer-card-link">Click to download this tool here!</div></div></a>
+<p>Check out what each PCP tool does below!</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/Resources for SPED Schools/PCP Tools/One_Page_Profile__words)_and_pictures_.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/one_page_profile.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">One-Page Profile</div><div class="isomer-card-description">This tool distills key information about the student, including their strengths, preferences, interests, and the support they required. It facilitates more personal interactions.</div><div class="isomer-card-link">Click here to download this tool!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/files/Resources for SPED Schools/PCP Tools/Good_Day__Bad_Day.pdf" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -54,8 +27,38 @@ student has, and realigns the balance of decision-making power.</div>
 It allows for proactive planning to maximise the occurrence of good days.
 It can be used with One-Page Profile to elicit the student’s needs and
 preferences.</div>
-<div class="isomer-card-link">Click to download this tool here!</div>
+<div class="isomer-card-link">Click here to download this tool!</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/files/Resources for SPED Schools/PCP Tools/Communication_Chart.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/communication_chart.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Communication Chart</div><div class="isomer-card-description">This tool documents the student’s ways of expressing their thoughts and feelings. It bridges communication gaps, especially for students with limited verbal communication abilities.</div><div class="isomer-card-link">Click here to download this tool!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/files/Resources for SPED Schools/PCP Tools/Relationship_Circle.pdf" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/relationship_circle.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Relationship Circle</div>
+<div class="isomer-card-description">This tool visually depicts the student's relationships with others. It
+ensures an understanding of the student’s social ecosystem, allowing targeted
+efforts to strengthen their existing relationships and build new ones.</div>
+<div class="isomer-card-link">Click here to download this tool!</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/files/Resources for SPED Schools/PCP Tools/Decision_Making_Agreement.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/decision_making_agreement.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Decision-Making Agreement</div><div class="isomer-card-description">The tool identifies the key decisions, how the student should be involved, and who holds the final say. It examines how much choice and control the student has, and realigns the balance of decision-making power.</div><div class="isomer-card-link">Click here to download this tool!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/files/Resources for SPED Schools/PCP Tools/Decision_Making_Profile.pdf" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/decision_making_profile.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Decision-Making Profile</div>
+<div class="isomer-card-description">This tool identifies how the student receives, processes, and responds
+to information. It highlights effective communication methods and presents
+choices to the student, thereby empowering them to make decisions. It can
+be used with One-Page Profile and Communication Chart.</div>
+<div class="isomer-card-link">Click here to download this tool!</div>
 </div>
 </a>
 </div>
 <p></p>
+<p>You may also download the compiled set of PCP tools <a href="/files/Resources for SPED Schools/PCP Tools/Person_centred_Planning__PCP__Tools.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
