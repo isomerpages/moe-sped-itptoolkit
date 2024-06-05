@@ -5,7 +5,7 @@ variant: tiptap
 description: FEM Step 5
 third_nav_title: FEM
 ---
-<h1>Using the Support Sequence to Determine Actions</h1>
+<h3>Using the Support Sequence to Determine Actions</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Time Progress bar for Step 5" src="/images/Step_5.png">
 </div>
@@ -13,8 +13,6 @@ third_nav_title: FEM
 that help the student to &nbsp;achieve &nbsp;the post-school goals. This
 is done through &nbsp;the<strong> <em>Support Sequence</em></strong> and
 the <strong><em>Action plan template</em></strong>.</p>
-<h2><strong>The Support Sequence and Action plan template</strong></h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Action Template and Support Sequence" src="/images/Support_Sequence_v2.png">
 </div>
