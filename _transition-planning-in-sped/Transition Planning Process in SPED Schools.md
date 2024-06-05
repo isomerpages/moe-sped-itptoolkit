@@ -22,3 +22,8 @@ and transition teams in every school</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MINDS_Woodlands_Employment_Development_Centre.jpg">
+</div>
+<p><em>Source: MINDS Woodlands Employment Development Centre (WEDC)</em>
+</p>
