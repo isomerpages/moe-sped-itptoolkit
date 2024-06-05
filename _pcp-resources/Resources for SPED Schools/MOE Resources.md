@@ -15,4 +15,4 @@ all students.&nbsp;</p>
 <p>The <strong>Transition Planning Guide</strong> guides Special Education
 (SPED) schools to put in place, systems and processes for effective Transition
 Planning for students with special needs.&nbsp;</p>
-<p><a href="files/Resources for SPED Schools/MOE Resources/MOE_Transition_Planning_Guide__2017_.pdf" class="Hyperlink SCXW16098627 BCX8" rel="noreferrer noopener" target="_blank"><u>MOE | Transition Planning Guide (2017)</u></a>&nbsp;</p>
+<p><a href="/files/Resources for SPED Schools/MOE Resources/MOE_Transition_Planning_Guide__2017_.pdf" class="Hyperlink SCXW16098627 BCX8" rel="noreferrer noopener" target="_blank"><u>MOE | Transition Planning Guide (2017)</u></a>&nbsp;</p>
