@@ -42,8 +42,6 @@ during the meeting.&nbsp;&nbsp;</p>
 rules before starting.&nbsp;</p>
 </li>
 </ul>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MINDS CSS Welcome" src="/images/MINDS_CSS.jpg">
 </div>
