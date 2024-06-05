@@ -4,8 +4,7 @@ permalink: /transition-planning-in-sped/process/
 variant: tiptap
 description: Information about the Transition Planning Process at SPED Schools
 ---
-<h2>Overview of Transition Planning</h2>
-<p></p>
+<h3><strong>Overview of Transition Planning</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>The transition from school to post-school is challenging for students
@@ -21,9 +20,7 @@ years to prepare students and families for a smooth transition to&nbsp;post-scho
 and transition teams in every school</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MINDS_Woodlands_Employment_Development_Centre.jpg">
 </div>
-<p><em>Source: MINDS Woodlands Employment Development Centre (WEDC)</em>
-</p>
+<p><em>Source: </em>MINDS Woodlands Employment Development Centre (WEDC)</p>
