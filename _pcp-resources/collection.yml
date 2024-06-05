@@ -2,7 +2,6 @@ collections:
   pcp-resources:
     output: true
     order:
-      - Resources for Families/Example Title.md
       - Resources for Families/.keep
       - Resources for Families/SGE Post 18 Guide.md
       - Resources for SPED Schools/.keep
