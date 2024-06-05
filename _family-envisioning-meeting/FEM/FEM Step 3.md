@@ -36,7 +36,6 @@ to me?’ &nbsp;</p>
 <p>Participants may verbally express their views in turn or write their views
 on post-its which they paste on respective flipcharts<strong>.</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="CPASS East Conducting FEM" src="/images/CPASS__East__FEM.jpg">
 </div>
@@ -81,5 +80,3 @@ the student and what is important FOR the student.&nbsp;&nbsp;</p>
 <p>Not binge-watching dramas</p>
 <p>Not scrolling mindlessly on my phone&nbsp;</p>
 <p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
-<p></p>
-<p></p>
