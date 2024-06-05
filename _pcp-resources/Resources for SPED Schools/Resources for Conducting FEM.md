@@ -14,11 +14,12 @@ of key points and processes.</p>
 <p>&lt;embed Youtube link here&gt;</p>
 <hr>
 <h3><strong>Outcome Sequence</strong></h3>
-<p>The <strong>Outcome Sequence</strong>, along with the quality of goals
-checklist, outlines the steps to develop meaningful post-school goals</p>
+<p>The <a href="/files/Resources for SPED Schools/Resources for Conducting FEM/outcome_sequence.pdf" rel="noopener noreferrer nofollow" target="_blank">Outcome Sequence</a>,
+along with the quality of goals checklist, outlines the steps to develop
+meaningful post-school goals. It can printed as reference during FEM itself.</p>
 <hr>
 <h3><strong>FEM Checklist</strong></h3>
-<p>The <strong>FEM Checklist </strong>guides the member of the Transition
-Team to complete all the steps in Family Envisioning Meeting (FEM) within
-the suggested time. It can be a softcopy or printed as a hardcopy for use
-during FEM itself.</p>
+<p>The <a href="files/Resources for SPED Schools/Resources for Conducting FEM/FEM_Checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">FEM Checklist</a><strong> </strong>guides
+the member of the Transition Team to complete all the steps in Family Envisioning
+Meeting (FEM) within the suggested time. It can printed as reference during
+FEM itself.</p>
