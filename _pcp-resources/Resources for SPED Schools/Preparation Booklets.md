@@ -5,7 +5,7 @@ variant: tiptap
 description: Preparation Booklets Page
 third_nav_title: Resources for SPED Schools
 ---
-<p><a href="/_family-envisioning-meeting/Pre FEM Preparations.md" rel="noopener noreferrer nofollow" target="_blank">Preparation Booklets</a><strong> </strong>designed
+<p><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/example-folder/example-subfolder/subfolder-page/" rel="noopener noreferrer nofollow" target="_blank">Preparation Booklets</a><strong> </strong>designed
 for <strong>the Student</strong>, <strong>Families</strong> and <strong>Professionals</strong>,
 are typically completed before the Family Envisioning Meeting (FEM) to
 help participants prepare for the meeting.</p>
