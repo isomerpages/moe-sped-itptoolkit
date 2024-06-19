@@ -55,14 +55,7 @@ and actions including curriculum needed by the people supporting the student.
 These should move the student closer to the eventual post-school goals<strong>.</strong>
 </p>
 <p></p>
-<blockquote>
-<p><em>Although it takes a village to raise a child, not all families have the support of a ‘village’. There is a need to help them build that village sometimes.</em>
-</p>
-<p></p>
-<p><em>During the process, I really had to put myself in the shoes of the caregivers and see through their lens in order to genuinely help them understand the importance of envisioning for their children through action plans. Most caregivers are more cooperative when we believe in their vision for their child, no matter how impossible it may seem now.</em>
-</p>
-<p></p>
-<p><strong>Chan Mei Leng</strong>, Transition Planning Coordinator (MINDS
-Towner Garden School)</p>
-</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="Quote from Transition Planning Coordinator" src="/images/Mei_Ling_TPCQuote.png">
+</div>
 <p></p>
