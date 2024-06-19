@@ -32,6 +32,13 @@ sections:
       url: /individual-transition-plan/about-itp/
       alt: Image alt text
       image: /images/pexels_rdne_stock_project_7821682.jpg
+  - infopic:
+      title: FEM Video
+      id: infopic
+      description: Unfolding the FEM process
+      button: Watch FEM in action!
+      url: /example-folder/fem-overview/
+      alt: Image alt text
   - infobar:
       subtitle: Minister Chan Chun Sing
       id: infobar
