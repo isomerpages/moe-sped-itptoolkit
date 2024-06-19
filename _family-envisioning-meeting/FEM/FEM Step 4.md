@@ -52,16 +52,11 @@ process is further explained in the visual below.</p>
 <img style="width: 100%" height="auto" width="100%" alt="3 Dots Voting Diagram" src="/images/UPDATED_3_Dots_voting.jpg">
 </div>
 <p></p>
-<p>&lt;&lt;&lt;&lt;&lt; DESIGN ELEMENT &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
-<p>TIP: Voting with Different Stickers</p>
-<p>During the voting process, the student can be given larger or different-coloured
-stickers compared to other stakeholders, symbolising the significance of
-their voice in shaping the direction of the discussion. </p>
-<p>This visual distinction reminds us of the commitment that we must have
-towards prioritising our student’s input in the decision-making process.&nbsp;</p>
-<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
-&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
-<h4>Developing Goals and Checking TThem</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Pro Tip on Voting with different stickers" src="/images/Pro_Tip__Stickers__FEM_Step4_.png">
+</div>
+<h4>Developing Goals and Checking Them</h4>
 <p>The Facilitator leads participants in crafting the student’s post-school
 goals through steps 3-5 of the Outcome Sequence: &nbsp;</p>
 <p><strong>Step 3</strong>: What is the positive change you want to see?
@@ -69,9 +64,10 @@ goals through steps 3-5 of the Outcome Sequence: &nbsp;</p>
 <p><strong>Step 4</strong>: Make this into a specific outcome.</p>
 <p><strong>Step 5</strong>: Now check it! (<em>Assess the quality of the goal using the checklist</em>.)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="GOS at a House" src="/images/GOS_7.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="GOS at a House" src="/images/GOS_7.jpg">
 </div>
-<p></p>
+<p><em>Source: Eden School</em>
+</p>
 <h4>Quality Goals Checklist</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Checklist for writing Goals" src="/images/Goal_Checklist.png">
