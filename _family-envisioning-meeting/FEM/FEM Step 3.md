@@ -41,11 +41,10 @@ on post-its which they paste on respective flipcharts<strong>.</strong>
 </div>
 <p><em>Source:</em> FEM at CPASS (East)</p>
 <p></p>
-<blockquote>
-<p><em>The PCP session was beneficial as teachers, therapists, and parents collaborated and contributing their insightful perceptions and observations. The preparation beforehand proved equally important, aiding parent and child in outlining priorities for the discussions. Overall, the exercise was helpful for all parties involved, fostering forward planning and realistic goal-setting for the child.</em>
-</p>
-<p>Mrs Giang, Parent</p>
-</blockquote>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Quote from Parent" src="/images/Mrs_Giang_ParentQuote.png">
+</div>
+<p></p>
 <p></p>
 <p>&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
 Design Element &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
