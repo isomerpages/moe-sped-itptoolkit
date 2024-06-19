@@ -11,25 +11,29 @@ the meeting itself takes place.&nbsp; This involves preparing the meeting’s
 participants and ensuring that the room is properly set-up and ready with
 relevant resources for an effective FEM.</p>
 <h3><strong>Preparing the Participants</strong></h3>
-<h4>Determine who attends the Meeting</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Determine who attends the Meeting</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Besides the student, everyone important to the student should be present
 in this meeting. This may include the student’s family members, caregivers,
 significant adult figures, teachers or relevant professionals in the student’s
 life such as speech therapists, occupational therapists or job coaches.</p>
+<p></p>
 <p>Once the participants have been identified, book their time for the meeting
 and send them <strong>the Preparation Booklets</strong> about 6 weeks before
 FEM. The Preparation Booklets serve as an effective PCP tool to help meeting
 participants to <strong>understand what FEM is about</strong>.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="Room giving contributions" src="/images/TGS_step_2_photo.jpg">
 </div>
-<p></p>
-<h4>What are Preparation Booklets?</h4>
+</details>
+<details class="isomer-details">
+<summary>What are Preparation Booklets?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Preparation<strong> </strong>booklets<strong> </strong>prompt everyone
 attending the meeting to think about the student’s current reality, dreams,
 and aspirations.&nbsp;There are Preparation Booklets for the Student, Families
 and Professionals.</p>
+<p></p>
 <p>The booklets include:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -41,15 +45,26 @@ for FEM</p>
 </li>
 </ul>
 <p></p>
+<p>Refer to the Preparation Booklets <a href="/preparation-booklets/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
+<p></p>
 <p>Participants are encouraged to give <a href="/quality-person-centered-information/" rel="noopener noreferrer nofollow" target="_blank">detailed and specific input</a> in
 their booklets. This will make it easier to develop meaningful goals with
 the student during the meeting.</p>
+<p></p>
 <p>The information provided in the preparation booklets will be used during
 the FEM. Participants can share responses that they have put down in the
 booklets by writing them on Post-it notes and placing them on flip charts.</p>
+<p></p>
 <p>If someone important to the student is unable to attend FEM, this person’s
 input can still be <u>captured in the preparation booklets and then voiced by another meeting participant during FEM.</u>
 </p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Everyone plays an Important Role</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>Besides the Preparation Booklets, it is important to think about how all
 meeting participants can<strong> receive the necessary support to be an effective contributor during FEM. </strong>This
@@ -60,29 +75,39 @@ preference. Some ways to support meeting participants might include:</p>
 <p><strong>The Student</strong>: Ensure that the student’s One Page Profile
 is updated and use PCP tools to support the student in filling up his/her
 preparation booklet before the meeting</p>
+<p></p>
 </li>
 <li>
 <p><strong>The Student’s Family</strong>:&nbsp; Anticipate their needs before
 the meeting, and determine what will help them to understand what is most
 important to the student.</p>
+<p></p>
 </li>
 <li>
 <p><strong>Professionals</strong>: Share with them information about the
 student’s background and any concerns raised by the family</p>
+<p></p>
 </li>
 </ul>
+</div>
+</details>
+</div>
 <p></p>
-<blockquote>
-<p><em>"I think that person-centered planning principles should guide our teaching as well. In PCP, the student (with family)'s voice is heard and this is the key to planning for teaching and learning. Schools and families can co-create goals and support the generalisation of skills. All planning can be based on strengths, preferences, and interests and learning needs, within the curriculum design of Teaching and Learning."</em>
-</p>
+<p>&lt;Photo Here&gt;</p>
 <p></p>
-<p><strong>Joseph</strong>, Transition Planning Coordinator (Eden School)</p>
-</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="Quote from TPC" src="/images/Joseph_TPCQuote.png">
+</div>
 <h3><strong>Preparing the Room</strong></h3>
 <p>Besides the people attending the meeting, the environment where the meeting
 is taking place is crucial.</p>
-<h4>Resources for Facilitating FEM</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Resources for Facilitating FEM</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The following resources should be prepared in advance:</p>
+<p></p>
 <p><em>Standing Flip Chart Paper and Markers to write on them &nbsp;</em>
 </p>
 <ul data-tight="true" class="tight">
@@ -110,9 +135,14 @@ view will be given its proper ‘airtime’ and attention.&nbsp;</p>
 but it’s a process that shapes the culture of the FEM meeting: One that
 is safe, inclusive<strong> </strong>and where every individual is empowered
 to have a voice and make a choice.&nbsp;</p>
-<h4>Setting up the Space</h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Setting up the Space</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>A carefully designed space will encourage active participation and create
 a conducive atmosphere for open communication.</p>
+<p></p>
 <p>When setting up the space, consider factors such as:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -132,6 +162,10 @@ a conducive atmosphere for open communication.</p>
 <p></p>
 </li>
 </ul>
+</div>
+</details>
+</div>
+<p></p>
 <p>Remember to actively involve the student in setting up the room, taking
 his/her preferences into account!&nbsp;This is the student’s meeting and
 he/she should own this part of the process as well.</p>
