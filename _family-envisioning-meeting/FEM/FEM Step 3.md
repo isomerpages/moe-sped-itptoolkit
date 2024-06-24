@@ -46,36 +46,8 @@ on post-its which they paste on respective flipcharts<strong>.</strong>
 </div>
 <p></p>
 <p></p>
-<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
-Design Element &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
-<p>PCP SPOTLIGHT: Important TO and Important FOR</p>
-<p>In eliciting contributions from participants, it is important for the
-facilitator to aim for a balance of views between what is important TO
-the student and what is important FOR the student.&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PCP Spotlight on 'Important To vs Important For'" src="/images/Important_to_vs_Important_for.png">
+</div>
 <p></p>
-<p>What's Important TO the student?</p>
-<p>What makes life worth living for the student?</p>
-<p>What makes life pleasurable and fun?</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Examples:</p>
-</li>
-</ul>
-<p>Time to eat with his/her family</p>
-<p>Enjoy playing music</p>
-<p>Taking his/her dog for a walk&nbsp;&nbsp;</p>
-<p>Going for an annual holiday</p>
 <p></p>
-<p>What's Important FOR the student?</p>
-<p>What does the student ought to do?</p>
-<p>What do we nag the student to do more or less of?</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Examples:</p>
-</li>
-</ul>
-<p>Exercising</p>
-<p>Eating more fruits and vegetables</p>
-<p>Not binge-watching dramas</p>
-<p>Not scrolling mindlessly on my phone&nbsp;</p>
-<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
