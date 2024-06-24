@@ -9,8 +9,11 @@ should strive to offer <strong>quality person-centered information</strong>.
 High quality information helps the meeting to develop richer and stronger
 outcomes.</p>
 <h3><strong>What makes good quality person-centered information?&nbsp;</strong></h3>
-<p>‘Quality check (QC)’&nbsp; your information through this checklist of
-questions…</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="PCP Spotlight on 'Quality Person-Centered Information'" src="/images/Quality_Person_Centred_Info.png">
+</div>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -76,4 +79,7 @@ he sees it in action. He has done <strong>swimming</strong>, <strong>rollerbladi
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
