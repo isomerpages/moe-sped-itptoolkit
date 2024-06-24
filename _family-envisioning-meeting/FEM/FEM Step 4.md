@@ -89,43 +89,16 @@ goals through steps 3-5 of the Outcome Sequence: &nbsp;</p>
 </details>
 </div>
 <p></p>
-<h4>Identifying Priority Areas</h4>
-<p>The facilitator leads the participants to identify the student’s priority
-areas through steps 1-2 of the Outcome Sequence:</p>
-<p><strong>Step 1</strong>: Determine what matters, who matters and where
-matters to the student (and his/her aspirations). What are the student's
-strengths, assets and qualities?</p>
-<p><strong>Step 2:</strong> Determine <em>What is working</em> and<em> what is not working now</em>?</p>
-<p></p>
-<p>To do this, the facilitator invites participants to vote on their top
-3 choices from the following three areas:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Aspirations</p>
-</li>
-<li>
-<p>What’s Working?</p>
-</li>
-<li>
-<p>What’s Not Working?</p>
-</li>
-</ol>
-<p>The facilitator determines the priority areas through the <strong>3 Dots Voting Process:</strong> This
-process is further explained in the visual below.</p>
-<h4>Developing Goals and Checking Them</h4>
-<p>The Facilitator leads participants in crafting the student’s post-school
-goals through steps 3-5 of the Outcome Sequence: &nbsp;</p>
-<p><strong>Step 3</strong>: What is the positive change you want to see?
-(<em>This could be either changing what is not working or moving towards an aspiration</em>.)</p>
-<p><strong>Step 4</strong>: Make this into a specific outcome.</p>
-<p><strong>Step 5</strong>: Now check it! (<em>Assess the quality of the goal using the checklist</em>.)</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="GOS at a House" src="/images/GOS_7.jpg">
 </div>
 <p><em>Source: Eden School</em>
 </p>
-<h4>Quality Goals Checklist</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PCP Spotlight - Using the Outcome Sequence" src="/images/Using_outcome_sequence_with_golden_thread.png">
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
