@@ -79,10 +79,12 @@ goals through steps 3-5 of the Outcome Sequence: &nbsp;</p>
 </div>
 </details>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="GOS at a House" src="/images/GOS_7.jpg">
-</div>
 <p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="FEM taking place in a student's home" src="/images/GOS_7.jpg">
+</div>
 <p><em>Source: Eden School</em>
 </p>
 <hr>
