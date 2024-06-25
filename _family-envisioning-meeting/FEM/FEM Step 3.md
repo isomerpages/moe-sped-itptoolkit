@@ -42,12 +42,12 @@ on post-its which they paste on respective flipcharts<strong>.</strong>
 <p><em>Source:</em> FEM at CPASS (East)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Quote from Parent" src="/images/Mrs_Giang_ParentQuote.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Quote from Parent" src="/images/Mrs_Giang_ParentQuote.png">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PCP Spotlight on 'Important To vs Important For'" src="/images/Important_to_vs_Important_for.png">
+<img style="width: 100%" height="auto" width="100%" alt="PCP Spotlight: Important To vs Important For" src="/images/Important_to_vs_Important_for__2_.png">
 </div>
-<p></p>
 <p></p>
