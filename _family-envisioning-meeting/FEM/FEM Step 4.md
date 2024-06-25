@@ -76,24 +76,21 @@ goals through steps 3-5 of the Outcome Sequence: &nbsp;</p>
 (<em>This could be either changing what is not working or moving towards an aspiration</em>.)</p>
 <p><strong>Step 4</strong>: Make this into a specific outcome.</p>
 <p><strong>Step 5</strong>: Now check it! (<em>Assess the quality of the goal using the checklist</em>.)</p>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Quality Goals Checklist</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Checklist for writing Goals" src="/images/Goal_Checklist.png">
-</div>
 </div>
 </details>
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="GOS at a House" src="/images/GOS_7.jpg">
 </div>
+<p></p>
 <p><em>Source: Eden School</em>
 </p>
+<hr>
+<h4>Quality Goals Checklist</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Checklist for writing Goals" src="/images/Goal_Checklist.png">
+</div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PCP Spotlight - Using the Outcome Sequence" src="/images/Using_outcome_sequence_with_golden_thread.png">
