@@ -17,7 +17,7 @@ years to prepare students and families for a smooth transition to&nbsp;post-scho
 </li>
 <li>
 <p>This important process is supported by a Transition Planning Coordinator
-and transition teams in every school</p>
+and transition teams in every school.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
