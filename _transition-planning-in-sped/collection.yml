@@ -2,5 +2,6 @@ collections:
   transition-planning-in-sped:
     output: true
     order:
+      - Transition Planning Process.md
       - Transition Planning Process in SPED Schools.md
       - SPED Outcomes.md
