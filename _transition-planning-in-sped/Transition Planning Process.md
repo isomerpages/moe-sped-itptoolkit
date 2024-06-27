@@ -16,10 +16,9 @@ and student’s aspirations and concerns.</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the Planning phase, which starts
 when the student is 15 years old, the student together with his/her family
 goes through the Family Envisioning Meeting (FEM) for the first time and
-Individual Transition Planning (ITP) form is first developed.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The ITP is reviewed every year through
-the person-centred format and all relevant changes are updated in the ITP
-form.</p>
+Individual Transition Planning (ITP) form is first developed. The ITP is
+reviewed every year through the person-centred format and all relevant
+changes are updated in the ITP form.</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the Consolidating phase, the
 student is in his/her final schooling year and the student, and the family
 will go through the Multi-Agency Transition Meeting (MATM) using the ITP
