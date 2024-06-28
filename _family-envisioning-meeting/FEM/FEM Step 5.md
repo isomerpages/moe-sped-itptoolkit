@@ -13,9 +13,11 @@ third_nav_title: FEM
 that help the student to &nbsp;achieve &nbsp;the post-school goals. This
 is done through &nbsp;the<strong> <em>Support Sequence</em></strong> and
 the <strong><em>Action plan template</em></strong>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Action Template and Support Sequence" src="/images/Support_Sequence_v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Action Template with Support Sequence" src="/images/action_template.png">
 </div>
+<p></p>
 <p>The <strong><em>Support Sequence</em></strong> outlines 7 modes of support:</p>
 <ul data-tight="true" class="tight">
 <li>
