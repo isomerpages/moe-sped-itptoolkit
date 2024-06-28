@@ -47,7 +47,7 @@ ITP. It should be updated throughout the schooling year.</p>
 <hr>
 <h4><strong>My Person Details</strong></h4>
 <p>These sections capture personal details of the student and family/caregiver.</p>
-<h4><strong>My Aspirations </strong></h4>
+<h4><strong>My Aspirations</strong></h4>
 <p>To support students to prepare for post-school, we need to know their
 dreams and aspirations for the future.&nbsp;</p>
 <p>This section could include their work aspirations and the life they want
@@ -96,4 +96,11 @@ the goals after FEM to refine the goals and ensure they are specific and
 measurable.</p>
 <p>Actions and follow-ups from the Action Plan drawn up at<strong> FEM Step 5</strong>,
 are also transferred into this section.</p>
-<p></p>
+<h4><strong>Contributors to my ITP</strong></h4>
+<p>This section captures details of who has contributed to sharing of information
+that is captured in ITP, as well as monitoring and assessment to review
+the ITP.</p>
+<p>The ITP is co-developed with the views and hopes of people supporting
+the student. Everyone involved has a stake in the ITP. It is important
+to for relevant people involved in developing the plan to be recorded in
+this section.</p>
