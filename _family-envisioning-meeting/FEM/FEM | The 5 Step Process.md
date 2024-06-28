@@ -8,7 +8,8 @@ third_nav_title: FEM
 <p>The FEM is a 1 – 2 hour, 5-step process to guide conversations about forming
 student-centred goals and identifying supports.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="FEM 5 Steps Diagram" src="/images/PCP_steps.png">
+<img style="width: 100%" height="auto" width="100%" alt="5 FEM Steps" src="/images/5_steps.png">
 </div>
 <p></p>
