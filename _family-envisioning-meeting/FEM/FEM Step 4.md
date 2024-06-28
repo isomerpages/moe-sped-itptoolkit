@@ -95,7 +95,7 @@ goals through steps 3-5 of the Outcome Sequence: &nbsp;</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PCP Spotlight - Using the Outcome Sequence" src="/images/Using_outcome_sequence_with_golden_thread.png">
+<img style="width: 70%;" height="auto" width="100%" alt="PCP Spotlight on Using the Outcome Seq" src="/images/PCP_Spotlight_Outcome_seq_gold_thread.png">
 </div>
 <p></p>
 <p></p>
