@@ -25,7 +25,7 @@ student in the following areas:</p>
 <br><em>How the student might be effectively supported to reach his/her aspirations</em>
 </p>
 <p></p>
-<p>These 4 areas are typically framed as standing flipcharts around the meeting
+<p>These 5 areas are typically framed as standing flipcharts around the meeting
 room.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="5 Flip Charts for FEM" src="/images/5_Flip_Charts.jpg">
