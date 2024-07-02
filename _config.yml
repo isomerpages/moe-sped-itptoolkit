@@ -52,4 +52,4 @@ plugins:
 staging: https://staging-lite.d23hwjie6zhh6m.amplifyapp.com
 prod: https://master.d3j5q81zdtd1vn.amplifyapp.com
 facebook-pixel: ""
-resources_name: sped-news
+resources_name: seb-updates
