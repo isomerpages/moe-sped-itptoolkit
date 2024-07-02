@@ -15,7 +15,7 @@ is done through &nbsp;the<strong> <em>Support Sequence</em></strong> and
 the <strong><em>Action plan template</em></strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Action Template with Support Sequence" src="/images/action_template.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Action Template with Support Sequence" src="/images/action_template.png">
 </div>
 <p></p>
 <p>The <strong><em>Support Sequence</em></strong> outlines 7 modes of support:</p>
@@ -50,7 +50,7 @@ to develop an action plan using <strong>the <em>Action plan template.</em></stro
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Action Plan Template" src="/images/Action_Template_v2.png">
+<img style="width: 75%;" height="auto" width="100%" alt="Action Template" src="/images/action_template_2.png">
 </div>
 <p>The <strong>Action plan Template</strong> sets clear follow-up supports
 and actions including curriculum needed by the people supporting the student.
