@@ -35,10 +35,12 @@ sections:
   - infopic:
       title: FEM Video
       id: infopic
-      description: Unfolding the FEM process
+      description: Watch how a Family Envisioning Process takes place through a
+        step-by-step video of the process
       button: Watch FEM in action!
       url: /example-folder/fem-overview/
       alt: Image alt text
+      image: /images/watch_now.png
   - infobar:
       subtitle: Minister Chan Chun Sing
       id: infobar
