@@ -10,7 +10,7 @@ description: ""
 the meeting itself takes place.&nbsp; This involves preparing the meeting’s
 participants and ensuring that the room is properly set-up and ready with
 relevant resources for an effective FEM.</p>
-<h3><strong>Preparing the Participants</strong></h3>
+<h3><strong>a) Preparing the Participants</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Determine who attends the Meeting</summary>
@@ -99,7 +99,7 @@ student’s background and any concerns raised by the family</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="Quote from TPC" src="/images/Joseph_TPCQuote.png">
 </div>
-<h3><strong>Preparing the Room</strong></h3>
+<h3><strong>b) Preparing the Room</strong></h3>
 <p>Besides the people attending the meeting, the environment where the meeting
 is taking place is crucial.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
