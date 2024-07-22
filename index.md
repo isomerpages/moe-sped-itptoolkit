@@ -20,7 +20,7 @@ sections:
       title: Family Envisioning Meeting (FEM)
       id: infopic
       description: Bringing together everyone significant to a child to
-        collaboratively chart her future
+        collaboratively chart his or her future
       button: About FEM
       url: /example-folder/fem-overview/
       alt: FEM meeting in action at sch
