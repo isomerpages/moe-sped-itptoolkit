@@ -47,7 +47,4 @@ on post-its which they paste on respective flipcharts<strong>.</strong>
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="PCP Spotlight: Important To vs Important For" src="/images/Important_to_vs_Important_for__2_.png">
-</div>
 <p></p>
