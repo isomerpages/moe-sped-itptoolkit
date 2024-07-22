@@ -16,10 +16,10 @@ student in the following areas:</p>
 <br><em>The student’s thoughts, ambitions or dreams about his/her future.</em>
 </p>
 <p>c) <strong>What is important <u>TO</u> the student now? </strong>
-<br><em>What the student </em><strong><em>ought to</em></strong><em> learn, do or acquire because it will be beneficial in helping him or her to learn, live or work</em>
+<br><em>What the student </em><strong><em>appreciates, likes, or enjoys.</em></strong>
 </p>
 <p>d) <strong>What is important FOR the student now? </strong>
-<br><em>What the student </em><strong><em>appreciates, likes, or enjoys.</em></strong>
+<br><em>What the student </em><strong><em>ought to</em></strong><em> learn, do or acquire because it will be beneficial in helping him or her to learn, live or work</em>
 </p>
 <p>e) <strong>What does Good Support look like for the Student? </strong>
 <br><em>How the student might be effectively supported to reach his/her aspirations</em>
