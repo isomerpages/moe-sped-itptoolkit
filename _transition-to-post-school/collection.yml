@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - SPED Post18 Landscape.md
-      - MATM/Support and Resources.md
-      - MATM/Post MATM Follow Up.md
       - MATM/.keep
       - MATM/MATM Overview.md
       - MATM/MATM Preparations.md
+      - MATM/Post MATM Follow Up.md
+      - MATM/Support and Resources.md
