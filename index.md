@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Person-Centered Planning
+      title: Person-Centred Planning
       subtitle: Listening to their aspirations, strengths and concerns
       background: /images/CPASS.jpg
       variant: center
