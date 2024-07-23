@@ -35,7 +35,7 @@ sections:
   - infopic:
       title: FEM Video
       id: infopic
-      description: Watch how a Family Envisioning Process takes place through a
+      description: Watch how a Family Envisioning Meeting (FEM) takes place through a
         step-by-step video of the process
       button: Watch FEM in action!
       url: /example-folder/fem-overview/
