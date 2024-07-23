@@ -2,7 +2,7 @@ collections:
   transition-to-post-school:
     output: true
     order:
-      - SPED Post18 Landscape.md
+      - SPED Post 18.md
       - MATM/.keep
       - MATM/MATM Overview.md
       - MATM/MATM Preparations.md
