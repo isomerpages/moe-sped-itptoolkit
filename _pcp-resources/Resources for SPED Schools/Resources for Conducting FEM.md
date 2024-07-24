@@ -16,7 +16,8 @@ of key points and processes.</p>
 <h3><strong>Outcome Sequence</strong></h3>
 <p>The <a href="/files/Resources for SPED Schools/Resources for Conducting FEM/outcome_sequence.pdf" rel="noopener noreferrer nofollow" target="_blank">Outcome Sequence</a>,
 along with the quality of goals checklist, outlines the steps to develop
-meaningful post-school goals. It can printed as reference during FEM itself.</p>
+meaningful post-school goals. It can be printed as reference during FEM
+itself.</p>
 <hr>
 <h3><strong>FEM Checklist</strong></h3>
 <p>The <a href="/files/Resources for SPED Schools/Resources for Conducting FEM/Family_Envisioning_Meeting__FEM__Checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">FEM Checklist</a> guides
