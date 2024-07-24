@@ -19,7 +19,7 @@ along with the quality of goals checklist, outlines the steps to develop
 meaningful post-school goals. It can printed as reference during FEM itself.</p>
 <hr>
 <h3><strong>FEM Checklist</strong></h3>
-<p>The <a href="/files/Resources for SPED Schools/Resources for Conducting FEM/FEM_Checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">FEM Checklist</a><strong> </strong>guides
-the member of the Transition Team to complete all the steps in Family Envisioning
-Meeting (FEM) within the suggested time. It can printed as reference during
-FEM itself.</p>
+<p>The <a href="/files/Resources for SPED Schools/Resources for Conducting FEM/FEM_Checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">FEM Checkl</a>
+<a href="/files/Resources for SPED Schools/Resources for Conducting FEM/Family_Envisioning_Meeting__FEM__Checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">ist</a><strong> </strong>guides the member of the Transition Team to complete
+all the steps in Family Envisioning Meeting (FEM) within the suggested
+time. It can printed as reference during FEM itself.</p>
