@@ -13,15 +13,15 @@ third_nav_title: FEM
 student in the following areas:</p>
 <p>a) <strong>What do we appreciate about the student? &nbsp;</strong>&nbsp;</p>
 <p>b) <strong>What are the student’s aspirations? </strong>
-<br><em>The student’s thoughts, ambitions or dreams about his/her future.</em>
+<br><em>The student’s thoughts, ambitions or dreams about his/her future</em>
 </p>
 <p>c) <strong>What is important <u>TO</u> the student now? </strong>
-<br><em>What the student </em><strong><em>appreciates, likes, or enjoys.</em></strong>
+<br><em>What the student </em><strong><em>appreciates, likes, or enjoys</em></strong>
 </p>
 <p>d) <strong>What is important FOR the student now? </strong>
 <br><em>What the student </em><strong><em>ought to</em></strong><em> learn, do or acquire because it will be beneficial in helping him or her to learn, live or work</em>
 </p>
-<p>e) <strong>What does Good Support look like for the Student? </strong>
+<p>e) <strong>What does good support look like for the Student? </strong>
 <br><em>How the student might be effectively supported to reach his/her aspirations</em>
 </p>
 <p></p>
@@ -32,7 +32,7 @@ room.</p>
 </div>
 <p></p>
 <p>Participants may verbally express their views in turn or write their views
-on post-its which they paste on respective flipcharts<strong>.</strong>
+on post-its which they paste on the respective flipcharts<strong>.</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
