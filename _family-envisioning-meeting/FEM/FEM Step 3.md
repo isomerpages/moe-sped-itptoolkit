@@ -13,28 +13,28 @@ third_nav_title: FEM
 What’s not Working for the student in the following 4 areas:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Building my <strong>independence </strong>skills: <em>This considers student’s abilities in personal care and management, including safety and health.</em>
+<p>Building my <strong>independence </strong>skills: <em>This considers student’s abilities in personal care and management, including safety and health</em>
 </p>
 </li>
 <li>
 <p>Participating in <strong>daily, social and leisure</strong> activities in
-the community: <em>This is about having friends, participating in leisure activities and community engagement.</em>
+the community: <em>This is about having friends, participating in leisure activities and community engagement</em>
 </p>
 </li>
 <li>
-<p>Continuing my <strong>learning</strong>: <em>This is related to continual learning, training, therapy for the student.</em>
+<p>Continuing my <strong>learning</strong>: <em>This is related to continual learning, training and therapy for the student</em>
 </p>
 </li>
 <li>
-<p>Contributing<strong> productively</strong>: <em>This considers how student is prepared for meaningful contribution including employment, work, volunteering, home-based work or household chores.</em>
+<p>Contributing<strong> productively</strong>: <em>This considers how student is prepared for meaningful contributions including employment, work, volunteering, home-based work or household chores</em>
 </p>
 </li>
 </ul>
-<p>Participants may reference what was shared in the previous Step, ‘Eliciting
-Contributions about the Student’ e.g. ‘My Aspirations’, ‘What’s Important
+<p>Participants may reference what was shared in the previous step, ‘Eliciting
+Contributions about the Student’ i.e. ‘My Aspirations’, ‘What’s Important
 to me?’ &nbsp;</p>
 <p>Participants may verbally express their views in turn or write their views
-on post-its which they paste on respective flipcharts<strong>.</strong>
+on post-its which they paste on the respective flipcharts<strong>.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="CPASS East Conducting FEM" src="/images/CPASS__East__FEM.jpg">
