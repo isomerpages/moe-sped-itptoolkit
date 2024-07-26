@@ -15,7 +15,8 @@ third_nav_title: FEM
 <p>Settle into their seats and be comfortable at the meeting venue;</p>
 </li>
 <li>
-<p>Introduce themselves and their role in the student’s life; and</p>
+<p>Introduce themselves and their respective roles in the student’s life;
+and</p>
 </li>
 <li>
 <p>Set ground rules collectively.</p>
