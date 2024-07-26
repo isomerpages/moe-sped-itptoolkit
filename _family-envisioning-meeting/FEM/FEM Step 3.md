@@ -41,10 +41,10 @@ on post-its which they paste on the respective flipcharts<strong>.</strong>
 </div>
 <p><em>Source:</em> FEM at CPASS (East)</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Quote from Parent" src="/images/Mrs_Giang_ParentQuote.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Quote by Parent" src="/images/MrsGiang_ParentQuote2.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
