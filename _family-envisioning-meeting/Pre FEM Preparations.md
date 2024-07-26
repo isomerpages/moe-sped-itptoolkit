@@ -16,23 +16,22 @@ relevant resources for an effective FEM.</p>
 <summary>Determine who attends the Meeting</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Besides the student, everyone important to the student should be present
-in this meeting. This may include the student’s family members, caregivers,
+at this meeting. This may include the student’s family members, caregivers,
 significant adult figures, teachers or relevant professionals in the student’s
 life such as speech therapists, occupational therapists or job coaches.</p>
 <p></p>
 <p>Once the participants have been identified, book their time for the meeting
 and send them <strong>the Preparation Booklets</strong> about 6 weeks before
-FEM. The Preparation Booklets serve as an effective PCP tool to help meeting
-participants to <strong>understand what FEM is about</strong>.</p>
+FEM.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>What are Preparation Booklets?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Preparation<strong> </strong>booklets<strong> </strong>prompt everyone
-attending the meeting to think about the student’s current reality, dreams,
-and aspirations.&nbsp;There are Preparation Booklets for the Student, Families
-and Professionals.</p>
+<p>Preparation<strong> </strong>booklets<strong> prepare meeting participants to engage in FEM </strong>by<strong> </strong>prompting
+them to think about the student’s current reality, dreams, and aspirations.&nbsp;</p>
+<p></p>
+<p>There are Preparation Booklets for the Student, Families and Professionals.</p>
 <p></p>
 <p>The booklets include:</p>
 <ul data-tight="true" class="tight">
@@ -56,9 +55,9 @@ the student during the meeting.</p>
 the FEM. Participants can share responses that they have put down in the
 booklets by writing them on Post-it notes and placing them on flip charts.</p>
 <p></p>
-<p>If someone important to the student is unable to attend FEM, this person’s
-input can still be <u>captured in the preparation booklets and then voiced by another meeting participant during FEM.</u>
-</p>
+<p>If someone important to the student is unable to attend the FEM, this
+person’s input can still be captured in the preparation booklets and then
+voiced by another meeting participant during the FEM.</p>
 <p></p>
 </div>
 </details>
