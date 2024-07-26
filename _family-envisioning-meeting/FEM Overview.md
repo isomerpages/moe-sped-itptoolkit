@@ -20,7 +20,7 @@ of the student's first Individual Transition Plan (ITP).</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bitGNuvZkWA?si=XVYBzDAzPGOE_tW-"></iframe>
 </div>
-<p><em>(Embedded Video will be swaped with actual FEM Video) </em>
+<p><em>(Embedded Video will be swaped with actual FEM Video)</em>
 </p>
 <p></p>
 <p></p>
