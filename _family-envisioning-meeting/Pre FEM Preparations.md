@@ -53,7 +53,7 @@ the student during the meeting.</p>
 <p></p>
 <p>The information provided in the preparation booklets will be used during
 the FEM. Participants can share responses that they have put down in the
-booklets by writing them on Post-it notes and placing them on flip charts.</p>
+booklets by writing them on post-it notes and placing them on flip charts.</p>
 <p></p>
 <p>If someone important to the student is unable to attend the FEM, this
 person’s input can still be captured in the preparation booklets and then
