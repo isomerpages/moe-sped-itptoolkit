@@ -10,7 +10,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="5 Steps to ITP" src="/images/fem_to_itp.png">
 </div>
-<p>An effective and person-centered FEM culminates in a rich understanding
+<p>An effective and person-centred FEM culminates in a rich understanding
 of the student, and a set of personal goals that builds on the student’
 interests, aspirations and needs.&nbsp; It should also result in agreed
 actions to support the student to attain the goals.</p>
