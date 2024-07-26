@@ -69,6 +69,7 @@ voiced by another meeting participant during the FEM.</p>
 meeting participants can<strong> receive the necessary support to be an effective contributor during FEM. </strong>This
 support can come in many different forms and it really depends on an individual’s
 preference. Some ways to support meeting participants might include:</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>The Student</strong>: Ensure that the student’s One Page Profile
