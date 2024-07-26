@@ -10,7 +10,7 @@ third_nav_title: FEM
 <img style="width: 100%" height="auto" width="100%" alt="Time Progress bar for Step 5" src="/images/Step_5.png">
 </div>
 <p>The facilitator leads the participants in brainstorming supports and actions
-that help the student to &nbsp;achieve &nbsp;the post-school goals. This
+that can help the student to &nbsp;achieve his/her post-school goals. This
 is done through &nbsp;the<strong> <em>Support Sequence</em></strong> and
 the <strong><em>Action plan template</em></strong>.</p>
 <p></p>
@@ -43,7 +43,7 @@ the <strong><em>Action plan template</em></strong>.</p>
 </li>
 </ul>
 <p>Refer to these <a href="/support-sequence-guiding-questions/" rel="noopener noreferrer nofollow" target="_blank">guiding questions</a> for
-more ideas of how to generate possible supports with the Support Sequence.</p>
+how to generate more ideas about possible supports with the Support Sequence.</p>
 <p></p>
 <p>After determining the possible supports, the facilitator leads the participants
 to develop an action plan using <strong>the <em>Action plan template.</em></strong>
