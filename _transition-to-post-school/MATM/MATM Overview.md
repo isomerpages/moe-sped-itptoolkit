@@ -69,12 +69,15 @@ by seeking information required about the student and from the family through:</
 to take place after MATM, either within the same day or on a different
 day.</p>
 <p></p>
-<p><strong>Suitable For: </strong>Students and families who require significant
-support and may find it challenging to participate in a direct assessment
-and interview format by adult centres. &nbsp;<em>&nbsp;</em>
+<p><strong>Suitable For</strong>
+</p>
+<p>Students and families who require significant support and may find it
+challenging to participate in a direct assessment and interview format
+by adult centres. &nbsp;<em>&nbsp;</em>
 </p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <p></p>
