@@ -27,17 +27,15 @@ interview by the adult centre, before an enrolment is offered.</p>
 and serves more as a platform to discuss transition support. &nbsp;&nbsp;</p>
 </li>
 </ul>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>MATM With Intake</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>MATM is conducted with Intake Assessment and Family Interview process
 before an enrolment is offered to the student.</p>
 <p></p>
 <p><strong>Key Features &amp; Benefits</strong>
-</p>
-<p>MATM With Intake allows adult centres to gain more holistic understanding
+<br>MATM With Intake allows adult centres to gain more holistic understanding
 of the student and family to:</p>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -70,11 +68,36 @@ to take place after MATM, either within the same day or on a different
 day.</p>
 <p></p>
 <p><strong>Suitable For</strong>
-</p>
-<p>Students and families who require significant support and may find it
+<br>Students and families who require significant support and may find it
 challenging to participate in a direct assessment and interview format
 by adult centres. &nbsp;<em>&nbsp;</em>
 </p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>MATM After Intake</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>MATM is conducted after completion of the intake and interview process
+have already taken place, and with an enrolment already being offered by
+an adult centre. &nbsp;</p>
+<p></p>
+<p><strong>Key Features &amp; Benefits</strong>
+<br>MATM After Intake allows adult centres to gain more holistic understanding
+of the student and family to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Plan for appropriate programmes and supports to meet his/her needs and
+aspirations</p>
+</li>
+<li>
+<p>Discuss and plan for seamless transition support during a structured,
+dedicated time</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Suitable For</strong>
+<br>Students and families who are able to participate fairly independently
+in a direct assessment and interview format.</p>
 </div>
 </details>
 </div>
