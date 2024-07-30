@@ -6,11 +6,11 @@ description: ""
 third_nav_title: MATM
 ---
 <h1>Preparing for MATM</h1>
-<p>To achieve a person-centred planning transition to Adult Centres, strong
-coordination and collaboration are needed to ensure person-centred outcomes
-for the student and family. Successful MATM implementation depends on ensuring
-key preparation activities are carried out by SPED Schools and Adult Centres,
-as well as the student and family attending the meeting.</p>
+<p>To achieve a person-centred planning transition for the student to Adult
+Centres, strong coordination and collaboration are needed. Successful MATM
+implementation depends on ensuring key preparation activities are carried
+out by SPED Schools and Adult Centres, as well as the student and family
+attending the meeting.</p>
 <h3><strong>Preparation by SPED Schools</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -129,9 +129,6 @@ for those with higher support needs <em>(eg. current strategies used with studen
 </details>
 </div>
 <p></p>
-<p>Remember to actively involve the student in setting up the room, taking
-his/her preferences into account!&nbsp;This is the student’s meeting and
-he/she should own this part of the process as well.</p>
 <p></p>
 <p></p>
 <p></p>
