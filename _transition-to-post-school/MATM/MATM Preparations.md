@@ -26,7 +26,7 @@ the meeting.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Preparing Student's, Family's and School's Sharing</summary>
+<summary>Preparing Student, Family and School for Sharing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p><em>&lt;to replace FEM content&gt;</em>
