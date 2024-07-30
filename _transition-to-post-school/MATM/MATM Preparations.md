@@ -29,6 +29,9 @@ as well as the student and family attending the meeting.</p>
 <summary>Preparing Student's, Family's and School's Sharing</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><em>&lt;to replace FEM content&gt;</em>
+</p>
+<p></p>
 <p>Besides the Preparation Booklets, it is important to think about how all
 meeting participants can<strong> receive the necessary support to be an effective contributor during FEM. </strong>This
 support can come in many different forms and it really depends on an individual’s
@@ -114,8 +117,7 @@ to have a voice and make a choice.&nbsp;</p>
 </li>
 <li>
 <p>Prepare a PowerPoint deck and collate useful corporate collaterals for
-the student and family<em> </em>
-</p>
+the student and family</p>
 </li>
 <li>
 <p>Prepare further clarifying questions related to the student, particularly
