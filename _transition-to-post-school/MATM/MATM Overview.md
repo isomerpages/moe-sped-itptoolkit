@@ -37,7 +37,6 @@ before an enrolment is offered to the student.</p>
 <p><strong>Key Features &amp; Benefits</strong>
 <br>MATM With Intake allows adult centres to gain more holistic understanding
 of the student and family to:</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Support assessment suitability for enrolment, and</p>
@@ -50,7 +49,6 @@ aspirations</p>
 </ul>
 <p>MATM agenda integrates aspects of intake assessment and interview process
 by seeking information required about the student and from the family through:</p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Student’s sharing</p>
