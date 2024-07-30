@@ -13,3 +13,5 @@ and consists of sharing segments to as part of the information gathering
 process.</p>
 <p>An overview of the MATM meeting agenda and flow is provided in the figure
 below.</p>
+<p><em>&lt;placeholder for diagram&gt;</em>
+</p>
