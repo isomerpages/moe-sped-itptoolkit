@@ -21,22 +21,17 @@ graduates.</p>
 <h4>When can MATM take place?</h4>
 <hr>
 <p>MATM can take place at one of two junctures during the final school year: <strong>MATM With Intake</strong> and<strong> MATM After Intake</strong>.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>“MATM With Intake” integrates aspects of the intake assessment and parent
-interview by the adult centre, before an enrolment is offered.</p>
-</li>
-<li>
-<p>“MATM After Intake” takes place after enrolment has already been offered,
-and serves more as a platform to discuss transition support. &nbsp;&nbsp;</p>
-</li>
-</ul>
+<p><em>&lt;placeholder for diagram&gt;</em>
+</p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>MATM With Intake</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>MATM is conducted with Intake Assessment and Family Interview process
-before an enrolment is offered to the student.</p>
+<p>“MATM After Intake” is conducted after completion of the intake and interview
+process have already taken place, and with an enrolment already being offered
+by an adult centre. It serves more as a platform to discuss transition
+support. &nbsp;</p>
 <p></p>
 <p><strong>Key Features &amp; Benefits</strong>
 <br>MATM With Intake allows adult centres to gain more holistic understanding
