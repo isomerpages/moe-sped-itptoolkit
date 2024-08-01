@@ -19,7 +19,7 @@ and families from SPED schools to DACs and SWs. The meeting is facilitated
 by a school staff and takes place in the final school year before the student
 graduates.</p>
 <p></p>
-<h4>When can MATM take place? </h4>
+<h4>When can MATM take place?</h4>
 <hr>
 <p>MATM can take place at one of two junctures during the final school year: <strong>MATM With Intake</strong> and<strong> MATM After Intake</strong>.</p>
 <ul data-tight="true" class="tight">
