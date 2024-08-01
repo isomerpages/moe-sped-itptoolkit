@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: MATM
 ---
-<h4>Multi-Agency Transition Meeting</h4>
-<hr>
+<h2>Multi-Agency Transition Meeting</h2>
 <p>Since 2022, MOE has collaborated with MSF and SG Enable to implement the
 Multi-Agency Transition Meeting (MATM) in SPED schools to promote a person-centred
 handover process to enhance the quality of life outcomes of SPED graduates
