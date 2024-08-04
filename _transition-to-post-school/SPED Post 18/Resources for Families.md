@@ -9,7 +9,9 @@ third_nav_title: SPED Post 18
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/A_LETTER_TO_FAMILIES.png">
 </div>
+<p></p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/sge_enabling_guide.png">
 </div>
