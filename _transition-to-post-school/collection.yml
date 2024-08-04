@@ -2,9 +2,9 @@ collections:
   transition-to-post-school:
     output: true
     order:
+      - SPED Post 18/.keep
       - SPED Post 18/Resources for Families.md
       - SPED Post 18/Overview of SPED Post 18.md
-      - SPED Post 18/.keep
       - MATM/.keep
       - MATM/MATM Overview.md
       - MATM/MATM Implementation.md
