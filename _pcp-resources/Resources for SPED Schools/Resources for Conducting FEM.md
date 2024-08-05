@@ -26,7 +26,7 @@ various modes of support to move the student towards attaining his/her
 post-school goals. It can be printed as reference during FEM itself.</p>
 <hr>
 <h3><strong>FEM Checklist</strong></h3>
-<p>The <a href="/files/Resources for SPED Schools/Resources for Conducting FEM/Family_Envisioning_Meeting__FEM__Checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">FEM Checklist</a> guides
+<p>The <a href="/files/Resources for SPED Schools/For Conducting FEM/Family_Envisioning_Meeting__FEM__Checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">FEM Checklist</a> guides
 the member of the Transition Team to complete all the steps in Family Envisioning
 Meeting (FEM) within the suggested time. It can printed as reference during
 FEM itself.</p>
