@@ -21,7 +21,4 @@ transition to&nbsp;post-school.</p>
 the Transition Planning Coordinator.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MINDS_Woodlands_Employment_Development_Centre.jpg">
-</div>
-<p><em>Source: </em>MINDS Woodlands Employment Development Centre (WEDC)</p>
+<p></p>
