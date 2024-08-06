@@ -92,7 +92,6 @@ student’s background and any concerns raised by the family</p>
 </details>
 </div>
 <p></p>
-<p>&lt;Photo Here&gt;</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
