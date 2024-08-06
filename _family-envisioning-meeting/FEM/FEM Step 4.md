@@ -63,6 +63,13 @@ process is further explained in the visual below.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="Pro Tip on Voting with different stickers" src="/images/Pro_Tip__Stickers__FEM_Step4_.png">
 </div>
 <p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Photo of a Flipchart" src="/images/Eden_Flipchart.jpg">
+</div>
+<p><em>Source: Eden School</em>
+</p>
 </div>
 </details>
 <details class="isomer-details">
