@@ -35,7 +35,7 @@ individuals with disabilities may need the support of others”.&nbsp;</p>
 </li>
 </ul>
 <blockquote>
-<p><em>&nbsp;“a process that is focused entirely on the interests of an individual with disabilities and keeps them first.” (Rasheed, Fore &amp; Miller, 2006)</em>
+<p><em>&nbsp;“[A] process that is focused entirely on the interests of an individual with disabilities and keeps them first.” (Rasheed, Fore &amp; Miller, 2006)</em>
 </p>
 </blockquote>
 <ul data-tight="true" class="tight">
@@ -45,7 +45,7 @@ individuals with disabilities may need the support of others”.&nbsp;</p>
 </li>
 </ul>
 <blockquote>
-<p><em>“assists people to think about what types of things they would like to have now as well as in the future, and it places the individual’s family and friends at the forefront of helping to make those plans come into existence.” (O’Brien, 2004)</em>
+<p><em>“[A]ssists people to think about what types of things they would like to have now as well as in the future, and it places the individual’s family and friends at the forefront of helping to make those plans come into existence.” (O’Brien, 2004)</em>
 </p>
 </blockquote>
 <ul data-tight="true" class="tight">
