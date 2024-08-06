@@ -10,4 +10,4 @@ Family Envisioning Meeting (FEM), and providing guidance on individual
 planning.&nbsp;&nbsp;</p>
 <p>Explore the diverse range of resources within this section to gain valuable
 insights, access practical tools, and discover the support available to
-facilitate a person-centered Transition Planning process!&nbsp;</p>
+facilitate a person-centred Transition Planning process!&nbsp;</p>
