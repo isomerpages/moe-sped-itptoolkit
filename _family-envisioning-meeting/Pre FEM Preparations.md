@@ -46,7 +46,7 @@ for FEM</p>
 <p></p>
 <p>Refer to the Preparation Booklets <a href="/preparation-booklets/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
-<p>Participants are encouraged to give <a href="/quality-person-centered-information/" rel="noopener noreferrer nofollow" target="_blank">detailed and specific input</a> in
+<p>Participants are encouraged to give <a href="/quality-person-centred-information/" rel="noopener noreferrer nofollow" target="_blank">detailed and specific input</a> in
 their booklets. This will make it easier to develop meaningful goals with
 the student during the meeting.</p>
 <p></p>
