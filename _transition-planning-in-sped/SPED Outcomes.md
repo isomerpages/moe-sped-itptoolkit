@@ -11,7 +11,7 @@ description: Information about SPED Outcomes
 the collective aspirations of the sector.</p>
 </li>
 <li>
-<p>Through Transition Planning, students develop personalized and personal
+<p>Through Transition Planning, students develop personalised and personal
 goals in the areas of Living, Learning, and Working (LLW), and are supported
 to attain them by the time they graduate.</p>
 </li>
