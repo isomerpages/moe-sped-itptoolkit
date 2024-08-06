@@ -5,16 +5,13 @@ variant: tiptap
 description: Person-centered planning tools
 third_nav_title: Resources for SPED Schools
 ---
-<p>Person-centered Planning (PCP) Tools are <strong>a set of templates </strong>designed
+<p>Person-centred Planning (PCP) Tools are <strong>a set of templates </strong>designed
 to <strong>facilitate</strong>  <strong>meaningful conversations </strong>and <strong>capture essential information.</strong>
 </p>
 <p></p>
 <p>In person-centred Transtion Planning, PCP tools can be used<strong>&nbsp;</strong>to
 help the student fill in his/her preparation booklet, SPED educators can
-also <strong>integrate them into the curriculum. This thereby offers</strong> them
-the flexibility to <strong>utilise the tools beyond formal meetings</strong> like
-FEM.&nbsp;</p>
-<p></p>
+also <strong>integrate them into the curriculum. These tools can be used beyond formal FEMs</strong> too</p>
 <p>Check out what each PCP tool does below!</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/Resources for SPED Schools/PCP Tools/One_Page_Profile__words_and_pictures_.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/one_page_profile.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">One-Page Profile</div><div class="isomer-card-description">This tool distills key information about the student, including their strengths, preferences, interests, and the support they required. It facilitates more personal interactions.</div><div class="isomer-card-link">Click here to download this tool!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/files/Resources for SPED Schools/PCP Tools/Good_Day__Bad_Day.pdf" class="isomer-card">
