@@ -17,8 +17,10 @@ successful transition to post-school.</p>
 student is 15 years of age (i.e. start of Planning Phase of Transition
 Planning), to generate personalised goals in line with common planning
 areas.</p>
-<p>[Insert picture]</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Transition_Planning_Phases_v2.png">
+</div>
 <p>The ITP is a working document that is reviewed annually to the year of
 graduation.</p>
+<p></p>
 <p></p>
