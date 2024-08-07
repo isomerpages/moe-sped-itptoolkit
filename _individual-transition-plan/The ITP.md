@@ -11,7 +11,7 @@ key components:</p>
 <img style="width: 100%" height="auto" width="100%" alt="Components of the Individual Transition Plan (ITP)" src="/images/ITP_Components.png">
 </div>
 <p></p>
-<h4>My One Page Profile</h4>
+<h4><strong>My One Page Profile</strong></h4>
 <p>An ITP needs to start with the student and who they are. The One Page
 Profile (OPP) summarises this and should front the student’s ITP.</p>
 <p>The OPP is prepared and updated before FEM and shared at <strong>Step 1 of FEM</strong>.
