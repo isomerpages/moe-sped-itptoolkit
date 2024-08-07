@@ -17,10 +17,10 @@ Profile (OPP) summarises this and should front the student’s ITP.</p>
 <p>The OPP is prepared and updated before FEM and shared at <strong>Step 1 of FEM</strong>.
 After FEM is completed, it may be further updated with information shared
 at FEM and attached with the ITP.</p>
-<p>&nbsp;To complete the OPP, gather information from the student about the
-people, places and things that matter. You can also gather these information
-from your daily observation of the student, or ask family, school staff
-and people who know them well.&nbsp;</p>
+<p>To complete the OPP, gather information from the student about the people,
+places and things that matter. You can also gather these information from
+your daily observation of the student, or ask family, school staff and
+people who know them well.&nbsp;</p>
 <blockquote>
 <p></p>
 </blockquote>
@@ -42,11 +42,13 @@ in three key areas:</p>
 <p>How best to <strong>support </strong>the student</p>
 </li>
 </ul>
-<p>The OPP can be used in all areas of the student’s life, not just in the
-ITP. It should be updated throughout the schooling year.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pro_tip_Updating_the_OPP.png">
+</div>
 <hr>
 <h4><strong>My Person Details</strong></h4>
-<p>These sections capture personal details of the student and family/caregiver.</p>
+<p>These sections capture personal details of the student and family.</p>
 <h4><strong>My Aspirations</strong></h4>
 <p>To support students to prepare for post-school, we need to know their
 dreams and aspirations for the future.&nbsp;</p>
@@ -65,18 +67,17 @@ in decision-making.</p>
 was completed with the student before FEM. The use of PCP Tools like <strong>Communication Chart, Decision-making Profile and Decision-making Agreement</strong> can
 help to elicit these information about the student.</p>
 <h4><strong>My Strengths and Needs</strong></h4>
-<p>This section summarises student’s strengths, needs and identified educational,
-health and care needs based on information received from the student, family,
-school, health and care professionals. To recognise the achievements or
-affirm the strengths of the student, record of student’s experiences and
-achievements (e.g. a sports medal or work</p>
+<p>This section summarises the student’s strengths, needs and identified
+educational, health and care needs based on information received from the
+student, family, school, health and care professionals. The information
+highlights the student’s achievements (e.g. a sports medal or prizes),
+strengths and key work/volunteer experiences.</p>
 <h4><strong>My Current Health and Care Needs</strong></h4>
 <p>Health and care needs related to student’s Special Education Needs (SEN)
-should be prioritized in this section.</p>
+should be prioritised in this section.</p>
 <p>Information gathered through the <strong>Preparation Booklets for Families and Professionals</strong> can
 be captured in these sections. In addition, information shared during <strong>FEM Step 2</strong>,
-can be transferred to these sections accordingly<strong>.</strong>
-</p>
+can be transferred to these sections accordingly.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_Flip_Charts.png">
@@ -85,17 +86,27 @@ can be transferred to these sections accordingly<strong>.</strong>
 <p>This section records key information on What’s Working What’s Not Working
 in relation to the respective planning areas, as gathered through <strong>FEM Step 3</strong>.</p>
 <p>This is an important step of the Outcome Sequence to develop goals. By
-building on what is working, and change what is not working, the goals
+building on what is working, and changing what is not working, the goals
 should move the student closer to his/her aspirations.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Whats_Working_Whats_not_Working.png">
+</div>
 <h4><strong>My Goals and Action</strong></h4>
 <p>This section outlines the student’s goals, and an action plan to support
 attainment of the goals.</p>
-<p>Goals developed from the Outcome Sequence at <strong>FEM Step 5</strong> can
+<p>Goals developed from the Outcome Sequence at <strong>FEM Step 4</strong> can
 be transferred into this section. The Transition Teams need to revisit
 the goals after FEM to refine the goals and ensure they are specific and
 measurable.</p>
-<p>Actions and follow-ups from the Action Plan drawn up at<strong> FEM Step 5</strong>,
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Step_5.png">
+</div>
+<p>Actions and follow-ups from the Action Plan drawn up at <strong>FEM Step 5</strong>,
 are also transferred into this section.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Action_Template_v2.png">
+</div>
 <h4><strong>Contributors to my ITP</strong></h4>
 <p>This section captures details of who has contributed to sharing of information
 that is captured in ITP, as well as monitoring and assessment to review
@@ -104,3 +115,4 @@ the ITP.</p>
 the student. Everyone involved has a stake in the ITP. It is important
 to for relevant people involved in developing the plan to be recorded in
 this section.</p>
+<p></p>
