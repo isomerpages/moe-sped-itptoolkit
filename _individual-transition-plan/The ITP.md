@@ -44,7 +44,7 @@ in three key areas:</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pro_tip_Updating_the_OPP.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Pro_tip_Updating_the_OPP.png">
 </div>
 <hr>
 <h4><strong>My Person Details</strong></h4>
@@ -90,7 +90,7 @@ building on what is working, and changing what is not working, the goals
 should move the student closer to his/her aspirations.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Whats_Working_Whats_not_Working.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Whats_Working_Whats_not_Working.png">
 </div>
 <h4><strong>My Goals and Action</strong></h4>
 <p>This section outlines the student’s goals, and an action plan to support
