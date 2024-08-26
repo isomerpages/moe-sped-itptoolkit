@@ -13,28 +13,26 @@ third_nav_title: FEM | The 5 Step Process
 What’s not Working for the student in the following 4 areas:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Building my <strong>independence </strong>skills: <em>This considers student’s abilities in personal care and management, including safety and health</em>
+<p>Building my <strong>independence </strong>skills: <em>This is related to the student’s developing abilities in persona management and mobility, including safety and health</em>
 </p>
 </li>
 <li>
 <p>Participating in <strong>daily, social and leisure</strong> activities in
-the community: <em>This is about having friends, participating in leisure activities and community engagement</em>
+the community: <em>This is related to the student's motivation and ability to access the neighbourhood, interact with peers and friends, and participating in leisure activities </em>
 </p>
 </li>
 <li>
-<p>Continuing my <strong>learning</strong>: <em>This is related to continual learning, training and therapy for the student</em>
+<p>Continuing my <strong>learning</strong>: <em>This is related to the student's interest and motivation in learning, new knowledge an skills</em>
 </p>
 </li>
 <li>
-<p>Contributing<strong> productively</strong>: <em>This considers how student is prepared for meaningful contributions including employment, work, volunteering, home-based work or household chores</em>
+<p>Contributing<strong> productively</strong>: <em>This is related to the student's interest and motivation for work or contributing to the community, and how the student is responding to instructions and supports e.g. work experience </em>
 </p>
 </li>
 </ul>
-<p>Participants may reference what was shared in the previous step, ‘Eliciting
-Contributions about the Student’ i.e. ‘My Aspirations’, ‘What’s Important
-to me?’ &nbsp;</p>
-<p>Participants may verbally express their views in turn or write their views
-on post-its which they paste on the respective flipcharts<strong>.</strong>
+<p></p>
+<p>Participants may verbally express their views or write them on post-its
+which they paste on the respective flipcharts<strong>.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="CPASS East Conducting FEM" src="/images/CPASS__East__FEM.jpg">
