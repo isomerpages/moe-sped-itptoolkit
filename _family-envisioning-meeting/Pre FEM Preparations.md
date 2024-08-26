@@ -61,10 +61,8 @@ during the FEM.</p>
 <summary>Everyone plays an Important Role</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Besides the Preparation Booklets, it is important to think about how all
-meeting participants can<strong> receive the necessary support to be an effective contributor during FEM. </strong>This
-support can come in many different forms and it really depends on an individual’s
-preference. Some ways to support meeting participants might include:</p>
+<p>It is important to think about how all meeting participants can<strong> receive the necessary supports to be effective contributors during FEM. </strong>Some
+ways to support meeting participants might include:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -95,8 +93,8 @@ student’s background and any concerns raised by the family</p>
 <img style="width: 90%;" height="auto" width="100%" alt="Quote from TPC" src="/images/Joseph_TPCQuote.png">
 </div>
 <h3><strong>b) Preparing the Room</strong></h3>
-<p>Besides the people attending the meeting, the environment where the meeting
-is taking place is crucial.</p>
+<p>The environment for the meeting is crucial and hence time and care need
+to be taken to set up the room for impactful outcomes.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Resources for Facilitating FEM</summary>
@@ -126,8 +124,7 @@ view will be given its proper ‘airtime’ and attention.&nbsp;</p>
 <p></p>
 </li>
 </ul>
-<p>Sticking post-its on standing flip charts may seem like a simple action,
-but it’s a process that shapes the culture of the FEM meeting: One that
+<p>Sticking post-its on standing flip charts can help shape a culture that
 is safe, inclusive<strong> </strong>and where every individual is empowered
 to have a voice and make a choice.&nbsp;</p>
 </div>
