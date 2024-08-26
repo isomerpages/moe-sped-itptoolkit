@@ -28,21 +28,8 @@ and</p>
 <h4><strong>What are Ground Rules?</strong></h4>
 <p>Ground rules<strong> </strong>are important for setting the right tone
 for the meeting as well as reminding everyone that it is a safe, respectful
-and intentional space.&nbsp;&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The ground rules for the meeting should be discussed with the student
-beforehand.&nbsp;</p>
-</li>
-<li>
-<p>Others can be invited to add some of their own ground rules to the list
-during the meeting.&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>It is important that all participants understand and agree with these
-rules before starting.&nbsp;</p>
-</li>
-</ul>
+and intentional space.&nbsp;It is important that all participants contribute
+to and understand the rules before starting.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MINDS CSS Welcome" src="/images/MINDS_CSS.jpg">
 </div>
