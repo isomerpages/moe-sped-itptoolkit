@@ -8,21 +8,21 @@ description: ""
 <h1>Preparing for FEM</h1>
 <p>The success of FEM hinges on <strong>thoughtful preparation </strong>before
 the meeting itself takes place.&nbsp; This involves preparing the meeting’s
-participants and ensuring that the room is properly set-up and ready with
-relevant resources for an effective FEM.</p>
+participants, materials, and ensuring that the room is properly set-up
+and ready with relevant resources for an effective FEM.</p>
 <h3><strong>a) Preparing the Participants</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Determine who attends the Meeting</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Besides the student, everyone important to the student should be present
-at this meeting. This may include the student’s family members, caregivers,
+<p>Besides the student, everyone important to the student should be invited
+to the meeting. This may include the student’s family members, caregivers,
 significant adult figures, teachers or relevant professionals in the student’s
 life such as speech therapists, occupational therapists or job coaches.</p>
 <p></p>
 <p>Once the participants have been identified, book their time for the meeting
 and send them <strong>the Preparation Booklets</strong> about 6 weeks before
-FEM.</p>
+FEM for completion.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -46,17 +46,14 @@ for FEM</p>
 <p></p>
 <p>Refer to the Preparation Booklets <a href="/preparation-booklets/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
-<p>Participants are encouraged to give <a href="/quality-person-centred-information/" rel="noopener noreferrer nofollow" target="_blank">detailed and specific input</a> in
-their booklets. This will make it easier to develop meaningful goals with
-the student during the meeting.</p>
-<p></p>
-<p>The information provided in the preparation booklets will be used during
-the FEM. Participants can share responses that they have put down in the
-booklets by writing them on post-it notes and placing them on flip charts.</p>
+<p>The information provided in the preparation booklets is used during the
+FEM. Participants are encouraged to give <a href="/quality-person-centred-information/" rel="noopener noreferrer nofollow" target="_blank">detailed and specific input</a> in
+their booklets. This will greatly facilitate developing meaningful goals
+for the student during the meeting.&nbsp;</p>
 <p></p>
 <p>If someone important to the student is unable to attend the FEM, this
-person’s input can still be captured in the preparation booklets and then
-voiced by another meeting participant during the FEM.</p>
+person’s input can still be captured in the preparation booklets and represented
+during the FEM.</p>
 <p></p>
 </div>
 </details>
