@@ -82,11 +82,9 @@ goals by asking:</p>
 <img style="width: 100%" height="auto" width="100%" alt="Checklist for writing Goals" src="/images/Goal_Checklist.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="PCP Spotlight on Using the Outcome Seq" src="/images/PCP_Spotlight_Outcome_seq_gold_thread.png">
+<img style="width: 70%;" height="auto" width="100%" alt="PCP Spotlight (Golden Thread)" src="/images/PCP_Spotlight_Outcome_seq_gold_thread__2_.png">
 </div>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
