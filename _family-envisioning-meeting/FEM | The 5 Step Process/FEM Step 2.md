@@ -31,8 +31,8 @@ room.</p>
 <img style="width: 100%" height="auto" width="100%" alt="5 Flip Charts for FEM" src="/images/5_Flip_Charts.jpg">
 </div>
 <p></p>
-<p>Participants may verbally express their views in turn or write their views
-on post-its which they paste on the respective flipcharts<strong>.</strong>
+<p>Participants may verbally express their views or them on post-its which
+they paste on the respective flipcharts<strong>.</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
