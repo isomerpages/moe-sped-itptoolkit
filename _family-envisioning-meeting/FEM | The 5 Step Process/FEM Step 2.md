@@ -39,10 +39,10 @@ they paste on the respective flipcharts<strong>.</strong>
 <img style="width: 55%;" height="auto" width="100%" alt="Pro Tip: Put up contributions before the meeting starts!" src="/images/Pro_Tip__Flip_Charts__FEM_Step2__v1.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Important To vs Important For image" src="/images/Important_to_vs_Important_for__2_.png">
+<img style="width: 50%;" height="auto" width="100%" alt="PCP Spotlight (Important To vs Important For)" src="/images/Important_to_vs_Important_for__3_.png">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
