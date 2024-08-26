@@ -18,7 +18,7 @@ What’s not Working for the student in the following 4 areas:</p>
 </li>
 <li>
 <p>Participating in <strong>daily, social and leisure</strong> activities in
-the community: <em>This is related to the student's motivation and ability to access the neighbourhood, interact with peers and friends, and participating in leisure activities </em>
+the community: <em>This is related to the student's motivation and ability to access the neighbourhood, interact with peers and friends, and participating in leisure activities</em>
 </p>
 </li>
 <li>
@@ -26,7 +26,7 @@ the community: <em>This is related to the student's motivation and ability to ac
 </p>
 </li>
 <li>
-<p>Contributing<strong> productively</strong>: <em>This is related to the student's interest and motivation for work or contributing to the community, and how the student is responding to instructions and supports e.g. work experience </em>
+<p>Contributing<strong> productively</strong>: <em>This is related to the student's interest and motivation for work or contributing to the community, and how the student is responding to instructions and supports e.g. work experience</em>
 </p>
 </li>
 </ul>
@@ -41,7 +41,7 @@ which they paste on the respective flipcharts<strong>.</strong>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Quote by Parent" src="/images/MrsGiang_ParentQuote2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Quote from Parent" src="/images/Mrs_Giang_ParentQuote3.png">
 </div>
 <p></p>
 <p></p>
