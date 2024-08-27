@@ -99,7 +99,7 @@ to be taken to set up the room for impactful outcomes.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The following resources should be prepared in advance:</p>
 <p></p>
-<p><em>Standing Flip Chart Paper and Markers to write on them &nbsp;</em>
+<p><em>Standing Flip Charts and Markers&nbsp;</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
