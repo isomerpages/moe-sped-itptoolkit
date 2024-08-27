@@ -16,7 +16,7 @@ Sequence:</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Stage 1: Identifying Priority Areas</summary>
+<summary>Stage 1: Identify the Priority Areas</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>The facilitator invites participants to vote on their top 3 items from
