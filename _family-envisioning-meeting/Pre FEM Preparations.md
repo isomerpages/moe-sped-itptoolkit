@@ -87,8 +87,6 @@ student’s background and any concerns raised by the family</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="Quote from TPC" src="/images/Joseph_TPCQuote.png">
 </div>
@@ -162,8 +160,8 @@ a conducive atmosphere for open communication.</p>
 his/her preferences into account!&nbsp;This is the student’s meeting and
 he/she should own this part of the process as well.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Pro Tip: For setting up a room in FEM" src="/images/Pro_Tip__Setting_up_Room__Pre_FEM__v1.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Pro Tip: Setting Up Room" src="/images/Pro_Tip__Setting_up_Room__Pre_FEM__v2.png">
 </div>
+<p></p>
 <p></p>
