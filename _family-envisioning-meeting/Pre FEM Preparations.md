@@ -13,7 +13,7 @@ and ready with relevant resources for an effective FEM.</p>
 <h3><strong>a) Preparing the Participants</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Determine who attends the Meeting</summary>
+<summary>Determining Meeting Attendees</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Besides the student, everyone important to the student should be invited
 to the meeting. This may include the student’s family members, caregivers,
@@ -26,7 +26,7 @@ FEM for completion.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>What are Preparation Booklets?</summary>
+<summary>Understanding Preparation Booklets</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Preparation<strong> </strong>booklets<strong> prepare meeting participants to engage in FEM </strong>by<strong> </strong>prompting
 them to think about the student’s current reality, dreams, and aspirations.&nbsp;</p>
@@ -58,7 +58,7 @@ during the FEM.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Everyone plays an Important Role</summary>
+<summary>Recognising Everyone's Important Role</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>It is important to think about how all meeting participants can<strong> receive the necessary supports to be effective contributors during FEM. </strong>Some
