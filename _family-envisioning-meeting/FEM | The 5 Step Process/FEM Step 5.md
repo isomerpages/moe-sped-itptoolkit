@@ -43,9 +43,9 @@ is done through the<strong> <em>Support Sequence</em></strong> and the <strong><
 <p></p>
 </li>
 </ul>
-<p>Refer to these <a href="/support-sequence-guiding-questions/" rel="noopener noreferrer nofollow" target="_blank">guiding questions</a> for
-how to generate ideas about possible supports with the Support Sequence.
-Supports can be immediate, short or longer term.</p>
+<p>Use these <a href="/support-sequence-guiding-questions/" rel="noopener noreferrer nofollow" target="_blank">guiding questions</a> to
+generate ideas for supports. Supports can be immediate, short or longer
+term.</p>
 <p></p>
 <p>After determining the range of supports, the facilitator leads the participants
 to develop an action plan using <strong>the <em>Action Plan template.</em></strong>
