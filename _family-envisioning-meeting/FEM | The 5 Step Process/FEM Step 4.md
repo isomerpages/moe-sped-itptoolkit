@@ -16,7 +16,7 @@ Sequence:</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Stage 1: Identify the Priority Areas</summary>
+<summary>Step 1: Identify the Priority Areas</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>The facilitator determines the priority areas through a <strong>3 Dots Voting Process.</strong>
@@ -57,17 +57,27 @@ responses from the following three focus areas in FEM Step 2:</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Stage 2: Develop the Goals</summary>
+<summary>Step 2: Develop the Goals</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>The Facilitator leads participants in crafting the student’s post-school
-goals by asking:</p>
+goals. With reference to the priority, ask <strong>What is the positive change you want to see? </strong>(<em>This could be either changing what is not working or moving towards an aspiration</em>.)</p>
 <p></p>
-<p>1) What is the positive change you want to see?</p>
-<p>(<em>This could be either changing what is not working or moving towards an aspiration</em>.)</p>
-<p>2) Write this into a specific outcome.</p>
-<p>3)Check the quality of the goal by using the <em>'Quality Goals Checklist'</em>
+<p>Write this into a specific outcome.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Step 3: Check the Goals</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Check the quality of the goals by using the <em>'Quality Goals Checklist'</em>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Quality of Goals Checklist" src="/images/Quality_of_Goals_Checklist.png">
+</div>
 </div>
 </details>
 </div>
