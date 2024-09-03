@@ -82,19 +82,14 @@ goals. With reference to the priority, ask <strong>What is the positive change y
 </details>
 </div>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="FEM taking place in a student's home" src="/images/GOS_7.jpg">
 </div>
 <p><em>Source: Eden School</em>
 </p>
 <hr>
-<h4>Quality Goals Checklist</h4>
+<h4></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Quality of Goals Checklist" src="/images/Quality_of_Goals_Checklist.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="PCP Spotlight (Golden Thread)" src="/images/PCP_Spotlight_Outcome_seq_gold_thread__2_.png">
