@@ -17,12 +17,12 @@ and ready with relevant resources for an effective FEM.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Besides the student, everyone important to the student should be invited
 to the meeting. This may include the student’s family members, caregivers,
-significant adult figures, teachers or relevant professionals in the student’s
+significant adult figures, teachers and relevant professionals in the student’s
 life such as speech therapists, occupational therapists or job coaches.</p>
 <p></p>
 <p>Once the participants have been identified, book their time for the meeting
-and send them <strong>the Preparation Booklets</strong> about 6 weeks before
-FEM for completion.</p>
+and send them <strong>the Preparation Booklets</strong> no less than 6 weeks
+before FEM for completion.</p>
 </div>
 </details>
 <details class="isomer-details">
