@@ -22,7 +22,7 @@ life such as speech therapists, occupational therapists or job coaches.</p>
 <p></p>
 <p>Once the participants have been identified, book their time for the meeting
 and send them <strong>the Preparation Booklets</strong> no less than 6 weeks
-before FEM for completion.</p>
+before FEM for their completion.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -75,11 +75,6 @@ preparation booklet before the meeting</p>
 <p><strong>The Student’s Family</strong>:&nbsp; Anticipate their needs before
 the meeting, and determine what will help them to understand what is most
 important to the student.</p>
-<p></p>
-</li>
-<li>
-<p><strong>Professionals</strong>: Share with them information about the
-student’s background and any concerns raised by the family</p>
 <p></p>
 </li>
 </ul>
