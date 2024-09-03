@@ -19,8 +19,12 @@ Sequence:</p>
 <summary>Stage 1: Identify the Priority Areas</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>The facilitator invites participants to vote on their top 3 items from
-the responses from the following three focus areas in FEM Step 2:</p>
+<p>The facilitator determines the priority areas through a <strong>3 Dots Voting Process.</strong>
+</p>
+<p></p>
+<p>All participants are given 3 stickers (dots) to indicate their votes.
+The facilitator invites participants to vote their top 3 items from the
+responses from the following three focus areas in FEM Step 2:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Aspirations</p>
@@ -33,10 +37,7 @@ the responses from the following three focus areas in FEM Step 2:</p>
 </li>
 </ul>
 <p></p>
-<p>All participants are given 3 stickers (dots) to indicate their votes.</p>
-<p></p>
-<p>The facilitator then determines the priority areas through a <strong>3 Dots Voting Process:</strong> This
-process is further explained in the visual below.</p>
+<p>The process is fully explained in the visual below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="3 Dots Voting Diagram" src="/images/UPDATED_3_Dots_voting.jpg">
