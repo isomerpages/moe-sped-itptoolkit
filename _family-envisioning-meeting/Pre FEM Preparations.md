@@ -155,7 +155,7 @@ space</p>
 <details class="isomer-details">
 <summary>Setting up the Space</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>A carefully designed space will encourage active participation and create
+<p>A carefully designed space can encourage active participation and create
 a conducive atmosphere for open communication.</p>
 <p></p>
 <p>When setting up the space, consider factors such as:&nbsp;</p>
@@ -171,9 +171,6 @@ a conducive atmosphere for open communication.</p>
 <li>
 <p>Layout of room <em>e.g. How will people be sitting? Where will each participant be facing?</em>
 </p>
-</li>
-<li>
-<p>Background music, decorations, snacks, scents, etc.&nbsp;</p>
 <p></p>
 </li>
 </ul>
