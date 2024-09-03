@@ -34,15 +34,12 @@ room.</p>
 <p>Participants may verbally express their views or them on post-its which
 they paste on the respective flipcharts<strong>.</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="Pro Tip: Put up contributions before the meeting starts!" src="/images/Pro_Tip__Flip_Charts__FEM_Step2__v1.png">
+<img style="width: 55%;" height="auto" width="100%" alt="Pro Tip on Flip Charts" src="/images/Pro_Tip__Flip_Charts__FEM_Step2__v2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="PCP Spotlight (Important To vs Important For)" src="/images/Important_to_vs_Important_for__3_.png">
 </div>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
