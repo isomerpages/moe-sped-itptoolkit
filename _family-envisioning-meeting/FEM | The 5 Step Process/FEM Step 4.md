@@ -63,9 +63,11 @@ responses from the following three focus areas in FEM Step 2:</p>
 <p>The Facilitator leads participants in crafting the student’s post-school
 goals by asking:</p>
 <p></p>
-<p>1) What is the positive change you want to see? (<em>This could be either changing what is not working or moving towards an aspiration</em>.)</p>
+<p>1) What is the positive change you want to see?</p>
+<p>(<em>This could be either changing what is not working or moving towards an aspiration</em>.)</p>
 <p>2) Write this into a specific outcome.</p>
-<p>3) Now check it! (<em>Assess the quality of the goal using the checklist</em>.)</p>
+<p>3)Check the quality of the goal by using the <em>'Quality Goals Checklist' </em>
+</p>
 </div>
 </details>
 </div>
