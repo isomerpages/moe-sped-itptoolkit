@@ -94,7 +94,7 @@ to be taken to set up the room for impactful outcomes.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The following resources should be prepared in advance:</p>
 <p></p>
-<p><em>Standing Flip Charts and Markers&nbsp;</em>
+<p><em>Flip Chart Stands and Markers&nbsp;</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -114,12 +114,42 @@ the room, the option to make their views heard.</p>
 <li>
 <p>The post-its will be put up on the standing flip charts so that every
 view will be given its proper ‘airtime’ and attention.&nbsp;</p>
-<p></p>
 </li>
 </ul>
-<p>Sticking post-its on standing flip charts can help shape a culture that
-is safe, inclusive<strong> </strong>and where every individual is empowered
-to have a voice and make a choice.&nbsp;</p>
+<p></p>
+<p><em>Sticker Dots</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>These stickers will be used by participants to indicate their votes during
+FEM Step 4</p>
+</li>
+<li>
+<p>Instead of stickers, participants could represent their vote by marking
+it out with a marker too</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;<em>Name Tags</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>As it may be the first time some of the members of the group are meeting
+with each other, a name tag will be helpful for participants to identify
+each other in the meeting by name / role in student’s life &nbsp;</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><em>Good-to-have: Background music, decoration for room, snacks, scents, lighting etc.</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Besides the ‘necessary’ resources for conducting the meeting, you can
+also have elements in the room that make the room and inviting and welcoming
+space</p>
+</li>
+</ul>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
