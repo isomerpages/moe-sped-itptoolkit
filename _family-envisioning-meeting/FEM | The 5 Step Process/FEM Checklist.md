@@ -5,8 +5,8 @@ variant: tiptap
 description: FEM Checklist
 third_nav_title: FEM | The 5 Step Process
 ---
-<p>Refer to the following checklist to ensure that each step of FEM has been
-carefully considered and checked off.</p>
+<p>To help you through the FEM, here is a checklist you can use to ensure
+that each each step of FEM has been carefully considered and checked off.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/fem_checklist.png">
 </div>
