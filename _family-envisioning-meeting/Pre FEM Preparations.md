@@ -46,13 +46,13 @@ for FEM</p>
 <p></p>
 <p>Refer to the Preparation Booklets <a href="/preparation-booklets/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
-<p>The information provided in the preparation booklets is used during the
-FEM. Participants are encouraged to give <a href="/quality-person-centred-information/" rel="noopener noreferrer nofollow" target="_blank">detailed and specific input</a> in
-their booklets. This will greatly facilitate developing meaningful goals
-for the student during the meeting.&nbsp;</p>
+<p>The information provided in the preparation booklets is vital for FEM.
+Participants are encouraged to give as <a href="/quality-person-centred-information/" rel="noopener noreferrer nofollow" target="_blank">detailed and specific input</a> where
+they can in their booklets. This will greatly facilitate developing meaningful
+goals for the student during the meeting.&nbsp;</p>
 <p></p>
-<p>If someone important to the student is unable to attend the FEM, this
-person’s input can still be captured in the preparation booklets and represented
+<p>If someone important to the student is unable to attend FEM, this person’s
+input can still be captured in the preparation booklets and represented
 during the FEM.</p>
 <p></p>
 </div>
