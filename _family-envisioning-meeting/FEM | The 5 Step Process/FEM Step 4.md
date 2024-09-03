@@ -66,7 +66,7 @@ goals by asking:</p>
 <p>1) What is the positive change you want to see?</p>
 <p>(<em>This could be either changing what is not working or moving towards an aspiration</em>.)</p>
 <p>2) Write this into a specific outcome.</p>
-<p>3)Check the quality of the goal by using the <em>'Quality Goals Checklist' </em>
+<p>3)Check the quality of the goal by using the <em>'Quality Goals Checklist'</em>
 </p>
 </div>
 </details>
@@ -81,13 +81,15 @@ goals by asking:</p>
 </p>
 <hr>
 <h4>Quality Goals Checklist</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Checklist for writing Goals" src="/images/Goal_Checklist.png">
+<img style="width: 100%" height="auto" width="100%" alt="Quality of Goals Checklist" src="/images/Quality_of_Goals_Checklist.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="PCP Spotlight (Golden Thread)" src="/images/PCP_Spotlight_Outcome_seq_gold_thread__2_.png">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
