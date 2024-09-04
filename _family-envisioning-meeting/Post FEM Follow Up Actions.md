@@ -20,7 +20,8 @@ refer to <a href="/individual-transition-plan/about-itp/" rel="noopener noreferr
 to find out how the ITP is developed.</p>
 <h4>Other Follow-Ups</h4>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Post FEM Follow Up" src="/images/Post_FEM_Follow_Ups.png">
+<img style="width: 100%" height="auto" width="100%" alt="Diagram for Follow ups on FEM" src="/images/Follow_up_on_FEM.png">
 </div>
 <p></p>
