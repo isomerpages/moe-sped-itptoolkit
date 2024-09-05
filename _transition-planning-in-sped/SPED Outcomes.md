@@ -5,35 +5,20 @@ variant: tiptap
 description: Information about SPED Outcomes
 ---
 <h3><strong>SPED Outcomes</strong></h3>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>The SPED outcomes are the end goals of special education and represent
-the collective aspirations of the sector.</p>
+<p>The SPED outcomes are the end goals of Special Education and represent
+the collective aspirations of the sector.&nbsp; They aspire for every student
+to live independently, learn continuously and contribute meaningfully in
+the community when they graduate.&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>Through Transition Planning, students develop personalised and personal
-goals in the areas of Living, Learning, and Working (LLW), and are supported
-to attain them by the time they graduate.</p>
+<p>Transition Planning is a critical process for every student to develop
+personalised life goals to achieve the SPED outcomes when they graduate.&nbsp;</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Living, Learning and Working Outcomes + VISION: Active in the Community, Valued in Society" src="/images/Transition_Planning_Outcomes.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLW_Graphic.jpg">
 </div>
-<p>The<strong> Learning Outcomes</strong> relate to continual and life-long
-learning, emphasising the development of knowledge and skills that extend
-over time, supporting <strong>ongoing growth</strong> and adaptation throughout
-the student's life.</p>
-<p>The <strong>Living Outcomes</strong> encompass a broad spectrum of essential
-skills and values. These include <strong>personal management and safety</strong>,
-which relates to effective management of personal affairs and well-being; <strong>community engagement</strong> which
-fosters active participation and contribution within local and broader
-communities; <strong>leisure activities</strong> for enjoyment and relaxation
-while promoting a balanced lifestyle; <strong>positive interactions and relationships</strong> that
-emphasise the importance of fostering meaningful connections with others
-and <strong>responsible citizenship</strong> that underscores the need to
-contribute positively to society, promoting a sense of belonging.</p>
-<p>The <strong>Working Outcomes</strong> pertain to active <strong>contributions</strong> in
-both the community and at the workplace, embodying principles of dedication
-and service. This can provide a <strong>sense of meaning and fulfilment</strong> to
-the student with the knowledge that he/she is making a difference in his/her
-life.</p>
+<p></p>
