@@ -61,7 +61,7 @@ responses from the following three focus areas in FEM Step 2:</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>The Facilitator leads participants in crafting the student’s post-school
-goals. With reference to the priority, ask <strong>What is the positive change you want to see? </strong>(<em>This could be either changing what is not working or moving towards an aspiration</em>.)</p>
+goals. With reference to the priority areas, ask: <strong>What is the positive change you want to see? </strong>(<em>This could be either changing what is not working or moving towards an aspiration</em>.)</p>
 <p></p>
 <p>Write this into a specific outcome.</p>
 <p></p>
