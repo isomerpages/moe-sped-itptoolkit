@@ -8,27 +8,31 @@ description: ""
 of graduation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Transition_Planning_3_phases__updated_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TP_Phases.png">
 </div>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>In the Initiating phase, when the student is 13 – 14 years old, schools
-engage the family on student’s interests, preferences and strengths, as
-well as their aspirations and concerns.</p>
+<p>In the <strong>Initiating phase (13 – 14 years old<u>)</u></strong>, Transition
+Planning is introduced to families and they are engaged to share their
+aspirations and concerns, as well as talk about students’ interests and
+strengths.&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>In the Planning phase, when the student is 15 years old, the student together
-with his/her family goes through the Family Envisioning Meeting (FEM) for
-the first time where the Individual Transition Plan (ITP) is developed.</p>
+<p>In the <strong>Planning phase (15-16 years old)</strong>, a Family Envisioning
+Meeting (FEM) takes place for every student and their family from which
+an Individual Transition Plan (ITP) is developed.&nbsp; The ITP is a continuation
+of the IEP and contains the student’s post school goals, i.e. what they
+would like to do when they leave school.&nbsp;</p>
 </li>
 <li>
-<p>The ITP is reviewed every year with a person-centred approach and all
-relevant changes are updated in the ITP.</p>
+<p>The ITP is reviewed every year through a person-centred approach to stay
+relevant and updated.&nbsp;</p>
 </li>
 <li>
-<p>In the Consolidating phase when the student is in his/her final schooling
-year, the student and his/her family will go through the Multi-Agency Transition
-Meeting (MATM) using the ITP to inform the handover process.</p>
+<p>In the <strong>Consolidating phase (final schooling years)</strong>, connections
+and direct referrals to community pathways and resources are made for families
+to help the student fulfil their post school goals. Meetings with these
+agencies may be conducted to bridge the transition for families.&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ul>
 <p></p>
