@@ -4,6 +4,21 @@ permalink: /individual-transition-plan/what-itp/
 variant: tiptap
 description: Introduction to the Individual Transition Plan
 ---
+<h3><strong>One Page Profile</strong> </h3>
+<p>The OPP is a one-page summary about the student in three key areas:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What people liked and admired about
+the student</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What’s important to the student</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How best to support the student</p>
+<p>&nbsp;</p>
+<p>The OPP should be attached to the front of the ITP. It is typically prepared
+before FEM together with the Preparation Booklets. It should be prepared
+with the student over time. You can also use data from daily observations
+of the student, or ask their family, school staff and people who know him/her
+well.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pro_tip_Updating_the_OPP.png">
+</div>
 <h3><strong>Components of the ITP</strong></h3>
 <p>To support Person-centred Transition Planning, the ITP features the following
 key components:</p>
