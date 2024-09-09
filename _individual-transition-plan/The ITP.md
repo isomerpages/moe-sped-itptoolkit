@@ -31,7 +31,7 @@ well.</p>
 </div>
 <h4><strong>My Person Details</strong></h4>
 <p>This section captures personal details of the student and family/caregiver.</p>
-<h4><strong>My Strengths </strong></h4>
+<h4><strong>My Strengths</strong></h4>
 <p>This section captures the student’s strengths and abilities. It highlights
 the student’s strengths based on information received from the student,
 family, school, health and care professionals. The information highlights
@@ -48,7 +48,7 @@ reflecting the views of student, family and school staff.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Source: MINDS TGS, CPAS School, Eden School" src="/images/Aspirations_examples.jpg">
 </div>
-<h4><strong>How I Communicate </strong></h4>
+<h4><strong>How I Communicate</strong></h4>
 <p>This section provides a summary of how the student communicates. Information
 can be gathered from the <strong>Preparation Booklet</strong> or through
 the use of appropriate <strong>PCP Tools</strong> like <em>Communication Chart, Decision-making Profile </em>and<em> Decision-making Agreement</em>.</p>
