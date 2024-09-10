@@ -11,9 +11,11 @@ third_nav_title: FEM | The 5 Step Process
 </div>
 <p>The facilitator leads the participants through the steps of the Outcome
 Sequence:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Outcome Sequence" src="/images/FEM_Step_5.png">
+<img style="width: 100%" height="auto" width="100%" alt="Outcome Sequence (3 Steps)" src="/images/Outcome_sequence__3_steps_.png">
 </div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Step 1: Identify the Priority Areas</summary>
@@ -63,7 +65,8 @@ responses from the following three focus areas in FEM Step 2:</p>
 <p>The Facilitator leads participants in crafting the student’s post-school
 goals. With reference to the priority areas, ask: <strong>What is the positive change you want to see? </strong>(<em>This could be either changing what is not working or moving towards an aspiration</em>.)</p>
 <p></p>
-<p>Write this into a specific outcome.</p>
+<p>Write this into a specific outcome, keeping in mind the common mistakes
+of developing outcomes.</p>
 <p></p>
 </div>
 </details>
