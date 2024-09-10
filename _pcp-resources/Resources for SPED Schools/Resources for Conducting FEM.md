@@ -6,8 +6,8 @@ description: Downloadable Resources for conducting FEM
 third_nav_title: Resources for SPED Schools
 ---
 <p></p>
-<p>The following resources outlined in the FEM section can be downloaded
-as soft copy or printed as a hardcopy for reference during FEM itself.&nbsp;</p>
+<p>The following resources outlined in the <a href="/example-folder/fem-overview/" rel="noopener nofollow" target="_blank">FEM section</a> can be downloaded as
+soft copy or printed as a hardcopy for reference during FEM itself.&nbsp;</p>
 <hr>
 <h3><strong>FEM Video</strong></h3>
 <p>The <strong>FEM Video </strong>brings the member of the Transition Team
