@@ -10,6 +10,9 @@ description: ""
 the meeting itself takes place.&nbsp; This involves preparing the meeting’s
 participants, materials, and ensuring that the room is properly set-up
 and ready with relevant resources for an effective FEM.</p>
+<p>A <strong>skilful facilitator</strong> for FEM is important for a successful
+FEM. Some skills facilitators should develop include active listening,
+goal-setting, planning, chairing a meeting and time-keeping. &nbsp;&nbsp;</p>
 <h3><strong>a) Preparing the Participants</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -67,14 +70,17 @@ ways to support meeting participants might include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>The Student</strong>: Ensure that the student’s One Page Profile
-is updated and use PCP tools to support the student in filling up his/her
-preparation booklet before the meeting</p>
+is updated and use PCP tools to support the student to express his voice
+both before and during FEM. Strategies should be considered to help the
+student participate e.g. Helping the student to fill up his/her preparation
+booklet, supporting the student’s communication needs through an AAC etc.</p>
 <p></p>
 </li>
 <li>
 <p><strong>The Student’s Family</strong>:&nbsp; Anticipate their needs before
 the meeting, and determine what will help them to understand what is most
-important to the student.</p>
+important to the student.&nbsp;E.g. Would any family member require an
+interpreter? Would any family member need time to rest/food before starting?</p>
 <p></p>
 </li>
 </ul>
