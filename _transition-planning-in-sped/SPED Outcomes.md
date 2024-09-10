@@ -18,7 +18,13 @@ personalised life goals to achieve the SPED outcomes when they graduate.&nbsp;</
 </li>
 </ul>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLW_Graphic.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="SPED Vision" src="/images/SPED_Vision_v1.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LLW Visual" src="/images/LLW_graphic__1_.png">
 </div>
 <p></p>
