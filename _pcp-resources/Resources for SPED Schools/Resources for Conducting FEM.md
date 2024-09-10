@@ -9,6 +9,12 @@ third_nav_title: Resources for SPED Schools
 <p>The following resources outlined in the <a href="/example-folder/fem-overview/" rel="noopener nofollow" target="_blank">FEM section</a> can be downloaded as
 soft copy or printed as a hardcopy for reference during FEM itself.&nbsp;</p>
 <hr>
+<h3><strong>FEM Checklist</strong></h3>
+<p>The <a href="/files/Resources for SPED Schools/For Conducting FEM/Family_Envisioning_Meeting__FEM__Checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">FEM Checklist</a> guides
+the member of the Transition Team to complete all the steps in Family Envisioning
+Meeting (FEM) within the suggested time. It can printed as reference during
+FEM itself.</p>
+<hr>
 <h3><strong>FEM Video</strong></h3>
 <p>The <strong>FEM Video </strong>brings the member of the Transition Team
 through a visual depiction of all the steps of Family Envisioning Meeting
@@ -29,8 +35,5 @@ itself.</p>
 various modes of support to move the student towards attaining his/her
 post-school goals. It can be printed as reference during FEM itself.</p>
 <hr>
-<h3><strong>FEM Checklist</strong></h3>
-<p>The <a href="/files/Resources for SPED Schools/For Conducting FEM/Family_Envisioning_Meeting__FEM__Checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">FEM Checklist</a> guides
-the member of the Transition Team to complete all the steps in Family Envisioning
-Meeting (FEM) within the suggested time. It can printed as reference during
-FEM itself.</p>
+<h3></h3>
+<p></p>
