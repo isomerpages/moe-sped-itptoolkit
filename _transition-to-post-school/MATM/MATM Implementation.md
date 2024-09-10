@@ -12,8 +12,6 @@ strong coordination and collaboration are needed. Successful MATM implementation
 depends on ensuring key preparation activities are carried out by SPED
 Schools and Adult Centres, as well as the student and family attending
 the meeting.</p>
-<p>Schools and adult centres may refer to the "Support and Resources" page
-for materials that can guide the preparation for MATM implementation.</p>
 <p></p>
 <h3><strong>After the Meeting</strong></h3>
 <hr>
