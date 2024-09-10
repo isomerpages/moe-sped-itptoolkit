@@ -2,6 +2,7 @@ collections:
   transition-to-post-school:
     output: true
     order:
+      - Resources for Transition to Post School.md
       - SPED Post 18/.keep
       - SPED Post 18/Post School Pathways.md
       - MATM/.keep
