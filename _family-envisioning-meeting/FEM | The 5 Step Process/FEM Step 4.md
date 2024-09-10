@@ -13,7 +13,7 @@ third_nav_title: FEM | The 5 Step Process
 Sequence:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Outcome Sequence (3 Steps)" src="/images/Outcome_sequence__3_steps_.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Outcome Sequence (3 Steps)" src="/images/Outcome_sequence__3_steps_.png">
 </div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
