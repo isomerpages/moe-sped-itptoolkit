@@ -7,8 +7,9 @@ description: ""
 <p>Transition Planning in SPED schools involves 3 phases up to the point
 of graduation.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TP_Phases.png">
+<img style="width: 100%" height="auto" width="100%" alt="Transition Planning Process" src="/images/Transition_planning_1.png">
 </div>
 <ul>
 <li>
