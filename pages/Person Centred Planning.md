@@ -39,3 +39,8 @@ with disabilities may need the support of others”.&nbsp;</p>
 <p></p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="Aesthetic Visual" src="/images/Decor_1.png">
+</div>
+<p></p>
+<p></p>
