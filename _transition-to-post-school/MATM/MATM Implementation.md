@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: MATM
 ---
-<h3><strong>Preparing for MATM</strong></h3>
+<h3><strong>Preparing for the Meeting</strong></h3>
 <hr>
 <p>To achieve a person-centred transition for the student to Adult Centres,
 strong coordination and collaboration are needed. Successful MATM implementation
@@ -18,7 +18,8 @@ the meeting.</p>
 <p>Comprehensive and timely post-meeting follow-up greatly enhances MATM
 outcomes. Schools and ACs can work together to ensure that the necessary
 follow-up actions agreed during the meeting are carried out.</p>
-<h4>For MATM With Intake, Adult Centres may...</h4>
+<p></p>
+<h4><em>For MATM With Intake, Adult Centres may...</em></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Arrange for remaining assessment to be completed (within the same day,
