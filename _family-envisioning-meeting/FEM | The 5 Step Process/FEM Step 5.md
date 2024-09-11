@@ -10,8 +10,8 @@ third_nav_title: FEM | The 5 Step Process
 <img style="width: 100%" height="auto" width="100%" alt="Time Progress bar for Step 5" src="/images/Step_5.png">
 </div>
 <p>The facilitator leads the participants in brainstorming supports and actions
-that can help the student to &nbsp;achieve his/her post-school goals. This
-is done through the<strong> <em>Support Sequence</em></strong> and the <strong><em>Action Plan template</em></strong>.</p>
+that can help the student to achieve his/her post-school goals. This is
+done through the<strong> <em>Support Sequence</em></strong> and the <strong><em>Action Plan template</em></strong>.</p>
 <p></p>
 <h4>The Support Sequence and Action Plan Template</h4>
 <div class="isomer-image-wrapper">
