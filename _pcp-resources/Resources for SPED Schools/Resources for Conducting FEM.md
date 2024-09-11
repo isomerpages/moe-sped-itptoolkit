@@ -22,7 +22,7 @@ meaningful post-school goals. It can be printed as reference during FEM
 itself.</p>
 <hr>
 <h3><strong>Support Sequence</strong></h3>
-<p>The <a href="files/Resources for SPED Schools/For Conducting FEM/Support_Sequence.pdf" rel="noopener nofollow" target="_blank">Support Sequence</a> outlines
+<p>The <a href="/files/Resources for SPED Schools/For Conducting FEM/Support_Sequence.pdf" rel="noopener nofollow" target="_blank">Support Sequence</a> outlines
 various modes of support to move the student towards attaining his/her
 post-school goals. It can be printed as reference during FEM itself.</p>
 <hr>
