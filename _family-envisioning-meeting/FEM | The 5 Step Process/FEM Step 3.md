@@ -10,7 +10,7 @@ third_nav_title: FEM | The 5 Step Process
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Step_3_Timer.png">
 </div>
 <p>The facilitator engages participants to think about What’s Working and
-What’s not Working for the student in the following 4 areas:</p>
+What’s Not Working for the student in the following 4 areas:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Building my <strong>independence </strong>skills: <em>This is related to the student’s developing abilities in persona management and mobility, including safety and health</em>
