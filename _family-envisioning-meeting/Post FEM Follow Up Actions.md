@@ -6,9 +6,8 @@ description: ""
 ---
 <h1>Developing the First Individual Transition Plan (ITP)</h1>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="5 Steps to ITP" src="/images/fem_to_itp.png">
+<img style="width: 100%" height="auto" width="100%" alt="FEM to ITP" src="/images/FEM_to_ITP_v2__with_3_step_outcome_seq_.png">
 </div>
 <p>An effective and person-centred FEM culminates in a rich appreciation
 of the student, and the development of a set of personal goals that builds
