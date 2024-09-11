@@ -10,7 +10,7 @@ third_nav_title: Resources for SPED Schools
 soft copy or printed as a hardcopy for reference during FEM itself.&nbsp;</p>
 <hr>
 <h3><strong>FEM Checklist</strong></h3>
-<p>The <a href="\files/Resources for SPED Schools/For Conducting FEM/FEM_Checklist.pdf" rel="noopener nofollow" target="_blank">FEM Checklist</a> guides
+<p>The <a href="/files/Resources for SPED Schools/For Conducting FEM/FEM_Checklist.pdf" rel="noopener nofollow" target="_blank">FEM Checklist</a> guides
 the member of the Transition Team to complete all the steps in Family Envisioning
 Meeting (FEM) within the suggested time. It can printed as reference during
 FEM itself.</p>
