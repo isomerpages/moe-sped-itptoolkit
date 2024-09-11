@@ -14,7 +14,7 @@ of the purposes and processes of the Individual Education Plan (IEP) and
 Individual Transition Plan (ITP) and how they are aligned, to support schools
 in planning and implementing school-wide person-centred IEPs and ITPs for
 all students.&nbsp;</p>
-<p><a href="/files/Resources for SPED Schools/MOE Resources/MOE_Individual_Planning_Guide__2020___compressed_.pdf" class="Hyperlink SCXW253498063 BCX8" rel="noreferrer noopener" target="_blank"><u>MOE | Individual Planning Guide (2020)</u></a>&nbsp;</p>
+<p><a href="/files/Resources for SPED Schools/On SPED Individual Planning/MOE_Individual_Planning_Guide__2020___compressed_.pdf" rel="noopener nofollow" target="_blank">MOE | Individual Planning Guide (2020)</a>&nbsp;</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -23,6 +23,6 @@ all students.&nbsp;</p>
 <p>The <strong>Transition Planning Guide*</strong> guides Special Education
 (SPED) schools to put in place, systems and processes for effective Transition
 Planning for students with special needs.&nbsp;</p>
-<p><a href="/files/Resources for SPED Schools/MOE Resources/MOE_Transition_Planning_Guide__2017_.pdf" class="Hyperlink SCXW16098627 BCX8" rel="noreferrer noopener" target="_blank"><u>MOE | Transition Planning Guide (2017)</u></a>&nbsp;</p>
+<p><a href="/files/Resources for SPED Schools/On SPED Individual Planning/MOE_Transition_Planning_Guide__2017_.pdf" rel="noopener nofollow" target="_blank">MOE | Transition Planning Guide (2017)</a>&nbsp;</p>
 <p><em>*It is important for schools to tap on this guide with consideration for the changes in transition planning since its publication, and to adapt it to current circumstances and best practices.&nbsp;</em>
 </p>
