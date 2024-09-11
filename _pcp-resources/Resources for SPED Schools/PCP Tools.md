@@ -46,7 +46,7 @@ efforts to strengthen their existing relationships and build new ones.</div>
 <a rel="noopener noreferrer nofollow" href="/files/Resources for SPED Schools/PCP Tools/Decision_Making_Profile.pdf" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/decision_making_profile.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/decision_making_profile.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
