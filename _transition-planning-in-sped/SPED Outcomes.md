@@ -8,7 +8,7 @@ description: Information about SPED Outcomes
 <ul>
 <li>
 <p>The SPED outcomes are the end goals of Special Education and represent
-the collective aspirations of the sector.&nbsp; They aspire for every student
+the collective aspirations of the sector.&nbsp;They aspire for every student
 to live independently, learn continuously and contribute meaningfully in
 the community when they graduate.&nbsp;&nbsp;</p>
 </li>
