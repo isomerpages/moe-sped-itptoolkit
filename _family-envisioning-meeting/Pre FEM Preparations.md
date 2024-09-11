@@ -70,9 +70,9 @@ ways to support meeting participants might include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>The Student</strong>: Ensure that the student’s One Page Profile
-is updated and use PCP tools to support the student to express his voice
-both before and during FEM. Strategies should be considered to help the
-student participate e.g. Helping the student to fill up his/her preparation
+is updated and use PCP tools to support the student to express his/her
+voice both before and during FEM. Strategies should be considered to help
+the student participate e.g. helping the student to fill up his/her preparation
 booklet, supporting the student’s communication needs through an AAC etc.</p>
 <p></p>
 </li>
