@@ -19,7 +19,7 @@ of the student's first Individual Transition Plan (ITP).</p>
 <h4><strong>Watch a FEM in action!</strong></h4>
 <p><a href="https://app.vyond.com/videos/aa41fa88-20fd-48e6-bc5d-dd783e0aea3b" rel="noopener nofollow" target="_blank">Click here to watch the FEM Video Animation!</a>
 </p>
-<p><em>(Actual FEM Video will be downloaded and housed on YouTube after clearance.)</em>
+<p><em>[Actual FEM Video will be an embedded video on the site after clearance. Video needs to be uploaded on YouTube before it can be embedded]</em>
 </p>
 <p></p>
 <p></p>
