@@ -34,7 +34,7 @@ before FEM for their completion.</p>
 <p>Preparation<strong> </strong>booklets<strong> prepare meeting participants to engage in FEM </strong>by<strong> </strong>prompting
 them to think about the student’s current reality, dreams, and aspirations.&nbsp;</p>
 <p></p>
-<p>There are Preparation Booklets for the Student, Families and Professionals.</p>
+<p>There are Preparation Booklets for the Student, Families and School Staff.</p>
 <p></p>
 <p>The booklets include:</p>
 <ul data-tight="true" class="tight">
