@@ -17,10 +17,9 @@ when the student turns 15 year old. FEM is pivotal for the development
 of the student's first Individual Transition Plan (ITP).</p>
 <p></p>
 <h4><strong>Watch a FEM in action!</strong></h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bitGNuvZkWA?si=XVYBzDAzPGOE_tW-"></iframe>
-</div>
-<p><em>(Embedded Video will be swaped with actual FEM Video)</em>
+<p><a href="https://app.vyond.com/videos/aa41fa88-20fd-48e6-bc5d-dd783e0aea3b" rel="noopener nofollow" target="_blank">Click here to watch the FEM Video Animation!</a>
+</p>
+<p><em>(Actual FEM Video will be downloaded and housed on YouTube after clearance.)</em>
 </p>
 <p></p>
 <p></p>
