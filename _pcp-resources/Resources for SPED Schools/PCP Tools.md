@@ -5,7 +5,7 @@ variant: tiptap
 description: Person-centered planning tools
 third_nav_title: Resources for SPED Schools
 ---
-<p>Person-centred Planning (PCP) Tools are <strong>a set of templates </strong>designed
+<p>Person-Centred Planning (PCP) Tools are <strong>a set of templates </strong>designed
 to <strong>facilitate</strong>  <strong>meaningful conversations </strong>and <strong>capture essential information. </strong>In
 person-centred Transition Planning, PCP tools can be used<strong> </strong>to
 help the student fill in his/her preparation booklet. SPED educators can
