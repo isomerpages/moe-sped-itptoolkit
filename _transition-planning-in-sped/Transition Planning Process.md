@@ -21,7 +21,7 @@ strengths.&nbsp;&nbsp;</p>
 <li>
 <p>In the <strong>Planning phase (15-16 years old)</strong>, a Family Envisioning
 Meeting (FEM) takes place for every student and their family from which
-an Individual Transition Plan (ITP) is developed.&nbsp; The ITP is a continuation
+an Individual Transition Plan (ITP) is developed. The ITP is a continuation
 of the IEP and contains the student’s post school goals, i.e. what they
 would like to do when they leave school.&nbsp;</p>
 </li>
