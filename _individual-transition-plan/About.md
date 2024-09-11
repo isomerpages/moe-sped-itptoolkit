@@ -17,6 +17,6 @@ to post-school.</p>
 <p>The ITP is first developed after the <a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/example-folder/fem-overview/" rel="noopener noreferrer nofollow" target="_blank">Family Envisioning Meeting (FEM)</a> is
 conducted when the student is 15 years of age.&nbsp; Key information derived
 from the FEM are documented in the student’s ITP and the ITP is reviewed
-annual to ensure the information stays relevant and updated.</p>
+annually to ensure the information stays relevant and updated.</p>
 <p></p>
 <p></p>
