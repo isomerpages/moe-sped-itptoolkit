@@ -4,13 +4,6 @@ permalink: /individual-transition-plan/what-itp/
 variant: tiptap
 description: Introduction to the Individual Transition Plan
 ---
-<h3><strong>Developing the ITP</strong></h3>
-<p>The ITP consists of the following sections:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ITP_Components_9_Sep.png">
-</div>
-<hr>
-<p></p>
 <h3><strong>One Page Profile</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/one_page_profile.jpg">
@@ -26,12 +19,14 @@ the student</p>
 <p>The OPP is prepared with the student over time. You can also use data
 from daily observations of the student, or ask their family, school staff
 and people who know him/her well.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pro_tip_Updating_the_OPP.png">
 </div>
 <hr>
-<p></p>
+<p>The ITP consists of the following sections:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ITP_Components_9_Sep.png">
+</div>
 <h4><strong>My Person Details</strong></h4>
 <p>This section captures personal details of the student and family/caregiver.</p>
 <h4><strong>My Strengths</strong></h4>
@@ -42,10 +37,8 @@ professionals.</p>
 <p>This section captures the student’s wishes, ambitions and dreams about
 what they want to do when they graduate or in their lives. This can include
 social and work-related aspirations. Information can be drawn from <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step2/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 2</a></strong>,
-which captures the views of the student, family and school staff.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>Here are some examples of aspirations shared at FEM:</p>
+which captures the views of the student, family and school staff.Here are
+some examples of aspirations shared at FEM:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Source: MINDS TGS, CPAS School, Eden School" src="/images/Aspirations_examples.jpg">
 </div>
@@ -62,25 +55,21 @@ relation to the respective life planning areas, as gathered through <strong><a h
 This information is important for developing goals through the <strong>Outcome Sequence</strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Whats_Working_Whats_not_Working.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WWWNW.png">
 </div>
 <h4><strong>My Goals and Action Plan</strong></h4>
-<p>This section specifies the student’s post school goals as well as shorter
+<p>This section specifies the student’s post school goals as well as short
 term goals, and a clear action plan to support attainment of the goals.
 Goals developed from the <strong>Outcome Sequence</strong> at <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step4/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 4</a></strong> can
 be refined as needed, and placed into this section. Refer to<strong> <a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step4/" rel="noopener noreferrer nofollow" target="_blank">Step 3 of the Outcome Sequence</a> </strong>for
 quality checking of goals.</p>
-<p>&nbsp;</p>
-<p>This is the <strong>Outcome Sequence</strong> used at FEM Step 4.</p>
+<p>&nbsp;This is the <strong>Outcome Sequence</strong> used at FEM Step 4.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outcome_sequence__3_steps_.png">
 </div>
-<p>Actions and follow-ups from the Action Plan drawn up at<strong> FEM Step 5</strong>,
-are also transferred into this section.Actions and follow-ups from the <strong>Action Plan</strong> drawn
-up at<strong> <a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step5/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 5</a></strong>,
+<p>Actions and follow-ups from the <strong>Action Plan</strong> drawn up at<strong> <a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step5/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 5</a></strong>,
 can be transferred into this section.</p>
-<p>&nbsp;</p>
-<p>This is the <strong>Action Plan</strong> used at FEM Step 5.</p>
+<p>&nbsp;This is the <strong>Action Plan</strong> used at FEM Step 5.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Action_Template_v2.png">
 </div>
@@ -98,3 +87,4 @@ families up with services, making application, deputyship, etc).</p>
 <p>The ITP is co-developed with the views and hopes of people supporting
 the student. &nbsp;This section captures details of persons who have contributed
 to sharing of information that is captured in ITP.</p>
+<p></p>
