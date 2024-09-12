@@ -60,7 +60,7 @@ received from the student, family, school, health and care professionals.</p>
 relation to the respective life planning areas, as gathered through <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step3/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 3</a></strong>.
 This information is important for developing goals through the <strong>Outcome Sequence</strong>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WWWNW.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WWWNW.png">
 </div>
 <h4><strong>My Goals and Action Plan</strong></h4>
 <p>This section specifies the student’s post school goals as well as short
