@@ -21,7 +21,7 @@ description: Introduction to the Individual Transition Plan
 <p>How best to support the student</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p>The OPP is prepared with the student over time. You can also use data
 from daily observations of the student, or ask their family, school staff
 and people who know him/her well.</p>
@@ -71,13 +71,14 @@ be refined as needed, and placed into this section. Refer to<strong> <a href="ht
 quality checking of goals.</p>
 <p>&nbsp;This is the <strong>Outcome Sequence</strong> used at FEM Step 4.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outcome_sequence__3_steps_.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Outcome_sequence__3_steps_.png">
 </div>
 <p>Actions and follow-ups from the <strong>Action Plan</strong> drawn up at<strong> <a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step5/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 5</a></strong>,
 can be transferred into this section.</p>
 <p>&nbsp;This is the <strong>Action Plan</strong> used at FEM Step 5.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Action_Template_v2.png">
+<img style="width: 75%;" height="auto" width="100%" alt="Action Plan Template" src="/images/action_template_2.png">
 </div>
 <h4><strong>My Transition Activities</strong></h4>
 <p>This section captures any other transition-related activities needed to
