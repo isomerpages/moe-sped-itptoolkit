@@ -59,7 +59,6 @@ received from the student, family, school, health and care professionals.</p>
 <p>This section records key information on <em>What’s Working What’s Not Working</em> in
 relation to the respective life planning areas, as gathered through <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step3/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 3</a></strong>.
 This information is important for developing goals through the <strong>Outcome Sequence</strong>.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WWWNW.png">
 </div>
