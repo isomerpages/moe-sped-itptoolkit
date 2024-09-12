@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - About.md
-      - The ITP.md
+      - Developing the ITP.md
       - The ITP Review.md
