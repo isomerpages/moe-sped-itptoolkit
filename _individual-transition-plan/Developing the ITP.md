@@ -9,18 +9,24 @@ description: Introduction to the Individual Transition Plan
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/one_page_profile.jpg">
 </div>
 <p>Attach the student’s OPP to the front of their ITP.</p>
-<p>&nbsp;</p>
-<p>The OPP is a one-page summary about the student in three key areas:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What people liked and admired about
-the student</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What’s important to the student</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How best to support the student</p>
+<p>&nbsp;The OPP is a one-page summary about the student in three key areas:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>What people liked and admired about the student</p>
+</li>
+<li>
+<p>What’s important to the student</p>
+</li>
+<li>
+<p>How best to support the student</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>The OPP is prepared with the student over time. You can also use data
 from daily observations of the student, or ask their family, school staff
 and people who know him/her well.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pro_tip_Updating_the_OPP.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Pro_tip_Updating_the_OPP.png">
 </div>
 <hr>
 <p>The ITP consists of the following sections:</p>
