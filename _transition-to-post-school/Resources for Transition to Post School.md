@@ -10,16 +10,16 @@ with it joy, yet also uncertainty about what lies ahead. Families and caregivers
 can be assured that they are not alone in this journey of transition to
 post-school, and that they can access information to help them and their
 children make informed decisions about their post-school lives.</p>
-<p>One key partner in this journey is SG Enable, a registered charity established
+<p>MOE's partner in this journey is SG Enable, a registered charity established
 by the Ministry of Social and Family Development (MSF) that focuses on
 employment, community integration and continual learning for persons with
 disabilities. For more information about SG Enable, please visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.sgenable.sg</a>
 </p>
 <p>We encourage families and caregivers to explore the resources provided
 by SG Enable, including the Enabling Guide and the Post-18 Interactive
-Guide. These resources are designed to empower and equip them and their
-child with valuable information and support as they navigate the post-school
-transition</p>
+Guide. These resources are designed to empower and equip families with
+valuable information and support as they navigate the transition to post-school
+lives.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
