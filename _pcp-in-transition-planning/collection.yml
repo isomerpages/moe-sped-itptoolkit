@@ -2,8 +2,8 @@ collections:
   pcp-in-transition-planning:
     output: true
     order:
-      - Transition Planning Process.md
       - Overview of Transition Planning in SPED Schools.md
+      - Transition Planning Process.md
       - SPED Outcomes.md
       - The ITP/.keep
       - The ITP/About the ITP.md
