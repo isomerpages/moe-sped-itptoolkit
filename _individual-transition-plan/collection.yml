@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - The ITP/.keep
-      - The ITP/Developing the ITP.md
       - The ITP/Reviewing the ITP.md
