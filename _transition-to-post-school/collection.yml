@@ -2,7 +2,6 @@ collections:
   transition-to-post-school:
     output: true
     order:
-      - Resources for Transition to Post School.md
       - Post School Pathways.md
       - MATM/.keep
       - MATM/MATM Implementation.md
