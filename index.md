@@ -16,6 +16,19 @@ sections:
       backgroundColor: gray
       alignment: right
       size: md
+  - infocols:
+      title: Learn more about...
+      id: infocols
+      infoboxes:
+        - title: Why PCP in SPED Transition Planning?
+          description: What is Person-Centred planning? Why and how do we ensure PCP
+            principles in transition planning?
+        - title: What is a Family Envisioning Meeting (FEM)?
+          description: Why is FEM so significant? How do I go about conducting a FEM for
+            my students?
+        - title: What Post-SPED Pathways are there?
+          description: What is next after SPED? What resources are available for me to be
+            active in the community and valued in society?
   - infopic:
       title: Family Envisioning Meeting (FEM)
       id: infopic
