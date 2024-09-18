@@ -2,6 +2,7 @@ collections:
   pcp-in-transition-planning:
     output: true
     order:
+      - The ITP/Reviewing the ITP.md
       - The ITP/Developing the ITP.md
       - The ITP/About the ITP.md
       - The ITP/.keep
