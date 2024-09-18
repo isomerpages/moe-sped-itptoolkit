@@ -2,6 +2,7 @@ collections:
   pcp-in-transition-planning:
     output: true
     order:
+      - Transition to Post School/.keep
       - The ITP/.keep
       - The ITP/About the ITP.md
       - The ITP/Developing the ITP.md
