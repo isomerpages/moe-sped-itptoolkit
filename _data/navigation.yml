@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Understanding PCP
-    collection: understanding-pcp
+    url: /permalink
   - title: Pcp In Transition Planning
     collection: pcp-in-transition-planning
   - title: The Family Envisioning Meeting
