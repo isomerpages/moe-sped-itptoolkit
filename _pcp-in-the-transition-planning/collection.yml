@@ -1,5 +1,5 @@
 collections:
-  transition-planning-in-sped:
+  pcp-in-the-transition-planning:
     output: true
     order:
       - Overview of Transition Planning in SPED Schools.md
