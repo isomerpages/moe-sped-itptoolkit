@@ -1,4 +1,5 @@
 collections:
   understanding-pcp:
     output: true
-    order: []
+    order:
+      - Person Centred Planning.md
