@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - MATM/.keep
-      - MATM/MATM Support and Resources.md
