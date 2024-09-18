@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - The ITP/.keep
-      - About the ITP.md
       - Developing the ITP.md
       - Reviewing the ITP.md
