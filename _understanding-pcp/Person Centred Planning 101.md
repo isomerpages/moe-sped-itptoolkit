@@ -43,4 +43,16 @@ with disabilities may need the support of others”.&nbsp;</p>
 <img style="width: 20%;" height="auto" width="100%" alt="Aesthetic Visual" src="/images/Decor_1.png">
 </div>
 <p></p>
+<h4><strong>Person-Centred Planning in SPED</strong></h4>
+<p>The Ministry of Education will strengthen Person-Centred Planning as a
+core feature in Transition Planning in all SPED schools by enhancing family
+members involvement in the envisioning process. A more structured Individual
+Transition Plan will be implemented to guide goal setting in important
+life areas.</p>
+<p>PCP in SPED will increase capabilities and collaboration between teachers
+and families to support students in planning for their post-graduation
+lives to fulfill their aspirations. Through this partnership, SPED students
+will be enabled to achieve the living, learning and working outcomes of
+SPED.</p>
+<p></p>
 <p></p>
