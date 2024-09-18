@@ -1,5 +1,4 @@
 collections:
   transition-to-post-school:
     output: true
-    order:
-      - MATM/.keep
+    order: []
