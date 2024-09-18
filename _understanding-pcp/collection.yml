@@ -2,4 +2,5 @@ collections:
   understanding-pcp:
     output: true
     order:
+      - Person Centred Planning in SPED.md
       - Person Centred Planning 101.md
