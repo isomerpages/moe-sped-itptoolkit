@@ -24,8 +24,9 @@ Coordinator and Transition Team.&nbsp;</p>
 <p></p>
 <p>Transition Planning in SPED schools involves 3 phases up to the point
 of graduation.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Transition Planning Process" src="/images/Transition_planning_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Transition Planning in SPED Visual" src="/images/Transition_planning_2.png">
 </div>
 <ul>
 <li>
