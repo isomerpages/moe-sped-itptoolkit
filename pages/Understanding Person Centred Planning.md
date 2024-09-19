@@ -4,6 +4,11 @@ permalink: /pcp/
 variant: tiptap
 description: Information about Person-Centred Planning
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="Aesthetic Visual" src="/images/Decor_1.png">
+</div>
+<p></p>
 <h4><strong>Person-Centredness</strong></h4>
 <blockquote>
 <p><em>Person-centredness is a set of&nbsp;</em><strong><em>beliefs, attitudes, and expectations</em></strong><em>&nbsp;about the&nbsp;</em><strong><em>capacities and rights</em></strong><em>&nbsp;of persons with disabilities to live their lives in accordance with their own wishes, dreams, aspirations, needs and abilities. (New Directions, 2012)&nbsp; &nbsp;</em>
@@ -27,7 +32,7 @@ with disabilities may need the support of others”.&nbsp;</p>
 </div>
 <p><em><sub>Sonoran University Centre for Excellence in Developmental Disabilities, 2011</sub></em>
 </p>
-<p></p>
+<hr>
 <h4><strong>Person-Centred Planning (PCP)</strong></h4>
 <blockquote>
 <p><em>“[A]ssists people to think about what types of things they would like to have now as well as in the future, and it </em><strong><em>places the individual’s family and friends at the forefront</em></strong><em> of helping to make those plans come into existence.” (O’Brien, 2004)</em>
@@ -36,23 +41,13 @@ with disabilities may need the support of others”.&nbsp;</p>
 <p><em>“A collaborative effort, involving those who know an individual well and are willing to commit to taking the action necessary </em><strong><em>to support the person in achieving his or her life vision</em></strong><em>.” (Abery and McBride, 1998)</em>
 </p>
 </blockquote>
-<p></p>
-<p></p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Aesthetic Visual" src="/images/Decor_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="PCP in SPED" src="/images/PCP_in_SPED.jpg">
 </div>
 <p></p>
-<h4><strong>Person-Centred Planning in SPED</strong></h4>
-<p>The Ministry of Education will strengthen Person-Centred Planning as a
-core feature in Transition Planning in all SPED schools by enhancing family
-members involvement in the envisioning process. A more structured Individual
-Transition Plan will be implemented to guide goal setting in important
-life areas.</p>
-<p>PCP in SPED will increase capabilities and collaboration between teachers
-and families to support students in planning for their post-graduation
-lives to fulfill their aspirations. Through this partnership, SPED students
-will be enabled to achieve the living, learning and working outcomes of
-SPED.</p>
+<p></p>
+<h4></h4>
 <p></p>
 <p></p>
