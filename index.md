@@ -16,7 +16,7 @@ sections:
       url: /pcp/
       backgroundColor: gray
       alignment: left
-      size: md
+      size: sm
   - infopic:
       title: Family Envisioning Meeting (FEM)
       id: infopic
