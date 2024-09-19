@@ -7,22 +7,16 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Person-Centred Planning
-      subtitle: Listening to their aspirations, strengths and concerns
+      title: MOE's Person-Centred Planning Website
+      subtitle: A comprehensive guide to support PCP implementation in SPED schools.
+        Learn more about PCP processes and resources in Transition Planning.
       background: /images/CPASS.jpg
-      variant: center
-      button: Learn more
+      variant: floating
+      button: Learn more about PCP
       url: /pcp/
-      backgroundColor: gray
+      backgroundColor: black
       alignment: right
       size: md
-  - infobar:
-      title: MOE's Person-Centred Planning Website
-      subtitle: Welcome to...
-      id: infobar
-      description: A comprehensive guide to support PCP implementation in SPED
-        schools. Learn more about PCP processes and resources in Transition
-        Planning.
   - infopic:
       title: Family Envisioning Meeting (FEM)
       id: infopic
@@ -57,4 +51,11 @@ sections:
   - resources:
       title: News and Happenings
       id: resources
+  - infobar:
+      title: MOE's Person-Centred Planning Website
+      subtitle: Welcome to...
+      id: infobar
+      description: A comprehensive guide to support PCP implementation in SPED
+        schools. Learn more about PCP processes and resources in Transition
+        Planning.
 ---
