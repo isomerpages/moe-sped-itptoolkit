@@ -16,6 +16,13 @@ sections:
       backgroundColor: gray
       alignment: right
       size: md
+  - infobar:
+      title: MOE's Person-Centred Planning Website
+      subtitle: Welcome to...
+      id: infobar
+      description: A comprehensive guide to support PCP implementation in SPED
+        schools. Learn more about PCP processes and resources in Transition
+        Planning.
   - infopic:
       title: Family Envisioning Meeting (FEM)
       id: infopic
