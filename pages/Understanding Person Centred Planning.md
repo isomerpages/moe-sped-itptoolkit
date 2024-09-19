@@ -6,7 +6,7 @@ description: Information about Person-Centred Planning
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Aesthetic Visual" src="/images/Decor_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="PCP in SPED" src="/images/PCP_in_SPED.jpg">
 </div>
 <p></p>
 <h4><strong>Person-Centredness</strong></h4>
@@ -42,12 +42,6 @@ with disabilities may need the support of others”.&nbsp;</p>
 </p>
 </blockquote>
 <hr>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PCP in SPED" src="/images/PCP_in_SPED.jpg">
-</div>
-<p></p>
-<p></p>
 <h4></h4>
 <p></p>
 <p></p>
