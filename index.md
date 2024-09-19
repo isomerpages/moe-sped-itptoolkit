@@ -51,11 +51,12 @@ sections:
   - resources:
       title: News and Happenings
       id: resources
-  - infobar:
-      title: MOE's Person-Centred Planning Website
-      subtitle: Welcome to...
-      id: infobar
-      description: A comprehensive guide to support PCP implementation in SPED
-        schools. Learn more about PCP processes and resources in Transition
-        Planning.
+  - infopic:
+      subtitle: Minister Chan Chun Sing
+      id: infopic
+      description: '"How do we ensure that everyone can have hope to do justice to
+        their different talents and blessings, regardless of background,
+        ancestry, and connections?"'
+      image: /images/Decor_1.png
+      alt: Graphic of diverse individuals
 ---
