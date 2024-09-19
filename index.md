@@ -51,12 +51,4 @@ sections:
   - resources:
       title: News and Happenings
       id: resources
-  - infopic:
-      subtitle: Minister Chan Chun Sing
-      id: infopic
-      description: '"How do we ensure that everyone can have hope to do justice to
-        their different talents and blessings, regardless of background,
-        ancestry, and connections?"'
-      image: /images/Decor_1.png
-      alt: Graphic of diverse individuals
 ---
