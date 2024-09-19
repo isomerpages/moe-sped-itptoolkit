@@ -14,8 +14,8 @@ sections:
       variant: floating
       button: Learn more about PCP
       url: /pcp/
-      backgroundColor: black
-      alignment: right
+      backgroundColor: gray
+      alignment: left
       size: md
   - infopic:
       title: Family Envisioning Meeting (FEM)
