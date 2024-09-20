@@ -10,7 +10,7 @@ sections:
       title: MOE's Person-Centred Planning Website
       subtitle: A comprehensive guide to support PCP implementation in SPED schools.
         Learn more about PCP processes and resources in Transition Planning.
-      background: /images/CPASS__High_Quality_1.jpg
+      background: /images/Landing_Page_GIF.gif
       variant: floating
       button: Learn more about PCP
       url: /pcp/
