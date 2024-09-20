@@ -1,0 +1,45 @@
+---
+title: Multi Agency Transition Meeting
+permalink: /matm-preparations/
+variant: tiptap
+description: ""
+third_nav_title: Transition to Post School
+---
+<h3><strong>Preparing for the Meeting</strong></h3>
+<p>To achieve a person-centred transition for the student to Adult Centres,
+strong coordination and collaboration are needed. Successful MATM implementation
+depends on ensuring key preparation activities are carried out by SPED
+Schools and Adult Centres, as well as the student and family attending
+the meeting.</p>
+<p></p>
+<h3><strong>After the Meeting</strong></h3>
+<p>Comprehensive and timely post-meeting follow-up greatly enhances MATM
+outcomes. Schools and ACs can work together to ensure that the necessary
+follow-up actions agreed during the meeting are carried out.</p>
+<p></p>
+<h4><em>For MATM With Intake, Adult Centres may...</em></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Arrange for remaining assessment to be completed (within the same day,
+or another day)</p>
+</li>
+<li>
+<p>Request for further documents or information related to assessment and
+family interviews</p>
+</li>
+<li>
+<p>Update when the outcome of the enrolment would be released</p>
+</li>
+</ul>
+<p></p>
+<h3><strong>MATM Support and Resources</strong></h3>
+<h4><strong>Resources for Schools</strong></h4>
+<p><em>Schools' Transition Planning Coordinators (TPCs) may access the resources using your official school email addresses <a href="https://go.gov.sg/matm2024resources-schools" rel="noopener noreferrer nofollow" target="_blank">here</a>.</em>
+</p>
+<h4><strong>Resources for Adult Centres</strong></h4>
+<p><em>Adult Centres' Points-of-Contacts may access the resources using your official work email addresses <a href="https://go.gov.sg/matm2024resources-ac" rel="noopener noreferrer nofollow" target="_blank">here</a>.</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
