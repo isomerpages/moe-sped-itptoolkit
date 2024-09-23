@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Transition to Post School
 ---
 <h3><strong>What is the Multi-Agency Transition Meeting (MATM)</strong></h3>
-<p>For SPED graduates with plans to enrol in a Sheltered Workshop or Day
+<p>For SPED graduates with plans to enroll in a Sheltered Workshop or Day
 Activity Centre, MOE and SG Enable coordinate a Multi-Agency Transition
 Meeting (MATM) to facilitate the transition for students and families.
 This meeting brings school personnel, family members, and staff from the
