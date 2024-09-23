@@ -5,33 +5,27 @@ variant: tiptap
 description: ""
 third_nav_title: Transition to Post School
 ---
-<h3><strong>Preparing for the Meeting</strong></h3>
-<p>To achieve a person-centred transition for the student to Adult Centres,
-strong coordination and collaboration are needed. Successful MATM implementation
-depends on ensuring key preparation activities are carried out by SPED
-Schools and Adult Centres, as well as the student and family attending
-the meeting.</p>
-<p></p>
-<h3><strong>After the Meeting</strong></h3>
-<p>Comprehensive and timely post-meeting follow-up greatly enhances MATM
-outcomes. Schools and ACs can work together to ensure that the necessary
-follow-up actions agreed during the meeting are carried out.</p>
-<p></p>
-<h4><em>For MATM With Intake, Adult Centres may...</em></h4>
-<ul data-tight="true" class="tight">
+<h3><strong>What is the Multi-Agency Transition Meeting (MATM)</strong></h3>
+<p>For SPED graduates with plans to enrol in a Sheltered Workshop or Day
+Activity Centre, MOE and SG Enable coordinate a Multi-Agency Transition
+Meeting (MATM) to facilitate the transition for students and families.
+This meeting brings school personnel, family members, and staff from the
+receiving agency together to facilitate a person-centred handover process
+for each graduate.</p>
+<p>MATM can take place at two junctures during the student’s final schooling
+year:</p>
+<ol data-tight="true" class="tight">
 <li>
-<p>Arrange for remaining assessment to be completed (within the same day,
-or another day)</p>
+<p>before an enrolment from the adult centre is offered (“MATM with Intake”),
+or</p>
 </li>
 <li>
-<p>Request for further documents or information related to assessment and
-family interviews</p>
+<p>after an enrolment is offered (“MATM after Intake”).</p>
 </li>
-<li>
-<p>Update when the outcome of the enrolment would be released</p>
-</li>
-</ul>
-<p></p>
+</ol>
+<p>&nbsp;For more information on the two forms of MATM, families may reach
+out to your child’s school.</p>
+<hr>
 <h3><strong>MATM Support and Resources</strong></h3>
 <h4><strong>Resources for Schools</strong></h4>
 <p><em>Schools' Transition Planning Coordinators (TPCs) may access the resources using your official school email addresses <a href="https://go.gov.sg/matm2024resources-schools" rel="noopener noreferrer nofollow" target="_blank">here</a>.</em>
