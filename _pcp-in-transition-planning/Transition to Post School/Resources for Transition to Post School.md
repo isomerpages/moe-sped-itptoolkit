@@ -39,3 +39,10 @@ which provides information on a variety of post-18 options for SPED graduates
 to aid planning for life after graduation.</p>
 <p><a href="https://www.enablingguide.sg/disability-info/life-stages-transitions/post-18-interactive-guide" rel="noopener noreferrer nofollow" target="_blank">Post-18 Interactive Guide | Planning for the Future After Graduation</a>
 </p>
+<hr>
+<p>Do look out for more resources on post-school options that will be released
+in the future!</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
