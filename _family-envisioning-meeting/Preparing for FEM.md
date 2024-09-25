@@ -187,9 +187,8 @@ a conducive atmosphere for open communication.</p>
 <p>Remember to actively involve the student in setting up the room, taking
 his/her preferences into account!&nbsp;This is the student’s meeting and
 he/she should own this part of the process as well.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Pro Tip: Setting Up Room" src="/images/Pro_Tip__Setting_up_Room__Pre_FEM__v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="[Pro Tip] Setting up a Room for FEM" src="/images/Pro_Tip__Setting_up_Room__Pre_FEM__v3.png">
 </div>
 <p></p>
 <p></p>
