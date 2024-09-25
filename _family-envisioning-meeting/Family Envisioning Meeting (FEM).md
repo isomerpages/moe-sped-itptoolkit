@@ -13,7 +13,7 @@ persons in his/her life – parents, caregivers, educators, and key professional
 to develop personal life goals for the student based on their interests,
 preferences and strengths.</p>
 <p>FEM is first conducted in the 3<sup>rd</sup> year of secondary schooling
-when the student turns 15 year old. FEM is pivotal for the development
+when the student turns 15 years old. FEM is pivotal for the development
 of the student's first Individual Transition Plan (ITP).</p>
 <p></p>
 <h4><strong>Watch a FEM in action!</strong></h4>
