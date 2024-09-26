@@ -100,7 +100,12 @@ such as YouTube, reading books</p>
 <p>SPED graduates may reference the <a href="https://www.sgenable.sg/your-first-stop/training-consultancy/enabling-academy/Enabling-Skills-and-Competencies-Framework" rel="noopener nofollow" target="_blank">Enabling Academy’s Enabling Skills and Competencies Framework</a> to
 identify key competencies they are keen to grow in and plan their own skills
 development.</p>
+<p></p>
 </li>
 </ul>
+<h4><strong>Post-school transitions: Diverse pathways for graduates, including further training and various employment options</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0wRoExqsVLk?si=GIJ0CAzMiATTrwQe&amp;start=494&amp;end=631;"></iframe>
+</div>
 <p></p>
 <p></p>
