@@ -54,3 +54,9 @@ agencies may be conducted to bridge the transition for families.&nbsp;&nbsp;&nbs
 </li>
 </ul>
 <p></p>
+<h4>How the Individual Transition Plan (ITP) guides upper secondary students and families in the shift from school to post-school pathways</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0wRoExqsVLk?si=GIJ0CAzMiATTrwQe&amp;start=429&amp;end=493;"></iframe>
+</div>
+<p></p>
+<p></p>
