@@ -28,10 +28,10 @@ out to your child’s school.</p>
 <hr>
 <h3><strong>MATM Support and Resources</strong></h3>
 <h4><strong>Resources for Schools</strong></h4>
-<p><em>Schools' Transition Planning Coordinators (TPCs) may access the resources using your official school email addresses <a href="https://go.gov.sg/matm2024resources-schools" rel="noopener noreferrer nofollow" target="_blank">here</a>.</em>
+<p><em>Schools' Transition Planning Coordinators (TPCs) may access the resources using your official school email addresses <u>here</u>. </em>
 </p>
 <h4><strong>Resources for Adult Centres</strong></h4>
-<p><em>Adult Centres' Points-of-Contacts may access the resources using your official work email addresses <a href="https://go.gov.sg/matm2024resources-ac" rel="noopener noreferrer nofollow" target="_blank">here</a>.</em>
+<p><em>Adult Centres' Points-of-Contacts may access the resources using your official work email addresses <u>here</u>. </em>
 </p>
 <p></p>
 <p></p>
