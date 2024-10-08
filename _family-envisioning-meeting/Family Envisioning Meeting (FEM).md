@@ -4,7 +4,6 @@ permalink: /example-folder/fem-overview/
 variant: tiptap
 description: ""
 ---
-<h1>Family Envisioning Meeting (FEM)</h1>
 <p>The Family Envisioning Meeting (FEM) is a person-centred planning meeting
 in Transition Planning that brings together the student and significant
 persons in his/her life – parents, caregivers, educators, and key professionals
