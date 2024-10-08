@@ -51,7 +51,7 @@ term.</p>
 to develop an action plan using <strong>the <em>Action Plan template.</em></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Action Template" src="/images/action_template_2.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Action Template" src="/images/action_template_2.png">
 </div>
 <p>The <strong>Action Plan Template</strong> outlines clear follow-up supports
 and actions, including actions related to curriculum. The action plan also
@@ -59,6 +59,6 @@ states clearly the people responsible for actioning them, and the timelines
 for their completion.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Quote from Transition Planning Coordinator" src="/images/Mei_Ling_TPCQuote.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Quote from Transition Planning Coordinator" src="/images/Mei_Ling_TPCQuote.png">
 </div>
 <p></p>
