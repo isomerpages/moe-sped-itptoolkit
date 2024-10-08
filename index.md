@@ -22,10 +22,7 @@ sections:
           description: Key Highlight description
           url: ""
         - title: Individual transition plan
-          description: Key Highlight description
-          url: ""
-        - title: FEM Videos
-          description: Key Highlight description
+          description: Download MOE's Template here!
           url: ""
   - infopic:
       title: Family Envisioning Meeting (FEM)
@@ -52,12 +49,6 @@ sections:
       url: /example-folder/fem-overview/
       alt: Image alt text
       image: /images/watch_now.png
-  - infobar:
-      subtitle: Minister Chan Chun Sing
-      id: infobar
-      description: '"How do we ensure that everyone can have hope to do justice to
-        their different talents and blessings, regardless of background,
-        ancestry, and connections?"'
   - resources:
       title: News and Happenings
       id: resources
