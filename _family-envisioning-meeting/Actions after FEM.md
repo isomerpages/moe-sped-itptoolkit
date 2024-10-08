@@ -4,7 +4,7 @@ permalink: /family-envisioning-meeting/development-of-the-itp/post-fem/
 variant: tiptap
 description: ""
 ---
-<h1>Developing the First Individual Transition Plan (ITP)</h1>
+<h4><strong>Developing the First Individual Transition Plan (ITP)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="FEM to ITP" src="/images/FEM_to_ITP_v2__with_3_step_outcome_seq_.png">
@@ -21,6 +21,6 @@ to find out how the ITP is developed.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Diagram for Follow ups on FEM" src="/images/Follow_up_on_FEM.png">
+<img style="width: 75%;" height="auto" width="100%" alt="Diagram for Follow ups on FEM" src="/images/Follow_up_on_FEM.png">
 </div>
 <p></p>
