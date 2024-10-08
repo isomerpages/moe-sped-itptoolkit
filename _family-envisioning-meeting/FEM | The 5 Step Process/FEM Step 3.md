@@ -13,7 +13,7 @@ third_nav_title: FEM | The 5 Step Process
 What’s Not Working for the student in the following 4 areas:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Building my <strong>independence </strong>skills: <em>This is related to the student’s developing abilities in persona management and mobility, including safety and health</em>
+<p>Building my <strong>independence </strong>skills: <em>This is related to the student’s developing abilities in personal management and mobility, including safety and health</em>
 </p>
 </li>
 <li>
