@@ -17,6 +17,16 @@ sections:
       backgroundColor: gray
       alignment: left
       size: sm
+      key_highlights:
+        - title: Family envisioning meeting
+          description: Key Highlight description
+          url: ""
+        - title: Individual transition plan
+          description: Key Highlight description
+          url: ""
+        - title: FEM Videos
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: Family Envisioning Meeting (FEM)
       id: infopic
