@@ -4,16 +4,14 @@ permalink: /example-folder/example-subfolder/subfolder-page/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<h1>Preparing for FEM</h1>
-<p>The success of FEM hinges on <strong>thoughtful preparation </strong>before
-the meeting itself takes place.&nbsp; This involves preparing the meeting’s
-participants, materials, and ensuring that the room is properly set-up
-and ready with relevant resources for an effective FEM.</p>
-<p>A <strong>skilful facilitator</strong> for FEM is important for a successful
-FEM. Some skills facilitators should develop include active listening,
-goal-setting, planning, chairing a meeting and time-keeping. &nbsp;&nbsp;</p>
-<h3><strong>a) Preparing the Participants</strong></h3>
+<p>The success of FEM hinges on thoughtful preparation before the meeting
+itself takes place.&nbsp; This involves preparing the meeting’s participants,
+materials, and ensuring that the room is properly set-up and ready with
+relevant resources for an effective FEM.</p>
+<p>A skillful facilitator for FEM is important for a successful FEM. Some
+skills facilitators should develop include active listening, goal-setting,
+planning, chairing a meeting and time-keeping.</p>
+<h4><strong>a) Preparing the Participants</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Determining Meeting Attendees</summary>
@@ -89,9 +87,9 @@ interpreter? Would any family member need time to rest/food before starting?</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Quote from TPC" src="/images/Joseph_TPCQuote.png">
+<img style="width: 75%;" height="auto" width="100%" alt="Quote from TPC" src="/images/Joseph_TPCQuote.png">
 </div>
-<h3><strong>b) Preparing the Room</strong></h3>
+<h4><strong>b) Preparing the Room</strong></h4>
 <p>The environment for the meeting is crucial and hence care needs to be
 taken to set up the room for impactful outcomes.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -106,7 +104,7 @@ taken to set up the room for impactful outcomes.</p>
 <li>
 <p>Standing flip charts are an important part of the PCP process because
 of how information can be displayed to the whole meeting at once, helping
-everyone to literally be ‘on the same page’ regarding the student.&nbsp;</p>
+everyone to literally be ‘on the same page’ regarding the student</p>
 <p></p>
 </li>
 </ul>
@@ -115,11 +113,11 @@ everyone to literally be ‘on the same page’ regarding the student.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Writing on post-its provides everyone, even the quieter individuals in
-the room, the option to make their views heard.</p>
+the room, the option to make their views heard</p>
 </li>
 <li>
 <p>The post-its will be put up on the standing flip charts so that every
-view will be given its proper ‘airtime’ and attention.&nbsp;</p>
+view will be given its proper ‘airtime’ and attention</p>
 <p></p>
 </li>
 </ul>
@@ -142,7 +140,7 @@ it out with a marker too</p>
 <li>
 <p>As it may be the first time some of the members of the group are meeting
 with each other, a name tag will be helpful for participants to identify
-each other in the meeting by name / role in student’s life</p>
+each other in the meeting by name/role in student’s life</p>
 </li>
 </ul>
 <p></p>
