@@ -19,7 +19,7 @@ sections:
       size: sm
       key_highlights:
         - title: Family envisioning meeting
-          description: Key Highlight description
+          description: A 5 Step Process
           url: ""
         - title: Individual transition plan
           description: Download MOE's Template here!
