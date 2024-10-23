@@ -5,7 +5,7 @@ variant: tiptap
 description: FEM Step 5
 third_nav_title: The 5 Steps of FEM
 ---
-<h3><strong>Using the Support Sequence to Determine Actions</strong></h3>
+<h3><strong>Developing Actions</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Time Progress bar for Step 5" src="/images/Step_5.png">
 </div>
