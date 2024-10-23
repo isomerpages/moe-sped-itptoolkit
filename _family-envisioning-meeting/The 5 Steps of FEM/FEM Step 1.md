@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: The 5 Steps of FEM
 ---
-<h3><strong>Introducing Everyone</strong></h3>
+<h3><strong>Welcoming Everyone</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Step_1_Timer.png">
 </div>
