@@ -15,6 +15,16 @@ preferences and strengths.</p>
 when the student turns 15 years old. FEM is pivotal for the development
 of the student's first Individual Transition Plan (ITP).</p>
 <p></p>
+<p><em>&lt;Arrow Indicator Here&gt;</em>
+</p>
+<p></p>
+<p></p>
+<p>There are 5 steps in FEM that help guide the school in a conversation
+with families to plan and prepare for future goals.</p>
+<p><em>&lt;New FEM 5 Steps here&gt;</em>
+</p>
+<p></p>
+<p></p>
 <h4><strong>Watch a FEM in action!</strong></h4>
 <p><a href="https://app.vyond.com/videos/aa41fa88-20fd-48e6-bc5d-dd783e0aea3b" rel="noopener nofollow" target="_blank">Click here to watch the FEM Video Animation!</a>
 </p>
