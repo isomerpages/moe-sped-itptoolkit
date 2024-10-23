@@ -90,8 +90,8 @@ interpreter? Would any family member need time to rest/food before starting?</p>
 <img style="width: 75%;" height="auto" width="100%" alt="Quote from TPC" src="/images/Joseph_TPCQuote.png">
 </div>
 <h4><strong>b) Preparing the Room</strong></h4>
-<p>The environment for the meeting is crucial and hence care needs to be
-taken to set up the room for impactful outcomes.</p>
+<p>The physical environment for the meeting is crucial and hence care needs
+to be taken to set up the room for impactful outcomes.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Resources for Facilitating FEM</summary>
