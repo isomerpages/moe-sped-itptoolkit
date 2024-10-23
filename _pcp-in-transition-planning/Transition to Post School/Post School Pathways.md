@@ -5,12 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Transition to Post School
 ---
-<p>Graduating from SPED can bring&nbsp;both excitement and a sense of uncertainty
-about the future. As the post-school landscape continues to evolve, SPED
-graduates will have increasing opportunities to pursue their aspirations
-and needs in ways that meet their interests, strengths and talents. Let’s
-explore the possible pathways and opportunities that our graduates can
-look forward to as they embark on their post-school journey.&nbsp;&nbsp;</p>
+<p>The transition from SPED to post-school life marks an important milestone
+for students and their families. This journey will be unique for each student
+and family. As the post-school landscape continues to evolve, SPED graduates
+will have increasing opportunities to pursue their aspirations and needs
+in ways that meet their interests, strengths and talents. Let’s explore
+the possible pathways and opportunities that our graduates can look forward
+to as they embark on their post-school journey.&nbsp;&nbsp;</p>
 <h4><strong>Community Services and Programmes</strong></h4>
 <p>SPED graduates may access adult disability services offered by Social
 Service Agencies (SSAs). These services include:</p>
