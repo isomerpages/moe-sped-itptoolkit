@@ -14,10 +14,8 @@ that can help the student to achieve his/her post-school goals. This is
 done through the<strong> <em>Support Sequence</em></strong> and the <strong><em>Action Plan template</em></strong>.</p>
 <p></p>
 <h4>The Support Sequence and Action Plan Template</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Action Template with Support Sequence" src="/images/action_template.png">
-</div>
-<p></p>
+<p><em>&lt;Support Sequence Image Here&gt;</em>
+</p>
 <p>The <strong><em>Support Sequence</em></strong> outlines 7 modes of support:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -58,6 +56,9 @@ and actions, including actions related to curriculum. The action plan also
 states clearly the people responsible for actioning them, and the timelines
 for their completion.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Action Template with Support Sequence" src="/images/action_template.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="Quote from Transition Planning Coordinator" src="/images/Mei_Ling_TPCQuote.png">
 </div>
