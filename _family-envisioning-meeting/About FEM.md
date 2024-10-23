@@ -24,6 +24,9 @@ with families to plan and prepare for future goals.</p>
 <p><em>&lt;New FEM 5 Steps here&gt;</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="5 Steps" src="/images/5_steps.png">
+</div>
 <p></p>
 <h4><strong>Watch a FEM in action!</strong></h4>
 <p><a href="https://app.vyond.com/videos/aa41fa88-20fd-48e6-bc5d-dd783e0aea3b" rel="noopener nofollow" target="_blank">Click here to watch the FEM Video Animation!</a>
