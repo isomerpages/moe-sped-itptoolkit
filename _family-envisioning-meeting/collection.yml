@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - About FEM.md
-      - FEM | The 5 Step Process/.keep
-      - FEM | The 5 Step Process/The 5 Steps.md
-      - FEM | The 5 Step Process/FEM Step 1.md
-      - FEM | The 5 Step Process/FEM Step 2.md
-      - FEM | The 5 Step Process/FEM Step 3.md
-      - FEM | The 5 Step Process/FEM Step 4.md
-      - FEM | The 5 Step Process/FEM Step 5.md
-      - FEM | The 5 Step Process/FEM Checklist.md
+      - The 5 Steps of FEM/.keep
+      - The 5 Steps of FEM/The 5 Steps.md
+      - The 5 Steps of FEM/FEM Step 1.md
+      - The 5 Steps of FEM/FEM Step 2.md
+      - The 5 Steps of FEM/FEM Step 3.md
+      - The 5 Steps of FEM/FEM Step 4.md
+      - The 5 Steps of FEM/FEM Step 5.md
+      - The 5 Steps of FEM/FEM Checklist.md
       - Preparing for FEM.md
       - Actions after FEM.md
