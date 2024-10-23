@@ -5,7 +5,7 @@ variant: tiptap
 description: FEM Step 4
 third_nav_title: The 5 Steps of FEM
 ---
-<h3><strong>Using the Outcome Sequence</strong></h3>
+<h3><strong>Developing Goals</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Time Progress Bar for Step 4" src="/images/Step_4.png">
 </div>
