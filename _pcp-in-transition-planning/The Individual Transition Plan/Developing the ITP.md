@@ -94,5 +94,5 @@ families up with services, making application, deputyship, etc).</p>
 <h4><strong>Contributors to my ITP</strong></h4>
 <p>The ITP is co-developed with the views and hopes of people supporting
 the student. This section captures details of persons who have contributed
-to sharing of information that is captured in ITP.</p>
+to sharing of information that is captured in the ITP.</p>
 <p></p>
