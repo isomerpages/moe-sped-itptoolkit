@@ -55,7 +55,8 @@ Information can be gathered from the <strong><a href="https://staging.d3j5q81zdt
 through the use of appropriate <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/resources/pcp-tools/" rel="noopener noreferrer nofollow" target="_blank">PCP Tools</a></strong> like <em>Communication Chart, Decision-making Profile </em>and<em> Decision-making Agreement</em>.</p>
 <h4><strong>My Needs</strong></h4>
 <p>This section highlights medical, health and care needs based on information
-received from the student, family, school, health and care professionals.</p>
+received from the student, family, school, health and care professionals,
+and from the Preparation Booklet.</p>
 <h4><strong>What’s Working, What’s Not Working</strong></h4>
 <p>This section records key information on <em>What’s Working, What’s Not Working</em> in
 relation to the respective life planning areas, as gathered through <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step3/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 3</a></strong>.
