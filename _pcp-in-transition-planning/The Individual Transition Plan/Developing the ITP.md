@@ -9,7 +9,7 @@ third_nav_title: The Individual Transition Plan
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/one_page_profile.jpg">
 </div>
-<p>Attach the student’s OPP to the front of their ITP.</p>
+<p>The student’s OPP is attached to the front of their ITP.</p>
 <p>&nbsp;The OPP is a one-page summary about the student in three key areas:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -23,9 +23,9 @@ third_nav_title: The Individual Transition Plan
 </li>
 </ul>
 <p></p>
-<p>The OPP is prepared with the student over time. Information can be collected
-from daily observations of the student, or their family, school staff and
-people who know him/her well.</p>
+<p>The OPP, a PCP tool, is prepared with the student over time. Information
+can be collected from daily observations of the student, or their family,
+school staff and people who know him/her well.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Pro_tip_Updating_the_OPP.png">
 </div>
