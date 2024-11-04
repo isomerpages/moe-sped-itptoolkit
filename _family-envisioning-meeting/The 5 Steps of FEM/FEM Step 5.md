@@ -14,8 +14,9 @@ that can help the student to achieve his/her post-school goals. This is
 done through the<strong> <em>Support Sequence</em></strong> and the <strong><em>Action Plan template</em></strong>.</p>
 <p></p>
 <h4>The Support Sequence and Action Plan Template</h4>
-<p><em>&lt;Support Sequence Image Here&gt;</em>
+<p><em>&lt;Support Sequence Image Here - </em><strong><em>Is this necessary?</em></strong><em>&gt;</em>
 </p>
+<p></p>
 <p>The <strong><em>Support Sequence</em></strong> outlines 7 modes of support:</p>
 <ul data-tight="true" class="tight">
 <li>
