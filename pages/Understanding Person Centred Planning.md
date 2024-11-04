@@ -5,16 +5,18 @@ variant: tiptap
 description: Information about Person-Centred Planning
 ---
 <h4><strong>PCP in SPED</strong></h4>
-<p>The Ministry of Education will strengthen Person-Centred Planning as a
-core feature in Transition Planning in all SPED schools by enhancing family
-members involvement in the envisioning process. A more structured Individual
-Transition Plan will be implemented to guide goal setting in important
-life areas.</p>
-<p>PCP in SPED will increase capabilities and collaboration between teachers
-and families to support students in planning for their post-graduation
-lives to fulfill their aspirations. Through this partnership, SPED students
-will be enabled to achieve the living, learning and working outcomes of
-SPED.</p>
+<p>Person-Centred Planning (PCP) is crucial in helping all Special Education
+(SPED) students achieve their desired outcomes. As a core feature of Transition
+Planning, PCP seeks to uncover and recognise each student's strengths,
+interests, and aspirations. It will play a significant role in the Transition
+Planning process across all SPED schools. This approach will involve more
+structured planning and increased family participation in setting life
+goals.</p>
+<p>&nbsp;Implementing PCP in SPED will foster stronger collaboration between
+educators and families. This partnership will support students in planning
+for their post-graduation lives and support them in fulfilling their aspirations.
+Through these combined efforts, SPED students will be empowered to achieve
+the living, learning, and working outcomes of special education.</p>
 <hr>
 <h4><strong>Person-Centredness</strong></h4>
 <p><strong>Person-centredness</strong> is the overarching philosophy that
@@ -61,7 +63,8 @@ in achieving his or her life vision.” (Abery and McBride, 1998)</div>
 </div>
 </div>
 </div>
-<p>Click here to access resources on PCP!</p>
+<p>Click <a href="/about-pcp-resources/" rel="noopener nofollow" target="_blank">here</a> to
+access resources on PCP!</p>
 <hr>
 <h4><strong><s>Person-Centred Thinking</s></strong></h4>
 <p><s>“</s><strong><s>focuses on the strengths, abilities and aspirations of the person</s></strong><s> with the disability rather than making decisions that are focused on an individual’s problems”</s>
