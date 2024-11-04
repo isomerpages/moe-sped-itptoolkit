@@ -36,7 +36,7 @@ to achieve their desired outcomes while promoting their autonomy and well-being.
 at the heart of all decision-making processes.</p>
 <p></p>
 <hr>
-<h4><strong>What others have said about Person-Centeredness: </strong></h4>
+<h4><strong>What others have said about Person-Centeredness:</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
