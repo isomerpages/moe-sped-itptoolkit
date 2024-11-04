@@ -1,5 +1,0 @@
-collections:
-  resources-for-families:
-    output: true
-    order:
-      - Resources for Post 18 Outcomes.md
