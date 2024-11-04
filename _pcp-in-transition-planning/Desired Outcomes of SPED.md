@@ -25,17 +25,14 @@ to customise their curriculum to the unique needs of their student profiles.</p>
 </div>
 <p></p>
 <h4><strong>SPED Outcomes</strong></h4>
-<p><em>&lt;Image from TLS here&gt;</em>
-</p>
-<p></p>
 <p>The SPED outcomes are the end goals of Special Education and represent
 the collective aspirations of the sector.&nbsp;They aspire for every student
 to live independently, learn continuously and contribute meaningfully in
-the community when they graduate.&nbsp;Transition Planning is a critical
-process for every student to develop personalised life goals to achieve
-the SPED outcomes when they graduate.&nbsp;</p>
-<p></p>
+the community when they graduate.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="LLW Visual" src="/images/LLW_graphic__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="SPED Outcomes (From TLS)" src="/images/SPED_Outcomes__From_TLS_.png">
 </div>
+<p>Transition Planning is a critical process for every student to develop
+personalised life goals to achieve the SPED outcomes when they graduate.&nbsp;</p>
+<p></p>
 <p></p>
