@@ -18,7 +18,7 @@ for their post-graduation lives and support them in fulfilling their aspirations
 Through these combined efforts, SPED students will be empowered to achieve
 the living, learning, and working outcomes of special education.</p>
 <hr>
-<h4><strong>Person-Centredness</strong></h4>
+<h4><strong><em>Person-Centredness</em>: The Heart of Person-Centred Planning</strong></h4>
 <p><strong>Person-centredness</strong> is the overarching philosophy that
 emphasises treating individuals with dignity and respect, ensuring their
 unique needs and preferences are prioritized in all aspects of care and
@@ -34,7 +34,9 @@ to achieve their desired outcomes while promoting their autonomy and well-being.
 </div>
 <p>Together, these concepts create a holistic approach that places the individual
 at the heart of all decision-making processes.</p>
+<p></p>
 <hr>
+<h4><strong>What others have said about Person-Centeredness: </strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -63,6 +65,7 @@ in achieving his or her life vision.” (Abery and McBride, 1998)</div>
 </div>
 </div>
 </div>
+<p></p>
 <p>Click <a href="/about-pcp-resources/" rel="noopener nofollow" target="_blank">here</a> to
 access resources on PCP!</p>
 <hr>
