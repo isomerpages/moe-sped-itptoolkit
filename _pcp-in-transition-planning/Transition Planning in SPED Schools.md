@@ -4,7 +4,7 @@ permalink: /transition-planning-in-sped/process/
 variant: tiptap
 description: Information about the Transition Planning Process at SPED Schools
 ---
-<p>As a student progresses to senior/secondary schooling in a Special Education
+<p>As a student progresses to senior/secondary schooling in Special Education
 (SPED), Transition Planning begins to prepare students and their families
 for a smooth transition to&nbsp;post-school. The transition from school
 to post-school life can be a challenging time for students with special
