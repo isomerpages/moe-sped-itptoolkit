@@ -48,3 +48,7 @@ with these agencies may be conducted to bridge the transition for families.&nbsp
 </li>
 </ul>
 <p></p>
+<p><em><sub>Note: The</sub></em><strong><em><sub> Multi-Agency Transition Meeting (MATM)</sub></em></strong><em><sub> is a coordinated and person-centred handover process jointly implemented by MOE, Ministry of Social and Family Development (MSF) and SG Enable to support SPED graduates transitioning into Day Activity Centres and Sheltered Workshops.&nbsp;</sub></em>
+</p>
+<p></p>
+<p></p>
