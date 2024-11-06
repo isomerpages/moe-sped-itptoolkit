@@ -12,9 +12,9 @@ interests, and aspirations. It will play a significant role in the Transition
 Planning process across all SPED schools. This approach will involve more
 structured planning and increased family participation in setting life
 goals.</p>
-<p>&nbsp;Implementing PCP in SPED will foster stronger collaboration between
-educators and families. This partnership will support students in planning
-for their post-graduation lives and support them in fulfilling their aspirations.
+<p>Implementing PCP in SPED will foster stronger collaboration between educators
+and families. This partnership will support students in planning for their
+post-graduation lives and support them in fulfilling their aspirations.
 Through these combined efforts, SPED students will be empowered to achieve
 the living, learning, and working outcomes of special education.</p>
 <hr>
