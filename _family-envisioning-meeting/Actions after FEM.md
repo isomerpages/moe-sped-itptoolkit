@@ -13,8 +13,8 @@ description: ""
 of the student, and the development of a set of personal goals that builds
 on the student’ interests, aspirations and needs. It also results in an
 agreed action plan to support the student to attain the goals.</p>
-<p>These are essential ingredients for the Individual Transition Plan and
-hence immediately after FEM, this information should be translated <strong>into the student’s first ITP</strong>.&nbsp;Please
+<p>These are essential ingredients for the ITP and hence immediately after
+FEM, this information should be translated <strong>into the student’s first ITP</strong>.&nbsp;Please
 refer to <a href="/individual-transition-plan/about-itp/" rel="noopener noreferrer nofollow" target="_blank">the ITP </a>section
 to find out how the ITP is developed.</p>
 <h4>Other Follow-Ups</h4>
