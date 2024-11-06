@@ -34,12 +34,14 @@ room.</p>
 <p>Participants may verbally express their views or write them on post-its
 which they paste on the respective flipcharts<strong>.</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="Pro Tip on Flip Charts" src="/images/Pro_Tip__Flip_Charts__FEM_Step2__v2.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Pro Tip (Contributions)" src="/images/Updated Pro Tips/Pro_Tip__Contributions_.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="PCP Spotlight (Important To vs Important For)" src="/images/Important_to_vs_Important_for__3_.png">
+<img style="width: 60%;" height="auto" width="100%" alt="PCP Spotlight (Impt to / for)" src="/images/Updated  PCP Spotlight/PCP_Spotlight__Impt_For_Impt_To_.png">
 </div>
+<p></p>
 <p></p>
 <p></p>
