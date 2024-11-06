@@ -26,9 +26,11 @@ third_nav_title: The Individual Transition Plan
 <p>The OPP, a PCP tool, is prepared with the student over time. Information
 can be collected from daily observations of the student, or their family,
 school staff and people who know him/her well.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Pro_tip_Updating_the_OPP.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Pro Tip (OPP)" src="/images/Updated Pro Tips/Pro_Tip__OPP_.png">
 </div>
+<p></p>
 <hr>
 <p>The ITP consists of the following sections:</p>
 <div class="isomer-image-wrapper">
