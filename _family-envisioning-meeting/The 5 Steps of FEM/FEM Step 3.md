@@ -39,9 +39,8 @@ which they paste on the respective flipcharts<strong>.</strong>
 </div>
 <p><em>Source:</em> FEM at CPASS (East)</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Quote from Parent" src="/images/Mrs_Giang_ParentQuote3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Quote from Parent" src="/images/Updated Quotes/Quote__Mrs_Giang_.png">
 </div>
 <p></p>
 <p></p>
