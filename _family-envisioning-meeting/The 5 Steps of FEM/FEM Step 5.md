@@ -60,7 +60,8 @@ for their completion.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Action Template with Support Sequence" src="/images/action_template.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="Quote from Transition Planning Coordinator" src="/images/Mei_Ling_TPCQuote.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Quote by Ms Chan" src="/images/Updated Quotes/Quote__Ms_Chan_.png">
 </div>
 <p></p>
