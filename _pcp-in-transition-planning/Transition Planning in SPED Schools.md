@@ -17,7 +17,8 @@ future when they graduate from school.</p>
 <p></p>
 <p>Transition Planning in SPED schools takes place over three broad phases
 during the senior/secondary schooling years, leading up to the point of
-graduation.</p>
+graduation. The ITP is reviewed every year through a person-centred approach
+to ensure goals remain relevant and updated.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Transition Planning in SPED Visual" src="/images/Transition_planning_2.png">
@@ -28,6 +29,7 @@ graduation.</p>
 Planning is introduced to families and they are engaged to share their
 aspirations and concerns, as well as talk about students’ interests and
 strengths.&nbsp;&nbsp;</p>
+<p></p>
 </li>
 <li>
 <p>In the <strong>Planning phase (15-16 years old)</strong>, a Family Envisioning
@@ -35,10 +37,7 @@ Meeting (FEM) takes place for every student and their family from which
 an Individual Transition Plan (ITP) is developed. The ITP is a continuation
 of the IEP and contains the student’s post school goals, i.e. what they
 would like to do when they leave school.&nbsp;</p>
-</li>
-<li>
-<p>The ITP is reviewed every year through a person-centred approach to ensure
-goals remain relevant and updated.&nbsp;</p>
+<p></p>
 </li>
 <li>
 <p>In the <strong>Consolidating phase (17 years old to final schooling years)</strong>,
