@@ -12,9 +12,8 @@ education. It also provides the flexibility and space for SPED schools
 to customise their curriculum to the unique needs of their student profiles.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="SPED Curriculum Pyramid" src="/images/SPED_Curriculum_Pyramid.png">
+<img style="width: 100%" height="auto" width="100%" alt="SPED Curriculum Pyramid" src="/images/TLS Assets/Curriculum_Pyramid.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="SPED Vision" src="/images/SPED_Vision_v1.png">
