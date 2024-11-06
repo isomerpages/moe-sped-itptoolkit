@@ -46,9 +46,8 @@ responses from the following three focus areas in FEM Step 2:</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Pro Tip on Voting with different stickers" src="/images/Pro_Tip__Stickers__FEM_Step4_.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Pro Tip (Stickers)" src="/images/Updated Pro Tips/Pro_Tip__Stickers_.png">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Photo of a Flipchart" src="/images/Eden_Flipchart.jpg">
@@ -84,11 +83,10 @@ of <a href="/developing-outcomes/" rel="noopener nofollow" target="_blank">devel
 </details>
 </div>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="PCP Spotlight (Golden Thread)" src="/images/Updated  PCP Spotlight/PCP_Spotlight__Golden_Thread_.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="FEM taking place in a student's home" src="/images/GOS_7.jpg">
 </div>
@@ -96,6 +94,7 @@ of <a href="/developing-outcomes/" rel="noopener nofollow" target="_blank">devel
 </p>
 <hr>
 <h4></h4>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
