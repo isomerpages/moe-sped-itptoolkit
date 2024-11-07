@@ -6,6 +6,9 @@ description: ""
 ---
 <h4><strong>Developing the First Individual Transition Plan (ITP)</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TP Overview (ITP Post-School Goals Zoomed in)" src="/images/Overview of TP (Indicators)/TP_Overview__ITP_.png">
+</div>
 <p>An effective and person-centred FEM culminates in a rich appreciation
 of the student, and the development of a set of personal goals that builds
 on the student’ interests, aspirations and needs. It also results in an
