@@ -6,13 +6,14 @@ description: ""
 ---
 <h4><strong>Developing the First Individual Transition Plan (ITP)</strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="FEM to ITP" src="/images/FEM_to_ITP_v2__with_3_step_outcome_seq_.png">
-</div>
 <p>An effective and person-centred FEM culminates in a rich appreciation
 of the student, and the development of a set of personal goals that builds
 on the student’ interests, aspirations and needs. It also results in an
 agreed action plan to support the student to attain the goals.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Developing the first ITP" src="/images/Developing_the_first_ITP__updated_6_Nov_.png">
+</div>
 <p>These are essential ingredients for the ITP and hence immediately after
 FEM, this information should be translated <strong>into the student’s first ITP</strong>.&nbsp;Please
 refer to <a href="/individual-transition-plan/about-itp/" rel="noopener noreferrer nofollow" target="_blank">the ITP </a>section
