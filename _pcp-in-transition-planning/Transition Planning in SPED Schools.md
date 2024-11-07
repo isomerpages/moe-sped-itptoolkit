@@ -20,9 +20,7 @@ during the senior/secondary schooling years, leading up to the point of
 graduation. The ITP is reviewed every year through a person-centred approach
 to ensure goals remain relevant and updated.&nbsp;</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Transition Planning in SPED Visual" src="/images/Transition_planning_2.png">
-</div>
+<p></p>
 <ul>
 <li>
 <p>In the <strong>Initiating phase (13 – 14 years old<u>)</u></strong>, Transition
