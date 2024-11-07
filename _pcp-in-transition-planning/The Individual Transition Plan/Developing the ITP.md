@@ -5,6 +5,11 @@ variant: tiptap
 description: Introduction to the Individual Transition Plan
 third_nav_title: The Individual Transition Plan
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TP Overview (FEM and ITP focussed on)" src="/images/Overview of TP (Indicators)/TP_Overview__FEM_and_ITP_.png">
+</div>
+<p></p>
 <h4><strong>One Page Profile (OPP)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/one_page_profile.jpg">
@@ -98,4 +103,5 @@ families up with services, making application, deputyship, etc).</p>
 <p>The ITP is co-developed with the views and hopes of people supporting
 the student. This section captures details of persons who have contributed
 to sharing of information that is captured in the ITP.</p>
+<p></p>
 <p></p>
