@@ -23,7 +23,7 @@ sections:
           url: ""
         - title: Individual transition plan
           description: Download MOE's Template here!
-          url: ""
+          url: /individual-transition-plan/about-itp/
   - infopic:
       title: Family Envisioning Meeting (FEM)
       id: infopic
