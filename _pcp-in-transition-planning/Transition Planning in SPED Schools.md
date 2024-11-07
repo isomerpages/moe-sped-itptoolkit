@@ -20,6 +20,9 @@ during the senior/secondary schooling years, leading up to the point of
 graduation. The ITP is reviewed every year through a person-centred approach
 to ensure goals remain relevant and updated.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TP Overview" src="/images/Overview of TP (Indicators)/TP_Overview.png">
+</div>
 <p></p>
 <ul>
 <li>
