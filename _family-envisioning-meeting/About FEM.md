@@ -4,6 +4,9 @@ permalink: /example-folder/fem-overview/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Overview of TP Process (FEM zoomed in)" src="/images/Overview of TP (Indicators)/TP_Overview__FEM_.png">
+</div>
 <p>The Family Envisioning Meeting (FEM) is a person-centred planning meeting
 during which <strong>the student and significant persons in his/her life</strong> –
 parents, caregivers, educators, and key professionals – <strong>collaboratively plan for his/her future</strong>.</p>
@@ -14,9 +17,6 @@ preferences and strengths.</p>
 schooling when the student turns 15 years old. FEM is pivotal for the development
 of the student's first Individual Transition Plan (ITP).</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Overview of TP Process (FEM zoomed in)" src="/images/Overview of TP (Indicators)/TP_Overview__FEM_.png">
-</div>
 <p></p>
 <p>There are 5 steps in FEM that help guide the school in a conversation
 with families to plan and prepare for future goals.</p>
