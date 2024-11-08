@@ -69,19 +69,6 @@ in achieving his or her life vision.” (Abery and McBride, 1998)</div>
 <p>Click <a href="/about-pcp-resources/" rel="noopener nofollow" target="_blank">here</a> to
 access resources on PCP!</p>
 <hr>
-<h4><strong><s>Person-Centred Thinking</s></strong></h4>
-<p><s>“</s><strong><s>focuses on the strengths, abilities and aspirations of the person</s></strong><s> with the disability rather than making decisions that are focused on an individual’s problems”</s>
-</p>
-<p><s>recognizes that “every individual has feelings, preferences, hopes and aspirations and those of people with disabilities are </s><strong><s>just as important </s></strong><s>and achievable as anyone else’s. To achieve these aspirations, however, individuals with disabilities may need the support of others”.</s>
-</p>
-<hr>
-<h4><strong><s>Person-Centred Planning (PCP)</s></strong></h4>
-<p><s>“[A]ssists people to think about what types of things they would like to have now as well as in the future, and it </s><strong><s>places the individual’s family and friends at the forefront</s></strong><s> of helping to make those plans come into existence.” (O’Brien, 2004)</s>
-</p>
-<p></p>
-<p><s>“A collaborative effort, involving those who know an individual well and are willing to commit to taking the action necessary </s><strong><s>to support the person in achieving his or her life vision.</s></strong><s>” (Abery and McBride, 1998)</s>
-</p>
-<hr>
 <h4></h4>
 <p></p>
 <p></p>
