@@ -5,10 +5,13 @@ variant: tiptap
 description: About Page of the Individual Transition Plan
 third_nav_title: The Individual Transition Plan
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TP Overview Process (Focus on ITP)" src="/images/Overview of TP (Indicators)/TP_Overview__ITP_.png">
+</div>
 <p>At the heart of Transition Planning is the development of an Individual
 Transition Plan (ITP) for every student to support his/her post-school
 transition.</p>
-<p></p>
 <p>The Individual Transition Plan (ITP) is a planning document that captures
 the student’s aspirations for his/her future – interests, strengths, and
 personal goals. It also reflects an action plan to support the student’s
