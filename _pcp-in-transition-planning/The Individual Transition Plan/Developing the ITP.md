@@ -54,7 +54,7 @@ social and work-related aspirations. Information can be drawn from <strong><a hr
 which captures the views of the student, family and school staff. Here
 are some examples of aspirations shared at FEM:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Source: MINDS TGS, CPAS School, Eden School" src="/images/Aspirations_examples.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Examples on flip charts" src="/images/On_the_ITP_Section.png">
 </div>
 <h4><strong>How I Communicate</strong></h4>
 <p>This section provides key information about how the student communicates.
