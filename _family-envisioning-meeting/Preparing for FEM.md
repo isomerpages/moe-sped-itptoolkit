@@ -87,7 +87,7 @@ interpreter? Would any family member need time to rest/food before starting?</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Quote from Eden TPC" src="/images/Updated Quotes/Quote__Mr_Tan_.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Quote by TPC (Eden School)" src="/images/Updated Quotes/Quote__Mr_Tan__EDITED.png">
 </div>
 <h4><strong>b) Preparing the Room</strong></h4>
 <p>The physical environment for the meeting is crucial and hence care needs
