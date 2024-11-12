@@ -4,11 +4,11 @@ permalink: /developing-outcomes/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Developing Outcomes: What you Should Avoid</strong></h3>
+<h3><strong>Developing Outcomes: What You Should Avoid</strong></h3>
 <h4><em>1) Embedding the solution in the outcome</em></h4>
 <p>A solution is a resource/item/activity needed to achieve the goal. When
 outcomes embed a solution, we restrict options for the student by pre-determining
-our expectation for him or her. This undermines the impact and possibilities
+our expectation for him/her. This undermines the impact and possibilities
 which could be explored in FEM Step 5.</p>
 <p></p>
 <h4><em>2) Not being specific enough in the outcome</em></h4>
