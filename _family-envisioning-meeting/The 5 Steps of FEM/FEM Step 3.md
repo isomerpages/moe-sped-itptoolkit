@@ -22,7 +22,7 @@ the community: <em>This is related to the student's motivation and ability to ac
 </p>
 </li>
 <li>
-<p>Continuing my <strong>learning</strong>: <em>This is related to the student's interest and motivation in learning, new knowledge an skills</em>
+<p>Continuing my <strong>learning</strong>: <em>This is related to the student's interest and motivation in learning, new knowledge and skills</em>
 </p>
 </li>
 <li>
