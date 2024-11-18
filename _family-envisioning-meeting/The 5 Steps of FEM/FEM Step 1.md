@@ -32,4 +32,7 @@ for the meeting as well as reminding everyone that it is a safe, respectful
 and intentional space.&nbsp;It is important that all participants contribute
 to and understand the rules before starting.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Photos of Ground Rules Butcher Sheets" src="/images/Ground_Rules_UPDATED.jpg">
+</div>
 <p></p>
