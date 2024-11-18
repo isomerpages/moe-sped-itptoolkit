@@ -25,6 +25,8 @@ student in the following areas:</p>
 <br><em>How the student might be effectively supported to reach his/her aspirations</em>
 </p>
 <p></p>
+<p>Note the importance of distinguishing between <a href="/important-for-vs-important-to/" rel="noopener nofollow" target="_blank">what is important TO and FOR the student</a>.</p>
+<p></p>
 <p>These 5 areas are typically framed as standing flipcharts around the meeting
 room.</p>
 <div class="isomer-image-wrapper">
