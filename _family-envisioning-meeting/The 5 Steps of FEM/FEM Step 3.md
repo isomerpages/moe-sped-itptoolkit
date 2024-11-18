@@ -34,8 +34,9 @@ the community: <em>This is related to the student's motivation and ability to ac
 <p>Participants may verbally express their views or write them on post-its
 which they paste on the respective flipcharts<strong>.</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="CPASS East Conducting FEM" src="/images/CPASS__East__FEM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="FEM in action at CPASS (East)" src="/images/Photos from School/CPASS__East__FEM.jpg">
 </div>
 <p><em>Source:</em> FEM at CPASS (East)</p>
 <p></p>
