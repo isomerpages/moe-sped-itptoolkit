@@ -87,7 +87,7 @@ goals. With reference to the priority areas, ask: <strong>What is the positive c
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="FEM taking place in a student's home" src="/images/GOS_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GOS FEM at a Student's House" src="/images/Photos from School/GOS_7.jpg">
 </div>
 <p><em>Source: Grace Orchard School</em>
 </p>
