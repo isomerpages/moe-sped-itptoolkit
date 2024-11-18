@@ -41,9 +41,10 @@ which they paste on the respective flipcharts<strong>.</strong>
 <img style="width: 60%;" height="auto" width="100%" alt="Pro Tip (Contributions)" src="/images/Updated Pro Tips/Pro_Tip__Contributions_.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="PCP Spotlight (Impt to / for)" src="/images/Updated  PCP Spotlight/PCP_Spotlight__Impt_For_Impt_To_.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Photo of MINDS CSS" src="/images/Photos from School/MINDS_CSS.jpg">
+</div>
+<p><em>Source: </em>FEM at MINDS (Caregiver Support Services)</p>
 <p></p>
 <p></p>
