@@ -32,7 +32,7 @@ sections:
       button: About FEM
       url: /example-folder/fem-overview/
       alt: FEM meeting in action at sch
-      image: /images/Eden_FEM___Support_Seq.png
+      image: /images/Photos from School/Eden_FEM___Support_Seq.png
   - infopic:
       title: Individual Transition Plan (ITP)
       id: infopic
