@@ -75,7 +75,7 @@ booklet, supporting the student’s communication needs through an AAC etc.</p>
 <p></p>
 </li>
 <li>
-<p><strong>The Student’s Family</strong>:&nbsp; Anticipate their needs before
+<p><strong>The Student’s Family</strong>:&nbsp;Anticipate their needs before
 the meeting, and determine what will help them to understand what is most
 important to the student.&nbsp;E.g. Would any family member require an
 interpreter? Would any family member need time to rest/food before starting?</p>
