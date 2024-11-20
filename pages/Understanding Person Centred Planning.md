@@ -36,11 +36,11 @@ to achieve their desired outcomes while promoting their autonomy and well-being.
 at the heart of all decision-making processes.</p>
 <p></p>
 <hr>
-<h4><strong>What others have said about Person-Centeredness:</strong></h4>
+<h4><strong>What others have said about Person-Centredness:</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Person-Centeredness</div>
+<div class="isomer-card-title">Person-Centredness</div>
 <div class="isomer-card-description">"Person-centredness is a set of beliefs, attitudes, and expectations about
 the capacities and rights of persons with disabilities to live their lives
 in accordance with their own wishes, dreams, aspirations, needs and abilities."
@@ -49,7 +49,7 @@ in accordance with their own wishes, dreams, aspirations, needs and abilities."
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Person-Centered Thinking</div>
+<div class="isomer-card-title">Person-Centred Thinking</div>
 <div class="isomer-card-description">“focuses on the strengths, abilities and aspirations of the person with
 the disability rather than making decisions that are focused on an individual’s
 problems" (Sonoran University Centre for Excellence in Developmental Disabilities,
