@@ -11,10 +11,9 @@ the Ministry of Social and Family Development (MSF) that focuses on employment,
 community integration and continual learning for persons with disabilities.
 For more information about SG Enable and the services offered, please visit
 <a href="www.sgenable.sg" rel="noopener nofollow" target="_blank">SG Enable</a>.</p>
-<p>Families and caregivers should explore the wide range of resources provided
-by SG Enable. These resources are designed to empower families with valuable
-information and support as they navigate the transition to post-school
-lives.</p>
+<p>Families and caregivers should explore the resources provided by SG Enable.
+These resources are designed to empower families with valuable information
+and support as they navigate the transition to post-school lives.</p>
 <hr>
 <p></p><a class="isomer-image-wrapper" href="https://www.enablingguide.sg/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/sge_enabling_guide.png"></a>
 <p>The<strong> Enabling Guide</strong> is a first-stop resource portal for
