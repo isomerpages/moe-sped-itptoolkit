@@ -39,10 +39,9 @@ done through the<strong> <em>Support Sequence</em></strong> and the <strong><em>
 <p></p>
 </li>
 </ul>
-<p>Use these <a href="/support-sequence-guiding-questions/" rel="noopener noreferrer nofollow" target="_blank">guiding questions</a> to
+<p>Use the <a href="/support-sequence-guiding-questions/" rel="noopener nofollow" target="_blank">support sequence</a> to
 generate ideas for supports. Supports can be immediate, short or longer
 term.</p>
-<p></p>
 <p>After determining the range of supports, the facilitator leads the participants
 to develop an action plan using <strong>the <em>Action Plan template.</em></strong>
 </p>
