@@ -28,9 +28,9 @@ third_nav_title: The Individual Transition Plan
 </li>
 </ul>
 <p></p>
-<p>The OPP is prepared with the student over time. &nbsp;Input can be from
-daily observations of the student, or family, school staff and people who
-know him/her well.</p>
+<p>The OPP is prepared with the student over time. Input can be from daily
+observations of the student, or family, school staff and people who know
+him/her well.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Pro Tip (OPP)" src="/images/Updated Pro Tips/Pro_Tip__OPP_.png">
@@ -73,7 +73,7 @@ This information is important for developing goals through the <strong>Outcome S
 <img style="width: 70%;" height="auto" width="100%" alt="What's Working and What's Not Working Table" src="/images/4areas.png">
 </div>
 <h4><strong>My Goals and Action Plan</strong></h4>
-<p>This section specifies the student’s post school goals as well as short
+<p>This section specifies the student’s post-school goals as well as short
 term goals, and a clear action plan to support attainment of the goals.
 Goals developed from the <strong>Outcome Sequence</strong> at <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step4/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 4</a></strong> can
 be refined as needed, and placed into this section. Refer to<strong> <a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step4/" rel="noopener noreferrer nofollow" target="_blank">Step 3 of the Outcome Sequence</a> </strong>for
@@ -91,7 +91,7 @@ can be transferred into this section.</p>
 </div>
 <h4><strong>My Transition Activities</strong></h4>
 <p>This section captures any other transition-related activities needed to
-assist the student in attaining his/her postschool goals. These activities
+assist the student in attaining his/her post-school goals. These activities
 would have been identified through the <strong>Support Sequence</strong> in <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step5/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 5</a></strong> and
 are needed to support the student towards his/her post-school goals (e.g.
 researching on specific post-school service, applying for courses, linking
