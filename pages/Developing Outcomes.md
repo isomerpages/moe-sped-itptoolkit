@@ -13,9 +13,9 @@ which could be explored in FEM Step 5.</p>
 <p></p>
 <h4><em>2) Not being specific enough in the outcome</em></h4>
 <p>An outcome is the WHAT, not the HOW. Outcomes that are too vague, overly
-generic or lacking in context are not specific enough outcomes. Lack of
-specificity undermines the impact on the student as it will be unclear
-what is expected of him/her even if the outcome is engaged in.</p>
+generic or lacking in context are not specific enough outcomes. Specificity
+is crucial because when the outcome is written in a vague way, it is challenging
+to determine what everyone should do and achieve.</p>
 <p></p>
 <h4><em>3) Not linking the outcome with what matters to the person</em></h4>
 <p>We need to make sure that we link the outcome with what is important for/to
