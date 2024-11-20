@@ -22,11 +22,10 @@ of the student's first Individual Transition Plan (ITP).</p>
 <p></p>
 <p>There are 5 steps in FEM that help guide the school in a conversation
 with families to plan and prepare for future goals.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="5 Steps Overview" src="/images/PCP_5_Steps_Overview__Refreshed_.png">
+<img style="width: 100%" height="auto" width="100%" alt="FEM 5 Steps" src="/images/FEM_5_Steps__20_Nov_Update_.jpg">
 </div>
-<p></p>
-<p></p>
 <h4><strong>Watch a FEM in action!</strong></h4>
 <p><a href="https://app.vyond.com/videos/aa41fa88-20fd-48e6-bc5d-dd783e0aea3b" rel="noopener nofollow" target="_blank">Click here to watch the FEM Video Animation!</a>
 </p>
