@@ -15,7 +15,7 @@ on the student’ interests, aspirations and needs. It also results in an
 agreed action plan to support the student to attain the goals.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Developing the first ITP" src="/images/Developing_the_first_ITP__updated_6_Nov_.png">
+<img style="width: 100%" height="auto" width="100%" alt="Developing the ITP after FEM image" src="/images/FEM_to_ITP__20_Nov_Update_.png">
 </div>
 <p>These are essential ingredients for the ITP and hence immediately after
 FEM, this information should be translated <strong>into the student’s first ITP</strong>.&nbsp;Please
