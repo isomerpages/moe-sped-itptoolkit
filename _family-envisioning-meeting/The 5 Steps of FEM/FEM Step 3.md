@@ -5,7 +5,7 @@ variant: tiptap
 description: FEM Step 3
 third_nav_title: The 5 Steps of FEM
 ---
-<h3><strong><em>What </em>is<em> Working</em> and <em>What </em>is<em> Not Working</em></strong></h3>
+<h3><strong><em>What is Working</em> and What<em> </em>is<em> Not Working</em></strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Step_3_Timer.png">
 </div>
