@@ -17,12 +17,11 @@ to as they embark on their post-school journey.&nbsp;&nbsp;</p>
 (SSAs). These services include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sheltered Workshops where SPED graduates can engage in a range of vocational
-tasks;</p>
+<p>Sheltered Workshops for a range of vocational tasks;</p>
 </li>
 <li>
-<p>Day Activity Centres where SPED graduates can access recreational activities
-and training in life skills.</p>
+<p>Day Activity Centres for recreational activities and training in life
+skills.</p>
 </li>
 </ul>
 <p>Enabling Services Hubs (ESHs) offer community programmes for persons with
@@ -33,14 +32,13 @@ that SPED graduates can choose from for leisure and social. They can also
 pick up new skills and learn about a variety of topics, such as money management,
 being aware of scams and puppetry, through the continual education and
 learning courses provided at the ESHs.</p>
-<p>SPED graduates can also tap on programmes offered by SSAs and other private
-organisations, to continue exploring their interests after graduation.
-These programmes cover a range of interest areas, such as in sports and
-music.</p>
+<p>They can also tap on programmes offered by SSAs and other private organisations,
+to continue exploring their interests after graduation. These programmes
+cover a range of interest areas, such as in sports and music.</p>
 <h4><strong>Work and Employment Opportunities</strong></h4>
 <p>SPED graduates are encouraged to consider a work pathway that meets their
-interests, strengths and aspirations.&nbsp;SPED graduates can make a valued
-contribution in one or more of the following options:</p>
+interests, strengths and aspirations.&nbsp;They can make a valued contribution
+in one or more of the following options:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Open employment</p>
