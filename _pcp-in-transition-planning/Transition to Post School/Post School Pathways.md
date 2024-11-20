@@ -13,8 +13,8 @@ in ways that meet their interests, strengths and talents. Let’s explore
 the possible pathways and opportunities that our graduates can look forward
 to as they embark on their post-school journey.&nbsp;&nbsp;</p>
 <h4><strong>Community Services and Programmes</strong></h4>
-<p>SPED graduates may access adult disability services offered by Social
-Service Agencies (SSAs). These services include:</p>
+<p>SPED graduates may access adult services offered by Social Service Agencies
+(SSAs). These services include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sheltered Workshops where SPED graduates can engage in a range of vocational
