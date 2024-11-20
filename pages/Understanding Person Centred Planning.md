@@ -28,9 +28,8 @@ and aspirations, fostering a deeper understanding of their perspectives.</p>
 <p><strong>Person-centred planning</strong> then translates this understanding
 into actionable strategies, creating tailored plans that empower individuals
 to achieve their desired outcomes while promoting their autonomy and well-being.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="Diagram that shows relationship between Person-Centeredness (PC), PC Thinking and PC planning" src="/images/What_is_Person_Centeredness.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Person-Centredness Circles" src="/images/Person_Centredness_UPDATED.jpg">
 </div>
 <p>Together, these concepts create a holistic approach that places the individual
 at the heart of all decision-making processes.</p>
