@@ -134,7 +134,7 @@ it out with a marker too</p>
 <p></p>
 </li>
 </ul>
-<p>&nbsp;<em>Name Tags</em>
+<p><em>Name Tags</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
