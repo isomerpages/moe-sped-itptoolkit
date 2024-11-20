@@ -48,11 +48,10 @@ to develop an action plan using <strong>the <em>Action Plan template.</em></stro
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="Action Template" src="/images/action_template_2.png">
 </div>
-<p>The <strong>Action Plan Template</strong> outlines clear follow-up supports
-and actions, including actions related to curriculum. The action plan also
-states clearly the people responsible for actioning them, and the timelines
-for their completion.</p>
-<p></p>
+<p>The <strong>Action Plan Template</strong> outlines clear follow-up, including
+actions related to curriculum (<em>Will do what</em>), the people responsible
+for actioning them (<em>Who</em>), and the timelines for their completion
+(<em>by when</em>).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Action Template with Support Sequence" src="/images/action_template.png">
 </div>
