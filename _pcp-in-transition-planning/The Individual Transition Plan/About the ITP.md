@@ -17,7 +17,7 @@ personal goals. It also reflects an action plan to support the student’s
 successful transition to post-school.</p>
 <p></p>
 <p>An ITP is developed for the student after the <a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/example-folder/fem-overview/" rel="noopener noreferrer nofollow" target="_blank">Family Envisioning Meeting (FEM)</a> is
-conducted when the student is 15 years of age.&nbsp;The information garnered
+conducted when the student is 15 years old.&nbsp;The information garnered
 from FEM forms the foundation of the student's ITP. This plan translates
 the understanding gained from the FEM into actionable strategies that empowers
 the student to achieve their desired outcomes.</p>
