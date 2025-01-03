@@ -71,8 +71,7 @@ goals. With reference to the priority areas, ask: <strong>What is the positive c
 <summary>Step 3: Check the Goals</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Check the quality of the goals by using the <em>'Quality Goals Checklist'</em>
-</p>
+<p>Check the quality of the goals by using the following checklist:</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
