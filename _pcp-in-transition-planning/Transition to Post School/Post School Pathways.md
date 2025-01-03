@@ -34,7 +34,7 @@ being aware of scams and puppetry, through the continual education and
 learning courses provided at the ESHs.</p>
 <p>They can also tap on programmes offered by SSAs and other private organisations,
 to continue exploring their interests after graduation. These programmes
-cover a range of interest areas, such as in sports and music.</p>
+cover a range of interest areas, such as sports and music.</p>
 <h4><strong>Work and Employment Opportunities</strong></h4>
 <p>SPED graduates are encouraged to consider a work pathway that meets their
 interests, strengths and aspirations.&nbsp;They can make a valued contribution
