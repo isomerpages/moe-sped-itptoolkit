@@ -26,10 +26,10 @@ to ensure goals remain relevant and updated.&nbsp;</p>
 <p></p>
 <ul>
 <li>
-<p>In the <strong>Initiating phase (13 – 14 years old<u>)</u></strong>, Transition
+<p>In the <strong>Initiating phase (13 – 14 years old)</strong><u>,</u> Transition
 Planning is introduced to families and they are engaged to share their
-aspirations and concerns, as well as talk about students’ interests and
-strengths.&nbsp;&nbsp;</p>
+aspirations and concerns for their child, as well as talk about their child's
+interests and strengths.&nbsp;&nbsp;</p>
 <p></p>
 </li>
 <li>
@@ -48,7 +48,7 @@ with these agencies may be conducted to bridge the transition for families.&nbsp
 </li>
 </ul>
 <p></p>
-<p><em><s><sub>Note: The</sub></s></em><strong><em><s><sub> Multi-Agency Transition Meeting (MATM)</sub></s></em></strong><em><s><sub> is a coordinated and person-centred handover process jointly implemented by MOE, Ministry of Social and Family Development (MSF) and SG Enable to support SPED graduates transitioning into Day Activity Centres and Sheltered Workshops.&nbsp; </sub></s><sub> </sub></em><strong><em><sub>Propose to remove this as MATM is only one of the various pathways. </sub></em></strong>
+<p><em><s><sub>Note: The</sub></s></em><strong><em><s><sub> Multi-Agency Transition Meeting (MATM)</sub></s></em></strong><em><s><sub> is a coordinated and person-centred handover process jointly implemented by MOE, Ministry of Social and Family Development (MSF) and SG Enable to support SPED graduates transitioning into Day Activity Centres and Sheltered Workshops.&nbsp; </sub></s></em><strong><em><sub>Propose to remove this as MATM is only one of the various pathways.</sub></em></strong>
 </p>
 <p></p>
 <p></p>
