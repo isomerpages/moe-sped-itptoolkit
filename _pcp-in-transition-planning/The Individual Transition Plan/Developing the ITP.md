@@ -41,7 +41,7 @@ him/her well.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ITP_Components_9_Sep.png">
 </div>
-<h4><strong>My Person Details</strong></h4>
+<h4><strong>My Personal Details</strong></h4>
 <p>This section captures personal details of the student and family/caregiver.</p>
 <h4><strong>My Strengths</strong></h4>
 <p>This section highlights the student’s strengths and abilities based on
