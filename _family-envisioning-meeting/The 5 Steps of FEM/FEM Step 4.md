@@ -82,8 +82,9 @@ goals. With reference to the priority areas, ask: <strong>What is the positive c
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="PCP Spotlight (Golden Thread)" src="/images/Updated  PCP Spotlight/PCP_Spotlight__Golden_Thread_.png">
+<img style="width: 60%;" height="auto" width="100%" alt="PCP Spotlight on Outcome Sequence" src="/images/PCP_Spotlight_FEM_Step_4__Updated_.png">
 </div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GOS FEM at a Student's House" src="/images/Photos from School/GOS_7.jpg">
