@@ -26,11 +26,11 @@ with families to plan and prepare for future goals.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="FEM 5 Steps" src="/images/FEM_5_Steps__20_Nov_Update_.jpg">
 </div>
+<p></p>
 <h4><strong>Watch a FEM in action!</strong></h4>
-<p><a href="https://app.vyond.com/videos/aa41fa88-20fd-48e6-bc5d-dd783e0aea3b" rel="noopener nofollow" target="_blank">Click here to watch the FEM Video Animation!</a>
-</p>
-<p><em>[Actual FEM Video will be an embedded video on the site after clearance. Video needs to be uploaded on YouTube before it can be embedded]</em>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/A-PVUBuIGtw?si=yolwX614sAXZB8sg"></iframe>
+</div>
 <p></p>
 <p></p>
 <p></p>
