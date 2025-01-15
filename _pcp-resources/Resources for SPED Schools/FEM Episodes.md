@@ -9,7 +9,6 @@ third_nav_title: Resources for SPED Schools
 for step-by-step learning.</p>
 <p></p>
 <p>Check these episodes out below!</p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youtu.be/vo7krlbgGFo?si=t2_KaNakei-MKhbM" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Episode 1: What is FEM?</div><div class="isomer-card-link">Click here to watch!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://youtu.be/C01rNNq9OcI?si=IlrEgGMOVPkqmOow" class="isomer-card">
 <div class="isomer-card-image">
