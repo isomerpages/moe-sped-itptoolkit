@@ -28,7 +28,7 @@ for step-by-step learning.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Episode 4: How to conduct FEM (Steps 1 - 3)</div>
+<div class="isomer-card-title">Episode 4: How to conduct FEM (Steps 4 - 5)</div>
 <div class="isomer-card-link">Click here to watch!</div>
 </div>
 </a>
