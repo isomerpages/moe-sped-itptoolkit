@@ -23,35 +23,37 @@ to achieve their desired outcomes while promoting their autonomy and well-being.
 at the heart of all decision-making processes.</p>
 <p></p>
 <hr>
-<h4><strong>What others have said about Person-Centredness:</strong></h4>
+<h4><strong>Important Considerations in Person-Centred Planning</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Person-Centredness</div>
-<div class="isomer-card-description">"Person-centredness is a set of beliefs, attitudes, and expectations about
-the capacities and rights of persons with disabilities to live their lives
-in accordance with their own wishes, dreams, aspirations, needs and abilities."
-(New Directions, 2012)</div>
+<div class="isomer-card-title">Social &amp; Cultural Context</div>
+<div class="isomer-card-description">People from different backgrounds and cultures may view and support persons
+with disabilities in different ways. Key to the process of focussing on
+an individual’s strengths, abilities and aspirations is understanding where
+he/she lives and who is involved in his/her life.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Person-Centred Thinking</div>
-<div class="isomer-card-description">“focuses on the strengths, abilities and aspirations of the person with
-the disability rather than making decisions that are focused on an individual’s
-problems" (Sonoran University Centre for Excellence in Developmental Disabilities,
-2011)</div>
+<div class="isomer-card-title">Taking Risks</div>
+<div class="isomer-card-description">Dignity involves having the ability to take risks. Protection from failure
+can also mean protection from success. In implementing PCP, we must examine
+our personal prejudices and perspectives to determine whether risk aversion
+arises from genuine concern or untested preconceptions.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Person-Centred Planning</div>
-<div class="isomer-card-description">“A collaborative effort, involving those who know an individual well and
-are willing to commit to taking the action necessary to support the person
-in achieving his or her life vision.” (Abery and McBride, 1998)</div>
+<div class="isomer-card-title">Dynamic Perspective</div>
+<div class="isomer-card-description">Honouring a person’s choice means honouring that his/her interests and
+aspirations may change over time. Implementing PCP requires us to be always
+ready to shift our perspectives and consistently question our assumptions.</div>
 </div>
 </div>
 </div>
+<p></p>
+<p></p>
 <p></p>
 <p>Click <a href="/about-pcp-resources/" rel="noopener nofollow" target="_blank">here</a> to
 access resources on PCP!</p>
