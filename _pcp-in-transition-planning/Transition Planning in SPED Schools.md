@@ -33,16 +33,17 @@ interests and strengths.&nbsp;&nbsp;</p>
 <li>
 <p>In the <strong>Planning phase (15-16 years old)</strong>, a Family Envisioning
 Meeting (FEM) takes place for every student and their family from which
-an Individual Transition Plan (ITP) is developed. The ITP is a continuation
-of the IEP and contains the student’s post school goals, i.e. what they
-would like to do when they leave school.&nbsp;</p>
+an Individual Transition Plan (ITP) is developed. The ITP contains the
+student’s post school goals, i.e. what they would like to do when they
+leave school.&nbsp;</p>
 <p></p>
 </li>
 <li>
 <p>In the <strong>Consolidating phase (17 years old to final schooling years)</strong>,
 connections and direct referrals to community pathways and resources are
-made for families to help the student fulfil their post school goals. Meetings
-with these agencies may be conducted to bridge the transition for families.&nbsp;&nbsp;&nbsp;</p>
+made with and for families to help the student fulfil their post school
+goals. Meetings with these agencies may be conducted to bridge the transition
+for families.&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ul>
 <p></p>
