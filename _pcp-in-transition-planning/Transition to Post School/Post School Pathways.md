@@ -83,9 +83,11 @@ organisations</p>
 such as YouTube, reading books</p>
 </li>
 </ul>
-<p>SPED graduates may reference the <a href="https://www.sgenable.sg/your-first-stop/training-consultancy/enabling-academy/Enabling-Skills-and-Competencies-Framework" rel="noopener nofollow" target="_blank">Enabling Academy’s Enabling Skills and Competencies Framework</a> to
-identify key competencies they are keen to grow in and plan their own skills
-development.</p>
+<p>SPED graduates are encouraged to use <a href="https://www.sgenable.sg/your-first-stop/training-consultancy/enabling-academy/Enabling-Skills-and-Competencies-Framework" rel="noopener nofollow" target="_blank">Enabling Academy’s Enabling Skills and Competencies Framework</a> as
+a valuable tool to identify key areas for growth and customise a personalised
+skills development plan. Graduates can also explore potential careers and
+identify essential work-related skills across industries with the Career
+Exploration Guides.</p>
 <p></p>
 <p></p>
 <p></p>
