@@ -6,22 +6,22 @@ description: Information about Person-Centred Planning
 ---
 <h4></h4>
 <hr>
-<h4><strong><em>Person-Centredness</em>: The Heart of Person-Centred Planning</strong></h4>
-<p><strong>Person-centredness</strong> is the overarching philosophy that
-emphasises treating individuals with dignity and respect, ensuring their
-unique needs and preferences are prioritized in all aspects of care and
-support. Within this framework, <strong>person-centred thinking</strong> involves
+<h4><strong><em>Person-Centredness</em> is...</strong></h4>
+<p>An overarching philosophy that emphasises treating individuals with dignity
+and respect, ensuring their unique needs and preferences are prioritized
+in all aspects of care and support. Within this framework, <strong>person-centred thinking</strong> involves
 actively engaging individuals in conversations about their goals, values,
 and aspirations, fostering a deeper understanding of their perspectives.</p>
 <p><strong>Person-centred planning</strong> then translates this understanding
 into actionable strategies, creating tailored plans that empower individuals
 to achieve their desired outcomes while promoting their autonomy and well-being.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="Person-Centredness Circles" src="/images/Person_Centredness_UPDATED.jpg">
-</div>
 <p>Together, these concepts create a holistic approach that places the individual
 at the heart of all decision-making processes.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="What being person-centred means" src="/images/New_PCP_Honeycomb.png">
+</div>
 <hr>
 <h4><strong>Important Considerations in Person-Centred Planning</strong></h4>
 <div class="isomer-card-grid">
@@ -52,8 +52,6 @@ ready to shift our perspectives and consistently question our assumptions.</div>
 </div>
 </div>
 </div>
-<p></p>
-<p></p>
 <p></p>
 <p>Click <a href="/about-pcp-resources/" rel="noopener nofollow" target="_blank">here</a> to
 access resources on PCP!</p>
