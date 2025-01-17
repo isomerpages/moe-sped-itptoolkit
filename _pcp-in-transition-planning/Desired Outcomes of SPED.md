@@ -21,7 +21,8 @@ for students to achieve the Living Learning and Working Outcomes.</p>
 <img style="width: 100%" height="auto" width="100%" alt="SPED Curriculum Pyramid" src="/images/TLS Assets/Curriculum_Pyramid.jpg">
 </div>
 <p></p>
-<p></p>
+<p><em>[To be Added: High Quality Image files of National SPE Curriculum and 7 TLSes]</em>
+</p>
 <p></p>
 <p></p>
 <p></p>
