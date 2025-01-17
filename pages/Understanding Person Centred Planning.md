@@ -10,16 +10,12 @@ and aspirations that he/she also has. This may leave them feeling depersonalised
 and unheard in the process.</p>
 <h4><strong><em>Person-Centredness</em> is...</strong></h4>
 <p>An overarching philosophy that emphasises treating individuals with dignity
-and respect, ensuring their unique needs and preferences are prioritized
-in all aspects of care and support. Within this framework, <strong>person-centred thinking</strong> involves
-actively engaging individuals in conversations about their goals, values,
-and aspirations, fostering a deeper understanding of their perspectives.</p>
-<p><strong>Person-centred planning</strong> then translates this understanding
-into actionable strategies, creating tailored plans that empower individuals
-to achieve their desired outcomes while promoting their autonomy and well-being.</p>
-<p>Together, these concepts create a holistic approach that places the individual
-at the heart of all decision-making processes.</p>
-<p></p>
+and respect, ensuring their unique needs and preferences are prioritised
+in all aspects of support and care.</p>
+<p>Person-Centred Planning translates this philosophy into actionable steps
+to create tailored plans that empower individuals to achieve their life
+goals while promoting their autonomy and well-being. It places the individual
+at the heart of all decision-making processes. This entails:</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="What being person-centred means" src="/images/New_PCP_Honeycomb.png">
