@@ -4,17 +4,15 @@ permalink: /transition-planning-in-sped/process/
 variant: tiptap
 description: Information about the Transition Planning Process at SPED Schools
 ---
-<p>As a student progresses to senior/secondary schooling in Special Education
-(SPED), Transition Planning begins to prepare students and their families
-for a smooth transition to&nbsp;post-school. The transition from school
-to post-school life can be a challenging time for students with special
-needs and their families. It often raises questions about the available
-opportunities and the next steps after leaving school.</p>
-<p>In every SPED school, the Transition Planning Coordinator and Transition
+<p>The transition from school to post-school life can be a daunting time
+for students with special needs and their families. This step often raises
+questions about what are the next steps and what is available post school.</p>
+<p>In every SPED school, Transition Planning takes place during the secondary
+schooling years prepare students and their families for a smooth transition
+to&nbsp;post-school. A Transition Planning Coordinator (TPC) and Transition
 Team oversee and coordinate this important process where the school intensifies
-partnership with families to develop a shared vision for the students’
-future when they graduate from school.</p>
-<p></p>
+partnerships with families to develop a shared vision and a plan for the
+students’ future when they graduate from school.</p>
 <p>Transition Planning in SPED schools takes place over three broad phases
 during the senior/secondary schooling years, leading up to the point of
 graduation. The ITP is reviewed every year through a person-centred approach
