@@ -13,25 +13,26 @@ in ways that meet their interests, strengths and talents. Let’s explore
 the possible pathways and opportunities that our graduates can look forward
 to as they embark on their post-school journey.&nbsp;&nbsp;</p>
 <h4><strong>Community Services and Programmes</strong></h4>
-<p>SPED graduates may access adult services offered by Social Service Agencies
-(SSAs). These services include:</p>
+<p>SPED graduates may access adult disability services offered by Social
+Service Agencies (SSAs). These services include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sheltered Workshops for a range of vocational tasks;</p>
+<p>Sheltered Workshops for vocational training, providing various jobs/work
+tasks for practice; and</p>
 </li>
 <li>
-<p>Day Activity Centres for recreational activities and training in life
-skills.</p>
+<p>Day Activity Centres for training in life skills and social/recreational
+activities.</p>
 </li>
 </ul>
-<p>Enabling Services Hubs (ESHs) offer community programmes for persons with
-disabilities and their caregivers closer to their homes. There is currently
-an ESH in Tampines, Jurong and Punggol. Organised in collaboration with
-community partners, they offer a range of social and recreational activities
-that SPED graduates can choose from for leisure and social. They can also
-pick up new skills and learn about a variety of topics, such as money management,
-being aware of scams and puppetry, through the continual education and
-learning courses provided at the ESHs.</p>
+<p>Enabling Services Hubs (ESHs) offer community support for persons with
+disabilities and their caregivers closer to their homes. ESHs are currently
+located in Tampines, Jurong and Punggol. In collaboration with community
+partners, they offer a range of social and recreational activities that
+SPED graduates can choose from for leisure and social purposes. They can
+also pick up new skills and learn about a variety of topics, such as money
+management, being aware of scams and puppetry, through the continual education
+and learning courses provided at the ESHs.</p>
 <p>They can also tap on programmes offered by SSAs and other private organisations,
 to continue exploring their interests after graduation. These programmes
 cover a range of interest areas, such as sports and music.</p>
