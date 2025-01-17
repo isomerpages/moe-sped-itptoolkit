@@ -4,8 +4,10 @@ permalink: /pcp/
 variant: tiptap
 description: Information about Person-Centred Planning
 ---
-<h4></h4>
-<hr>
+<p>When we think about disability, we may over focus on the label and the
+problems a person with disability has, and overlook the feelings, hopes,
+and aspirations that he/she also has. This may leave them feeling depersonalised
+and unheard in the process.</p>
 <h4><strong><em>Person-Centredness</em> is...</strong></h4>
 <p>An overarching philosophy that emphasises treating individuals with dignity
 and respect, ensuring their unique needs and preferences are prioritized
