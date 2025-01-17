@@ -35,7 +35,7 @@ management, being aware of scams and puppetry, through the continual education
 and learning courses provided at the ESHs.</p>
 <p>They can also tap on programmes offered by SSAs and other private organisations,
 to continue exploring their interests after graduation. These programmes
-cover a range of interest areas, such as sports and music.</p>
+cover a range of interest areas, such as sports, arts and music.</p>
 <h4><strong>Work and Employment Opportunities</strong></h4>
 <p>SPED graduates are encouraged to consider a work pathway that meets their
 interests, strengths and aspirations.&nbsp;They can make a valued contribution
@@ -60,7 +60,11 @@ in one or more of the following options:</p>
 </ul>
 <p>SPED students may also benefit from the School-to-Work (S2W) Transition
 Programme. This is a collaboration between MOE, MSF and SG Enable to provide
-job matching, training and job coaching for up to two years after graduation.&nbsp;</p>
+job matching, training and job coaching support for identified graduates
+up to two years after graduation.&nbsp;</p>
+<p>For more information on SGE's support for Training and Employment, please
+visit <a href="https://www.enablingguide.sg/im-looking-for-disability-support/training-employment" rel="noopener nofollow" target="_blank">here</a><em>.</em>
+</p>
 <h4><strong>Further Education and Training</strong></h4>
 <p>SPED graduates are encouraged to consider pursuing further education,
 training and learning after they graduate. This can take formal and informal
