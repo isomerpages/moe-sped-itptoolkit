@@ -4,19 +4,7 @@ permalink: /pcp/
 variant: tiptap
 description: Information about Person-Centred Planning
 ---
-<h4><strong>PCP in SPED</strong></h4>
-<p>Person-Centred Planning (PCP) is crucial in helping all Special Education
-(SPED) students achieve their desired outcomes. As a core feature of Transition
-Planning, PCP seeks to uncover and recognise each student's strengths,
-interests, and aspirations. It will play a significant role in the Transition
-Planning process across all SPED schools. This approach will involve more
-structured planning and increased family participation in setting life
-goals.</p>
-<p>Implementing PCP in SPED will foster stronger collaboration between educators
-and families. This partnership will support students in planning for their
-post-graduation lives and support them in fulfilling their aspirations.
-Through these combined efforts, SPED students will be empowered to achieve
-the living, learning, and working outcomes of special education.</p>
+<h4></h4>
 <hr>
 <h4><strong><em>Person-Centredness</em>: The Heart of Person-Centred Planning</strong></h4>
 <p><strong>Person-centredness</strong> is the overarching philosophy that
@@ -68,6 +56,14 @@ in achieving his or her life vision.” (Abery and McBride, 1998)</div>
 <p>Click <a href="/about-pcp-resources/" rel="noopener nofollow" target="_blank">here</a> to
 access resources on PCP!</p>
 <hr>
-<h4></h4>
+<h4><strong>PCP in SPED</strong></h4>
+<p>Person-Centred Planning (PCP) is a core feature in Special Education (SPED).
+In particular, PCP features strongly in Transition Planning to uncover
+each student's strengths, interests, and aspirations to help them achieve
+their dreams and aspirations when they graduate.</p>
+<p>Implementing PCP in Transition Planning is a systematic process that fosters
+strong collaboration between educators and families. Through such partnerships,
+SPED students will be empowered to achieve the SPED 'Living, Learning,
+Working' (LLW) Outcomes.</p>
 <p></p>
 <p></p>
