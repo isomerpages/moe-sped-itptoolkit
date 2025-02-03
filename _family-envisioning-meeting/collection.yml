@@ -2,7 +2,6 @@ collections:
   family-envisioning-meeting:
     output: true
     order:
-      - About FEM.md
       - The 5 Steps of FEM/.keep
       - The 5 Steps of FEM/FEM Step 1.md
       - The 5 Steps of FEM/FEM Step 2.md
