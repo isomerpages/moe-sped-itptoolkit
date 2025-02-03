@@ -24,6 +24,9 @@ of the student's first Individual Transition Plan (ITP).</p>
 <p>There are 5 steps in FEM that help guide the school in a conversation
 with families to plan and prepare for future goals.</p>
 <p></p>
+<p><a href="/fem-overview/" rel="noopener nofollow" target="_blank">Click here for the 5 Steps of FEM</a>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="FEM 5 Steps" src="/images/FEM_5_Steps__20_Nov_Update_.jpg">
 </div>
