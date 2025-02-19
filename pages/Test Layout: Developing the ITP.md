@@ -50,21 +50,21 @@ him/her well.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="#one" rel="noopener noreferrer nofollow" target="_blank">My Personal Details</a>
+<p><a href="#one">My Personal Details</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="#two" rel="noopener noreferrer nofollow" target="_blank">My Strengths</a>
+<p><a href="#two">My Strengths</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><a href="#three" rel="noopener noreferrer nofollow" target="_blank">My Aspirations</a></strong>
+<p><strong><a href="#three">My Aspirations</a></strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="#four" rel="noopener noreferrer nofollow" target="_blank">How I Communicate</a></strong>
+<p><strong><a href="#four">How I Communicate</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
