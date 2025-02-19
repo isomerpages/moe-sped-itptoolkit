@@ -50,7 +50,7 @@ him/her well.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>&lt;a href="one"&gt;My Personal Details&lt;/a&gt;</p>
+	<p><a href="one">My Personal Details</a></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>&lt;a href="#two"&gt;My Strengths&lt;/a&gt;</p>
@@ -91,7 +91,7 @@ him/her well.</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>My Personal Details</strong></h4>
+<h4 id="one"> <strong>My Personal Details</strong></h4>
 <p>This section captures personal details of the student and family/caregiver.</p>
 <h4><strong>My Strengths</strong></h4>
 <p>This section highlights the student’s strengths and abilities based on
