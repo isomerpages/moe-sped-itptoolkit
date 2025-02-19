@@ -40,6 +40,51 @@ him/her well.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ITP_Components_9_Sep.png">
 </div>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>&lt;a href="one"&gt;My Personal Details&lt;/a&gt;</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>&lt;a href="#two"&gt;My Strengths&lt;/a&gt;</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>&lt;a href="#three"&gt;My Aspirations&lt;/a&gt;</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>My Personal Details</strong></h4>
 <p>This section captures personal details of the student and family/caregiver.</p>
 <h4><strong>My Strengths</strong></h4>
