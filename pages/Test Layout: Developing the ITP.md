@@ -126,7 +126,7 @@ This information is important for developing goals through the <strong>Outcome S
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="What's Working and What's Not Working Table" src="/images/4areas.png">
 </div>
-<h4><strong>My Goals and Action Plan</strong></h4>
+<h4 id="seven"><strong>My Goals and Action Plan</strong></h4>
 <p>This section specifies the student’s post-school goals as well as short
 term goals, and a clear action plan to support attainment of the goals.
 Goals developed from the <strong>Outcome Sequence</strong> at <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step4/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 4</a></strong> can
@@ -143,7 +143,7 @@ can be transferred into this section.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Action Plan Template" src="/images/action_template_2.png">
 </div>
-<h4><strong>My Transition Activities</strong></h4>
+<h4 id="eight"><strong>My Transition Activities</strong></h4>
 <p>This section captures any other transition-related activities needed to
 assist the student in attaining his/her post-school goals. These activities
 would have been identified through the <strong>Support Sequence</strong> in <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step5/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 5</a></strong> and
@@ -153,7 +153,7 @@ families up with services, making application, deputyship, etc).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Support_Sequence__2_.png">
 </div>
-<h4><strong>Contributors to my ITP</strong></h4>
+<h4 id="nine"><strong>Contributors to my ITP</strong></h4>
 <p>The ITP is co-developed with the views and hopes of people supporting
 the student. This section captures details of persons who have contributed
 to sharing of information that is captured in the ITP.</p>
