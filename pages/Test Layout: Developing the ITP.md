@@ -118,7 +118,7 @@ through the use of appropriate <strong><a href="https://staging.d3j5q81zdtd1vn.a
 <p>This section highlights medical, health and care needs based on information
 received from the student, family, school, health and care professionals,
 and from the Preparation Booklet.</p>
-<h4><strong>What’s Working, What’s Not Working</strong></h4>
+<h4 id="six"><strong>What’s Working, What’s Not Working</strong></h4>
 <p>This section records key information on <em>What’s Working, What’s Not Working</em> in
 relation to the respective life planning areas, as gathered through <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step3/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 3</a></strong>.
 This information is important for developing goals through the <strong>Outcome Sequence</strong>.</p>
