@@ -62,24 +62,30 @@ him/her well.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>&lt;a href="#four"&gt;How I Communicate&lt;/a&gt;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>&lt;a href="#five"&gt;My Needs&lt;/a&gt;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>&lt;a href="#six"&gt;What's Working,What's not working?&lt;/a&gt;</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>&lt;a href="#seven"&gt;My Goals and Action Plan&lt;/a&gt;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>&lt;a href="#eight"&gt;My Transition Activities&lt;/a&gt;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>&lt;a href="#nine"&gt;Contributors to my ITP&lt;/a&gt;</strong>
+</p>
 </td>
 </tr>
 </tbody>
