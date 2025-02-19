@@ -38,6 +38,10 @@ which they paste on the respective flipcharts<strong>.</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Appreciation Flip Chart" src="/images/Appreciation_Example.jpg">
+</div>
+<p><em>Source: </em>Grace Orchard School (FEM at a Student's House)</p>
+<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Pro Tip (Contributions)" src="/images/Updated Pro Tips/Pro_Tip__Contributions_.png">
 </div>
 <p></p>
