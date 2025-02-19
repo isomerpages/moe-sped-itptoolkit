@@ -32,7 +32,7 @@ the community: <em>This is related to the student's motivation and ability to ac
 </ul>
 <p></p>
 <p>Participants may verbally express their views or write them on post-its
-which they paste on the respective flipcharts<strong>. </strong>
+which they paste on the respective flipcharts<strong>.</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
