@@ -53,16 +53,16 @@ him/her well.</p>
 	<p><a href="one">My Personal Details</a></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>&lt;a href="#two"&gt;My Strengths&lt;/a&gt;</p>
+	<p><a href="#two">My Strengths</a></p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>&lt;a href="#three"&gt;My Aspirations&lt;/a&gt;</strong>
+	<p><strong><a href="#three">My Aspirations</a></strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&lt;a href="#four"&gt;How I Communicate&lt;/a&gt;</strong>
+	<p><strong><a href="#four">How I Communicate</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,11 +93,11 @@ him/her well.</p>
 <p></p>
 <h4 id="one"> <strong>My Personal Details</strong></h4>
 <p>This section captures personal details of the student and family/caregiver.</p>
-<h4><strong>My Strengths</strong></h4>
+<h4 id="two"><strong>My Strengths</strong></h4>
 <p>This section highlights the student’s strengths and abilities based on
 information received from the student, family, school, health and care
 professionals.</p>
-<h4><strong>My Aspirations</strong></h4>
+<h4 id="three"><strong>My Aspirations</strong></h4>
 <p>This section captures the student’s wishes, ambitions and dreams about
 what they want to do when they graduate or in their lives. This can include
 social and work-related aspirations. Information can be drawn from <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step2/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 2</a></strong>,
@@ -107,7 +107,7 @@ are some examples of aspirations shared at FEM:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="My Aspirations" src="/images/My_Aspirations__Redacted_.png">
 </div>
-<h4><strong>How I Communicate</strong></h4>
+<h4 id="four"><strong>How I Communicate</strong></h4>
 <p>This section provides key information about how the student communicates.
 Information can be gathered from the <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/preparation-booklets/" rel="noopener noreferrer nofollow" target="_blank">Preparation Booklet</a></strong> or
 through the use of appropriate <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/resources/pcp-tools/" rel="noopener noreferrer nofollow" target="_blank">PCP Tools</a></strong> like <em>Communication Chart, Decision-making Profile </em>and<em> Decision-making Agreement</em>.</p>
