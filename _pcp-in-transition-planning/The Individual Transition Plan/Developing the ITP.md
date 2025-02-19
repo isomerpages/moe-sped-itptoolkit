@@ -53,8 +53,9 @@ what they want to do when they graduate or in their lives. This can include
 social and work-related aspirations. Information can be drawn from <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step2/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 2</a></strong>,
 which captures the views of the student, family and school staff. Here
 are some examples of aspirations shared at FEM:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Examples on flip charts" src="/images/On_the_ITP_Section.png">
+<img style="width: 100%" height="auto" width="100%" alt="My Aspirations" src="/images/My_Aspirations__Redacted_.png">
 </div>
 <h4><strong>How I Communicate</strong></h4>
 <p>This section provides key information about how the student communicates.
