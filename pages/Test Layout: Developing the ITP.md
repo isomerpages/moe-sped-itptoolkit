@@ -65,9 +65,8 @@ him/her well.</p>
 	<p><strong><a href="#four">How I Communicate</a></strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>&lt;a href="#five"&gt;My Needs&lt;/a&gt;</strong>
-</p>
+<td><strong>&lt;a href="#five"&gt;My Needs&lt;/a&gt;</strong>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>&lt;a href="#six"&gt;What's Working,What's not working?&lt;/a&gt;</strong>
