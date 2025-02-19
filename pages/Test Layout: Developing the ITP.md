@@ -83,11 +83,11 @@ him/her well.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong> a href="#eightMy Transition Activities/a</strong>
+<p><strong>a href="#eightMy Transition Activities/a</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>a href="#nine"Contributors to my ITP/a </strong>
+<p><strong>a href="#nine"Contributors to my ITP/a</strong>
 </p>
 </td>
 </tr>
