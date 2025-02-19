@@ -32,13 +32,13 @@ the community: <em>This is related to the student's motivation and ability to ac
 </ul>
 <p></p>
 <p>Participants may verbally express their views or write them on post-its
-which they paste on the respective flipcharts<strong>.</strong>
+which they paste on the respective flipcharts<strong>. </strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="FEM in action at CPASS (East)" src="/images/Photos from School/CPASS__East__FEM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Examples of What's Working and not working" src="/images/What_is_Working_and_not_Working_Visual.png">
 </div>
-<p><em>Source:</em> FEM at CPASS (East)</p>
+<p><em>Source:</em> Grace Orchard School, Eden School</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Quote from Parent" src="/images/Updated Quotes/Quote__Mrs_Giang_.png">
