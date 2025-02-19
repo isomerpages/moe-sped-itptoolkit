@@ -50,7 +50,7 @@ him/her well.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-	<p><a href="one">My Personal Details</a></p>
+	<p><a href="#one">My Personal Details</a></p>
 </th>
 <th rowspan="1" colspan="1">
 	<p><a href="#two">My Strengths</a></p>
