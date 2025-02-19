@@ -68,26 +68,26 @@ him/her well.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>a href="#five My Needs /a</strong>
+	<p><strong><a href="#five"> My Needs </a></strong>
 </p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>a href="#six" What's Working,What's not working /a</strong>
+		<p><strong><a href="#six"> What's Working,What's not working </a></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>a href="#seven" My Goals and Action Plan/ a</strong>
+		<p><strong><a href="#seven"> My Goals and Action Plan</a></strong><a href="#seven">
+</a></p><a href="#seven">
+</a></td>
+<td rowspan="1" colspan="1">
+	<p><strong><a href="#eight">My Transition Activities</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>a href="#eightMy Transition Activities/a</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>a href="#nine"Contributors to my ITP/a</strong>
+	<p><strong><a href="#nine">Contributors to my ITP</a></strong>
 </p>
 </td>
 </tr>
