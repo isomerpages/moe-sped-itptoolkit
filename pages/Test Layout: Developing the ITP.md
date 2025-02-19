@@ -96,7 +96,7 @@ him/her well.</p>
 <p></p>
 <h4 id="one"><strong>My Personal Details</strong></h4>
 <p>This section captures personal details of the student and family/caregiver.</p>
-<h4><strong>My Strengths</strong></h4>
+<h4 id="two"><strong>My Strengths</strong></h4>
 <p>This section highlights the student’s strengths and abilities based on
 information received from the student, family, school, health and care
 professionals.</p>
