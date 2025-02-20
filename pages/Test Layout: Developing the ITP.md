@@ -117,10 +117,12 @@ are some examples of aspirations shared at FEM:</p>
 <p>This section provides key information about how the student communicates.
 Information can be gathered from the <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/preparation-booklets/" rel="noopener noreferrer nofollow" target="_blank">Preparation Booklet</a></strong> or
 through the use of appropriate <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/resources/pcp-tools/" rel="noopener noreferrer nofollow" target="_blank">PCP Tools</a></strong> like <em>Communication Chart, Decision-making Profile </em>and<em> Decision-making Agreement</em>.</p>
+<a href="#">Scroll To Top</a>
 <h4 id="five"><strong>My Needs</strong></h4>
 <p>This section highlights medical, health and care needs based on information
 received from the student, family, school, health and care professionals,
 and from the Preparation Booklet.</p>
+<a href="#">Scroll To Top</a>
 <h4 id="six"><strong>What’s Working, What’s Not Working</strong></h4>
 <p>This section records key information on <em>What’s Working, What’s Not Working</em> in
 relation to the respective life planning areas, as gathered through <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step3/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 3</a></strong>.
@@ -129,6 +131,7 @@ This information is important for developing goals through the <strong>Outcome S
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="What's Working and What's Not Working Table" src="/images/4areas.png">
 </div>
+<a href="#">Scroll To Top</a>
 <h4 id="seven"><strong>My Goals and Action Plan</strong></h4>
 <p>This section specifies the student’s post-school goals as well as short
 term goals, and a clear action plan to support attainment of the goals.
@@ -146,6 +149,7 @@ can be transferred into this section.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Action Plan Template" src="/images/action_template_2.png">
 </div>
+<a href="#">Scroll To Top</a>
 <h4 id="eight"><strong>My Transition Activities</strong></h4>
 <p>This section captures any other transition-related activities needed to
 assist the student in attaining his/her post-school goals. These activities
@@ -156,9 +160,11 @@ families up with services, making application, deputyship, etc).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Support_Sequence__2_.png">
 </div>
+<a href="#">Scroll To Top</a>
 <h4 id="nine"><strong>Contributors to my ITP</strong></h4>
 <p>The ITP is co-developed with the views and hopes of people supporting
 the student. This section captures details of persons who have contributed
 to sharing of information that is captured in the ITP.</p>
+<a href="#">Scroll To Top</a>
 <p></p>
 <p></p>
