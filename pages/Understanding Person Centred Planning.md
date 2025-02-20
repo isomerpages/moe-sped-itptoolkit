@@ -4,10 +4,29 @@ permalink: /pcp/
 variant: tiptap
 description: Information about Person-Centred Planning
 ---
-<p>When we think about disability, we may over focus on the label and the
-problems a person with disability has, and overlook the feelings, hopes,
-and aspirations that he/she also has. This may leave them feeling depersonalised
-and unheard in the process.</p>
+<h4><strong>Person-Centred Planning</strong></h4>
+<p>At its core, person-centred planning shifts our focus from perceived needs
+to the genuine aspirations of individuals with disabilities. It's a transformative
+process that puts the individual in the driver's seat of their own life
+journey.&nbsp;</p>
+<p>Imagine a world where every person with a disability has the power to
+shape their own future, where their voice is not just heard but actively
+sought out and respected. This is the world that person-centred planning
+aims to create.&nbsp;</p>
+<p></p>
+<p><strong>Key Principles:</strong>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Placing the individual at the heart of all decision-making&nbsp;</p>
+</li>
+<li>
+<p>Prioritising personal aspirations over perceived limitations&nbsp;</p>
+</li>
+<li>
+<p>Focusing on strengths and capabilities, not deficits&nbsp;</p>
+</li>
+</ul>
+<p>&nbsp;</p>
 <h4><strong><em>Person-Centredness</em> is...</strong></h4>
 <p>An overarching philosophy that emphasises treating individuals with dignity
 and respect, ensuring their unique needs and preferences are prioritised
