@@ -111,8 +111,9 @@ which incorporates perspectives from the student, family, and school staff.
 <br>
 <br>Here are some examples of aspirations during FEM:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="My Aspirations" src="/images/My_Aspirations__Redacted_.png">
+<img style="width: 100%" height="auto" width="100%" alt="Aspirations (Redacted)" src="/images/My_Aspirations__Redacted_2.png">
 </div>
+<p></p>
 <p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Scroll To Top</a>
 </p>
 <h4><strong>4. How I Communicate</strong></h4>
