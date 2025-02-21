@@ -115,20 +115,20 @@ which incorporates perspectives from the student, family, and school staff.
 </div>
 <p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Scroll To Top</a>
 </p>
-<h4><strong>How I Communicate</strong></h4>
+<h4><strong>4. How I Communicate</strong></h4>
 <p>This section outlines the student’s communication methods and preferences.
 Key information can be gathered from the <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/preparation-booklets/" rel="noopener noreferrer nofollow" target="_blank">Preparation Booklet</a></strong> or
 through appropriate <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/resources/pcp-tools/" rel="noopener noreferrer nofollow" target="_blank">PCP Tools</a></strong> such
 as <em>Communication Chart, Decision-making Profile </em>and<em> Decision-making Agreement</em>.</p>
 <p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Scroll To Top</a>
 </p>
-<h4><strong>My Needs</strong></h4>
+<h4><strong>5. My Needs</strong></h4>
 <p>This section outlines the students’ medical, health and care needs based
 on input from the student, family, school, health and care professionals,
 and the Preparation Booklet.</p>
 <p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Scroll To Top</a>
 </p>
-<h4><strong>What’s Working, What’s Not Working</strong></h4>
+<h4><strong>6. What’s Working, What’s Not Working</strong></h4>
 <p>This section summarises <em>What’s Working What’s Not Working</em> in each
 life planning area, as identified in <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step3/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 3</a></strong>.
 This information guides goal development through the <strong>Outcome Sequence</strong>.</p>
@@ -138,7 +138,7 @@ This information guides goal development through the <strong>Outcome Sequence</s
 </div>
 <p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Scroll To Top</a>
 </p>
-<h4><strong>My Goals and Action Plan</strong></h4>
+<h4><strong>7. My Goals and Action Plan</strong></h4>
 <p>This section outlines the student’s post-school goals and short-term goals,
 along with an action plan for their attainment of the goals. Goals developed
 from the <strong>Outcome Sequence</strong> at <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step4/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 4</a></strong> can
@@ -157,7 +157,7 @@ can be incorporated into this section.</p>
 </div>
 <p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Scroll To Top</a>
 </p>
-<h4><strong>My Transition Activities</strong></h4>
+<h4><strong>8. My Transition Activities</strong></h4>
 <p>This section outlines additional transition-related activities needed
 to assist the student in attaining his/her postschool goals. These activities
 identified through the <strong>Support Sequence</strong> in <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step5/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 5</a></strong> may
@@ -169,7 +169,7 @@ applications and deputyship.</p>
 </div>
 <p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Scroll To Top</a>
 </p>
-<h4><strong>Contributors to my ITP</strong></h4>
+<h4><strong>9. Contributors to my ITP</strong></h4>
 <p>The ITP is collaboratively developed, incorporating views and hopes of
 those supporting the student. This section lists the individuals who have
 contributed information to the ITP.</p>
