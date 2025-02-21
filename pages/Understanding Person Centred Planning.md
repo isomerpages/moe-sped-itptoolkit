@@ -14,27 +14,44 @@ shape their own future, where their voice is not just heard but actively
 sought out and respected. This is the world that person-centred planning
 aims to create.&nbsp;</p>
 <p></p>
-<p><strong>Key Principles:</strong>&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Placing the individual at the heart of all decision-making&nbsp;</p>
-</li>
-<li>
-<p>Prioritising personal aspirations over perceived limitations&nbsp;</p>
-</li>
-<li>
-<p>Focusing on strengths and capabilities, not deficits&nbsp;</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-<h4><strong><em>Person-Centredness</em> is...</strong></h4>
-<p>An overarching philosophy that emphasises treating individuals with dignity
-and respect, ensuring their unique needs and preferences are prioritised
-in all aspects of support and care.</p>
-<p>Person-Centred Planning translates this philosophy into actionable steps
-to create tailored plans that empower individuals to achieve their life
-goals while promoting their autonomy and well-being. It places the individual
-at the heart of all decision-making processes. This entails:</p>
+<p><strong>Key Principles</strong>
+<br>•<strong> </strong>Placing the individual at the heart of all decision-making&nbsp;
+<br>• Prioritising personal aspirations over perceived limitations&nbsp;
+<br>• Focusing on strengths and capabilities, not deficits&nbsp;</p>
+<p><strong>Why It Matters</strong>&nbsp;
+<br>The narrative around disability support is usually dominated by the voices
+of caregivers, professionals, and society at large. While well-intentioned,
+this approach often inadvertently sidelines the very people it aims to
+support.&nbsp;</p>
+<p>Person-centred planning flips this script. It recognises that no one is
+more expert in a person's life than the individual themselves. By actively
+involving people with disabilities in planning for their lives, we ensure
+that the support provided truly reflects their own aspirations, choices,
+and dreams.&nbsp;</p>
+<p></p>
+<p><strong>The Process</strong>&nbsp;
+<br>Person-centred planning is not a one-time event, but an ongoing journey.
+It starts with understanding the individual's hopes and dreams and involves
+creating a 'circle of support' chosen by the person themselves. Personalised,
+actionable plans are developed to help achieve their life goals.&nbsp;</p>
+<p>Key elements of the process include:&nbsp;
+<br>• Introducing Transition Planning to families when their child turns 13&nbsp;
+<br>• Development of an Individual Transition Plan with post-school goals&nbsp;
+<br>• Family envisioning meetings to generate personalised post-school goals
+<br>• A coordinated and person-centred handover process from schools to adult
+agencies&nbsp;</p>
+<p></p>
+<p>But perhaps most importantly, person-centred planning is about <strong>doing things with people, not for them</strong>.
+It's about empowering individuals to take control of their own lives and
+futures, with the right support in place.&nbsp;</p>
+<p></p>
+<p>By embracing this approach, we move towards a more inclusive society where
+every voice is valued, and every individual has the opportunity to live
+life on their own terms. This shift in both mental and practice paradigms
+is essential to achieve the true spirit of Person-Centred Planning and
+realise better quality of life outcomes for individuals with disabilities.&nbsp;</p>
+<p><strong>To encapsulate PCP at a glance</strong>
+<br><em>Person-Centredness</em> is...</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="What being person-centred means" src="/images/New_PCP_Honeycomb.png">
