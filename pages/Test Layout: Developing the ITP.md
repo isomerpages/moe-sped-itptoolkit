@@ -8,8 +8,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TP Overview (FEM and ITP focussed on)" src="/images/Overview of TP (Indicators)/TP_Overview__FEM_and_ITP_.png">
 </div>
-<p></p>
-<h4><strong>One Page Profile (OPP)</strong></h4>
+<p>The Individual Transition Plan (ITP) is typically developed in tandem
+with the One Page Profile (OPP), with the OPP attached to the front of
+the ITP.&nbsp;&nbsp;</p>
+<p><strong>One Page Profile (OPP)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/one_page_profile.jpg">
 </div>
@@ -46,11 +49,11 @@ him/her well.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="#one">My Personal Details</a>
+<p><a href="#one" rel="noopener noreferrer nofollow" target="_blank">My Personal Details</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="#two">My Strengths</a>
+<p><a href="#two" rel="noopener noreferrer nofollow" target="_blank">My Strengths</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -90,9 +93,9 @@ him/her well.</p>
 </tbody>
 </table>
 <p></p>
-<h4 id="#one"><strong>My Personal Details</strong></h4>
+<h4><strong>My Personal Details</strong></h4>
 <p>This section captures personal details of the student and family/caregiver.</p>
-<p><a href="#">Scroll To Top</a>
+<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Scroll To Top</a>
 </p>
 <h4><strong>My Strengths</strong></h4>
 <p>This section highlights the student’s strengths and abilities based on
