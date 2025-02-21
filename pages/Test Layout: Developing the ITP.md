@@ -16,23 +16,28 @@ the ITP.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/one_page_profile.jpg">
 </div>
-<p>The student’s OPP is attached to the front of their ITP.</p>
-<p>&nbsp;The OPP is a one-page summary about the student in three key areas:</p>
+<p>The OPP serves as a one-page summary of the student, highlighting three
+key areas:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>What people liked and admired about the student</p>
+<p>What people like and admire about the student</p>
 </li>
 <li>
 <p>What’s important to the student</p>
 </li>
 <li>
 <p>How best to support the student</p>
+<p></p>
 </li>
 </ul>
-<p></p>
-<p>The OPP is prepared with the student over time. Input can be from daily
-observations of the student, or family, school staff and people who know
-him/her well.</p>
+<p>This concise overview of the student's strengths, needs, and preferences
+forms the foundation for the more comprehensive ITP, ensuring that the
+student's voice remain at the forefront of the transition planning process.&nbsp;</p>
+<p>The OPP is prepared with the student over time, incorporating input from
+daily observations of family, school staff and others who know the student
+well. It should be regularly updated throughout the school years and serves
+as a valuable resource across all areas of the student’s life, extending
+beyond just the ITP.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Pro Tip (OPP)" src="/images/Updated Pro Tips/Pro_Tip__OPP_.png">
