@@ -16,7 +16,7 @@ on the student’ interests, aspirations and needs. It also results in an
 agreed action plan to support the student to attain the goals.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Developing the ITP after FEM image" src="/images/FEM_to_ITP__20_Nov_Update_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PCP_Visuals_v2__1_.png">
 </div>
 <p>These are essential ingredients for the ITP and hence immediately after
 FEM, this information should be translated <strong>into the student’s first ITP</strong>.&nbsp;Please
@@ -24,8 +24,8 @@ refer to <a href="/individual-transition-plan/about-itp/" rel="noopener noreferr
 to find out how the ITP is developed.</p>
 <h4>Other Follow-Ups</h4>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="Diagram for Follow ups on FEM" src="/images/Follow_up_on_FEM.png">
 </div>
+<p></p>
 <p></p>
