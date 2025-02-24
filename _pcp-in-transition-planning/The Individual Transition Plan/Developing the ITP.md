@@ -74,7 +74,12 @@ each section.&nbsp;
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p><strong>How I Communicate</strong>
+</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <ol start="5" data-tight="true" class="tight">
