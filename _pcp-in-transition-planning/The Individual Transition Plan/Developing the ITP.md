@@ -41,6 +41,7 @@ Click on the hyperlink to learn more about supporting students in preparing
 each section.&nbsp;
 <br>
 <br>The ITP consists of the following 9 sections:</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -50,50 +51,76 @@ each section.&nbsp;
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="#one" rel="noopener noreferrer nofollow" target="_blank">My Personal Details</a>
-</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>My Personal Details</p>
+</li>
+</ol>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="#two" rel="noopener noreferrer nofollow" target="_blank">My Strengths</a>
-</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>My Strengths</p>
+</li>
+</ol>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><a href="#three" rel="noopener noreferrer nofollow" target="_blank">My Aspirations</a></strong>
-</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>My Aspirations</p>
+</li>
+</ol>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="#four" rel="noopener noreferrer nofollow" target="_blank">How I Communicate</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="#five" rel="noopener noreferrer nofollow" target="_blank">My Needs</a></strong>
-</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="#six" rel="noopener noreferrer nofollow" target="_blank">What's Working,What's not working</a></strong>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p><strong>My Needs</strong>
 </p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p><strong>What's Working, What's not working</strong>
+</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="#seven" rel="noopener noreferrer nofollow" target="_blank">My Goals and Action Plan</a></strong>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p><strong>My Goals and Action Plan</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="#eight" rel="noopener noreferrer nofollow" target="_blank">My Transition Activities</a></strong>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p><strong>My Transition Activities</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="#nine" rel="noopener noreferrer nofollow" target="_blank">Contributors to my ITP</a></strong>
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p><strong>Contributors to my ITP</strong>
 </p>
+</li>
+</ol>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>1. My Personal Details</strong></h4>
 <p>This section captures personal details of the student and family or caregiver.</p>
 <p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Scroll To Top</a>
