@@ -21,4 +21,4 @@ and future planning.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PCP_Visuals_v2.png">
 </div>
 <p>Ready to start the FEM journey? Discover how to make everyone feel valued
-in <strong>Step 1</strong>!</p>
+in <strong><a href="/family-envisioning-meeting/family-envisioning-meeting/step1/" rel="noopener nofollow" target="_blank">Step 1</a></strong>!</p>
