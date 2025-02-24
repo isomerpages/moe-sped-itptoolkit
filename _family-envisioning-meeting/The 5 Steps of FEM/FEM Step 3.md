@@ -15,15 +15,18 @@ What is <em>Not Working</em> for the student in the following 4 areas:</p>
 <li>
 <p>Building my <strong>independence </strong>skills: <em>This is related to the student’s developing abilities in personal management and mobility, including safety and health</em>
 </p>
+<p></p>
 </li>
 <li>
 <p>Participating in <strong>daily, social and leisure</strong> activities in
 the community: <em>This is related to the student's motivation and ability to access the neighbourhood, interact with peers and friends, and participating in leisure activities</em>
 </p>
+<p></p>
 </li>
 <li>
 <p>Continuing my <strong>learning</strong>: <em>This is related to the student's interest and motivation in learning, new knowledge and skills</em>
 </p>
+<p></p>
 </li>
 <li>
 <p>Contributing<strong> productively</strong>: <em>This is related to the student's interest and motivation for work or contributing to the community, and how the student is responding to instructions and supports e.g. work experience</em>
@@ -43,6 +46,6 @@ which they paste on the respective flipcharts<strong>.</strong>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Quote from Parent" src="/images/Updated Quotes/Quote__Mrs_Giang_.png">
 </div>
-<p></p>
+<p>Dreams into goals! Shape student aspirations in <strong><a href="/family-envisioning-meeting/family-envisioning-meeting/step4/" rel="noopener nofollow" target="_blank">Step 4</a></strong>.</p>
 <p></p>
 <p></p>
