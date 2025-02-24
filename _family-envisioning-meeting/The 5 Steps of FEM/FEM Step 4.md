@@ -13,7 +13,7 @@ third_nav_title: The 5 Steps of FEM
 Sequence:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Outcome Sequence (3 Steps)" src="/images/Outcome_sequence__3_steps_.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Outcome Sequence (3 Steps)" src="/images/Outcome_sequence__3_steps_.png">
 </div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -89,12 +89,9 @@ goals. With reference to the priority areas, ask: <strong>What is the positive c
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GOS FEM at a Student's House" src="/images/Photos from School/GOS_7.jpg">
 </div>
-<p><em>Source: Grace Orchard School</em>
+<p><em>Source: Grace Orchard SchoolTurn </em>
 </p>
-<hr>
-<h4></h4>
-<p></p>
-<p></p>
+<p>Turn goals into reality! Explore how to develop actionable plans in <strong><a href="/family-envisioning-meeting/family-envisioning-meeting/step5/" rel="noopener nofollow" target="_blank">Step 5</a></strong>.</p>
 <p></p>
 <p></p>
 <p></p>
