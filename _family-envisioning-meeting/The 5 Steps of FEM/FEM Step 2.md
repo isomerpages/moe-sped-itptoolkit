@@ -5,7 +5,7 @@ variant: tiptap
 description: FEM Step 2
 third_nav_title: The 5 Steps of FEM
 ---
-<h3><strong>Knowing the Student</strong></h3>
+<h3><strong>Understanding and Celebrating the Student</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FEM_Step_2_Timer.png">
 </div>
