@@ -47,7 +47,5 @@ for families.&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ul>
 <p></p>
-<p><em><s><sub>Note: The</sub></s></em><strong><em><s><sub> Multi-Agency Transition Meeting (MATM)</sub></s></em></strong><em><s><sub> is a coordinated and person-centred handover process jointly implemented by MOE, Ministry of Social and Family Development (MSF) and SG Enable to support SPED graduates transitioning into Day Activity Centres and Sheltered Workshops.&nbsp; </sub></s></em><strong><em><sub>Propose to remove this as MATM is only one of the various pathways.</sub></em></strong>
-</p>
 <p></p>
 <p></p>
