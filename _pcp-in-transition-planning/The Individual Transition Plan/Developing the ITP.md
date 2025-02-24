@@ -128,14 +128,12 @@ each section.&nbsp;
 </table>
 <h4><strong>1. My Personal Details</strong></h4>
 <p>This section captures personal details of the student and family or caregiver.</p>
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Scroll To Top</a>
-</p>
+<p></p>
 <h4><strong>2. My Strengths</strong></h4>
 <p>This section highlights the student’s strengths and abilities<u>,</u> drawing
 on information received from the student, family, school, health and care
 professionals.</p>
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Scroll To Top</a>
-</p>
+<p></p>
 <h4><strong>3. My Aspirations</strong></h4>
 <p>This section captures the student’s wishes, ambitions and dreams for their
 post-graduation life, including both social and work-related aspirations.
@@ -147,31 +145,24 @@ which incorporates perspectives from the student, family, and school staff.
 <img style="width: 100%" height="auto" width="100%" alt="Aspirations (Redacted)" src="/images/My_Aspirations__Redacted_2.png">
 </div>
 <p></p>
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Scroll To Top</a>
-</p>
 <h4><strong>4. How I Communicate</strong></h4>
 <p>This section outlines the student’s communication methods and preferences.
 Key information can be gathered from the <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/preparation-booklets/" rel="noopener noreferrer nofollow" target="_blank">Preparation Booklet</a></strong> or
 through appropriate <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/resources/pcp-tools/" rel="noopener noreferrer nofollow" target="_blank">PCP Tools</a></strong> such
 as <em>Communication Chart, Decision-making Profile </em>and<em> Decision-making Agreement</em>.</p>
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Scroll To Top</a>
-</p>
+<p></p>
 <h4><strong>5. My Needs</strong></h4>
 <p>This section outlines the students’ medical, health and care needs based
 on input from the student, family, school, health and care professionals,
 and the Preparation Booklet.</p>
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Scroll To Top</a>
-</p>
+<p></p>
 <h4><strong>6. What’s Working, What’s Not Working</strong></h4>
 <p>This section summarises <em>What’s Working What’s Not Working</em> in each
 life planning area, as identified in <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step3/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 3</a></strong>.
 This information guides goal development through the <strong>Outcome Sequence</strong>.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="What's Working and What's Not Working Table" src="/images/4areas.png">
 </div>
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Scroll To Top</a>
-</p>
 <h4><strong>7. My Goals and Action Plan</strong></h4>
 <p>This section outlines the student’s post-school goals and short-term goals,
 along with an action plan for their attainment of the goals. Goals developed
@@ -185,12 +176,10 @@ goal quality checking.</p>
 <p>Actions and follow-ups from the <strong>Action Plan</strong> developed in<strong> <a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/family-envisioning-meeting/family-envisioning-meeting/step5/" rel="noopener noreferrer nofollow" target="_blank">FEM Step 5</a></strong>,
 can be incorporated into this section.</p>
 <p>This is the <strong>Action Plan</strong> used at FEM Step 5.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Action Plan Template" src="/images/action_template_2.png">
 </div>
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Scroll To Top</a>
-</p>
+<p></p>
 <h4><strong>8. My Transition Activities</strong></h4>
 <p>This section outlines additional transition-related activities needed
 to assist the student in attaining his/her postschool goals. These activities
@@ -201,13 +190,11 @@ applications and deputyship.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Support_Sequence__2_.png">
 </div>
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Scroll To Top</a>
-</p>
+<p></p>
 <h4><strong>9. Contributors to my ITP</strong></h4>
 <p>The ITP is collaboratively developed, incorporating views and hopes of
 those supporting the student. This section lists the individuals who have
 contributed information to the ITP.</p>
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Scroll To Top</a>
-</p>
+<p></p>
 <p></p>
 <p></p>
