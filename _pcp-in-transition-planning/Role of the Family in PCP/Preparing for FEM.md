@@ -5,13 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Role of the Family in PCP
 ---
-<p>The success of FEM hinges on thoughtful preparation before the meeting
-itself takes place.&nbsp; This involves preparing the meeting’s participants,
-materials, and ensuring that the room is properly set-up and ready with
-relevant resources for an effective FEM.</p>
-<p>A skillful facilitator for FEM is important for a successful FEM. Some
-skills facilitators should develop include active listening, goal-setting,
-planning, chairing a meeting and time-keeping.</p>
+<p>The success of FEM hinges on <strong>thoughtful preparation</strong> before
+the meeting itself takes place.&nbsp; This involves preparing the meeting’s
+participants, materials, and ensuring that the room is properly set-up
+and ready with relevant resources for an effective FEM.</p>
+<p><strong>Effective facilitation</strong> is important for a successful FEM.
+Key aspects of facilitation include active listening, goal-setting, planning,
+chairing a meeting and time-keeping. These practices help create an inclusive
+environment and ensure a fruitful conversation for all participants. &nbsp;</p>
 <h4><strong>a) Preparing the Participants</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
