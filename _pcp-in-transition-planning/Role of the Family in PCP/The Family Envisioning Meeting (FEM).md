@@ -41,10 +41,6 @@ of the student’s first ITP.</p>
 with families to plan and prepare for future goals. <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/fem-overview/" rel="noopener noreferrer nofollow" target="_blank">Click here for the 5 steps of FEM!</a></strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="FEM 5 Steps" src="/images/FEM_5_Steps__20_Nov_Update_.jpg">
-</div>
-<p></p>
 <h4><strong>Watch FEM in action!</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/A-PVUBuIGtw?si=0tnY1XaeV7BFF9V0"></iframe>
