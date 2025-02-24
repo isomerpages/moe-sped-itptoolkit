@@ -9,20 +9,20 @@ description: Information about SPED Outcomes
 continuously and contribute meaningfully in the community when they graduate.&nbsp;These
 Living Learning Working Outcomes are the end goals of Special Education
 and represent the collective aspirations of the sector.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="SPED Outcomes (From TLS)" src="/images/SPED_Outcomes__From_TLS_.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="SPED Outcomes" src="/images/SPED_Outcomes__updated_.png">
+</div>
 <h4><strong>National SPED Curriculum</strong></h4>
 <p>SPED schools are guided by the SPED Curriculum Framework and the SPED
 Teaching and Learning Syllabuses in delivering a quality holistic education
 for students to achieve the Living Learning and Working Outcomes.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SPED Curriculum Pyramid" src="/images/TLS Assets/Curriculum_Pyramid.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="7 TLSes and SPED Curriculum Pyramid" src="/images/7_TLS_and_Pyramid.png">
 </div>
 <p></p>
-<p><em>[To be Added: High Quality Image files of National SPE Curriculum and 7 TLSes]</em>
-</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
