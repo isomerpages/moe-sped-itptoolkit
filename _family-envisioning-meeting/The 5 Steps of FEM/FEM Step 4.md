@@ -48,7 +48,7 @@ the following three focus areas in FEM Step 2:</p>
 <p>The process is fully explained in the visual below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="3 Dots Voting Diagram" src="/images/UPDATED_3_Dots_voting.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="3 Dots Voting Diagram" src="/images/UPDATED_3_Dots_voting.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
