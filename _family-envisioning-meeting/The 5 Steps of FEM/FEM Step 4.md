@@ -9,8 +9,13 @@ third_nav_title: The 5 Steps of FEM
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Time Progress Bar for Step 4" src="/images/Step_4.png">
 </div>
-<p>The facilitator leads the participants through the steps of the Outcome
-Sequence:</p>
+<p>By making everyone feel welcome and having all participants share their
+aspirations, assessing what's working and what isn't in the identified
+areas, and prioritising their needs, we can effectively guide the students
+and families towards meaningful goal-setting.</p>
+<p>Focusing on the child’s Aspirations, What’s Working, and What’s Not Working
+generated from Steps 2 and 3, facilitators guide the student and family
+toward meaningfully using the 3-step Outcome Sequence below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Outcome Sequence (3 Steps)" src="/images/Outcome_sequence__3_steps_.png">
@@ -21,12 +26,13 @@ Sequence:</p>
 <summary>Step 1: Identify the Priority Areas</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>The facilitator determines the priority areas through a <strong>3 Dots Voting Process.</strong>
+<p>The facilitator guides everyone through a <strong>3 Dots Voting Process.</strong>
 </p>
 <p></p>
 <p>All participants are given 3 stickers (dots) to indicate their votes.
-The facilitator invites participants to vote their top 3 items from the
-responses from the following three focus areas in FEM Step 2:</p>
+Participants place their dots on the areas they care most about. The facilitator
+invites participants to vote their top 3 items from the responses from
+the following three focus areas in FEM Step 2:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Aspirations</p>
@@ -42,7 +48,7 @@ responses from the following three focus areas in FEM Step 2:</p>
 <p>The process is fully explained in the visual below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="3 Dots Voting Diagram" src="/images/UPDATED_3_Dots_voting.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="3 Dots Voting Diagram" src="/images/UPDATED_3_Dots_voting.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -89,7 +95,7 @@ goals. With reference to the priority areas, ask: <strong>What is the positive c
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GOS FEM at a Student's House" src="/images/Photos from School/GOS_7.jpg">
 </div>
-<p><em>Source: Grace Orchard SchoolTurn </em>
+<p><em>Source: Grace Orchard SchoolTurn</em>
 </p>
 <p>Turn goals into reality! Explore how to develop actionable plans in <strong><a href="/family-envisioning-meeting/family-envisioning-meeting/step5/" rel="noopener nofollow" target="_blank">Step 5</a></strong>.</p>
 <p></p>
