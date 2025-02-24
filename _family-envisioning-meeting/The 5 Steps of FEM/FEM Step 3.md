@@ -52,5 +52,5 @@ which they paste on the respective flipcharts<strong>.</strong>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Quote from Parent" src="/images/Updated Quotes/Quote__Mrs_Giang_.png">
 </div>
-<p>Dreams into goals! Shape student aspirations in <strong><a href="/family-envisioning-meeting/family-envisioning-meeting/step4/" rel="noopener nofollow" target="_blank">Step 4</a></strong>.</p>
+<p>Aspirations take shape! Develop goals in <strong><a href="/family-envisioning-meeting/family-envisioning-meeting/step4/" rel="noopener nofollow" target="_blank">Step 4</a></strong>.</p>
 <p></p>
