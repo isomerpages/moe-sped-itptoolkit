@@ -23,7 +23,6 @@ FEM, this information should be translated <strong>into the student’s first IT
 refer to <a href="/individual-transition-plan/about-itp/" rel="noopener noreferrer nofollow" target="_blank">the ITP </a>section
 to find out how the ITP is developed.</p>
 <h4>Other Follow-Ups</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="Diagram for Follow ups on FEM" src="/images/Follow_up_on_FEM.png">
 </div>
