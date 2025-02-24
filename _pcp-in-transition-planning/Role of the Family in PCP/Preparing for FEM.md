@@ -189,7 +189,7 @@ his/her preferences into account!&nbsp;This is the student’s meeting and
 he/she should own this part of the process as well.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Pro Tip (Room Set up)" src="/images/Updated Pro Tips/Pro_Tip__Room_setup_.png">
+<img style="width: 40%;" height="auto" width="100%" alt="Pro Tip (Room Set up)" src="/images/Updated Pro Tips/Pro_Tip__Room_setup_.png">
 </div>
 <p></p>
 <p></p>
