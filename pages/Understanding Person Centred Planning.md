@@ -27,6 +27,7 @@ support.&nbsp;</p>
 life than the individual themselves. By actively involving people with
 disabilities in planning for their lives, we ensure that the support provided
 truly reflects their own aspirations, choices, and dreams.&nbsp;</p>
+<hr>
 <h4><strong>Person-Centred Planning in SPED</strong></h4>
 <p>PCP is a core feature in Special Education (SPED). In particular, PCP
 features strongly in Transition Planning to uncover each student's strengths,
