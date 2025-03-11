@@ -10,7 +10,7 @@ sections:
       title: Person-Centred Planning
       subtitle: A comprehensive guide to support PCP implementation in SPED schools.
         Learn more about PCP processes and resources in Transition Planning.
-      background: /images/hello2.gif
+      background: /images/hello_3.gif
       variant: floating
       button: Learn more about PCP
       url: /pcp/
