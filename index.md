@@ -7,16 +7,15 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Person-Centred Planning
-      subtitle: A comprehensive guide to support PCP implementation in SPED schools.
-        Learn more about PCP processes and resources in Transition Planning.
+      title: Interested to learn more about Person-Centred Planning?
+      subtitle: Your learning journey begins with this guide
       background: /images/hello_3.gif
       variant: floating
       button: Learn more about PCP
       url: /pcp/
       backgroundColor: gray
       alignment: left
-      size: sm
+      size: md
       key_highlights:
         - title: Family envisioning meeting
           description: A 5 Step Process
