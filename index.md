@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Interested to learn more about Person-Centred Planning?
       subtitle: Your learning journey begins with this guide
-      background: /images/hello_3.gif
+      background: /images/Gif_v2.gif
       variant: floating
       button: Learn more about PCP
       url: /pcp/
