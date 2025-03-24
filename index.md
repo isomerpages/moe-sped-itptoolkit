@@ -15,7 +15,7 @@ sections:
       url: /pcp/
       backgroundColor: gray
       alignment: left
-      size: sm
+      size: md
       key_highlights:
         - title: Family envisioning meeting
           description: A 5 Step Process
