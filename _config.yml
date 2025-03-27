@@ -1,6 +1,6 @@
-title: Title
-url: ""
-favicon: /images/favicon-isomer.ico
+title: Person-Centred Planning in SPED
+url: https://pcp4sped.moe.edu.sg
+favicon: /images/SEB_Logo.png
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -15,7 +15,8 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: A comprehensive guide to support PCP implementation in SPED
+  schools. Learn more about PCP processes and resources in Transition Planning.
 permalink: none
 baseurl: ""
 exclude:
@@ -53,3 +54,7 @@ staging: https://staging-lite.d23hwjie6zhh6m.amplifyapp.com
 prod: https://master.d3j5q81zdtd1vn.amplifyapp.com
 facebook-pixel: ""
 resources_name: updates-in-the-special-education-sector
+shareicon: /images/SEB_Logo.png
+is_government: true
+google_analytics_ga4: ""
+linkedin-insights: ""
