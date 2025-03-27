@@ -1,8 +1,9 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Person-Centred Planning in SPED
+description: A comprehensive guide to support PCP implementation in SPED
+  schools. Learn more about PCP processes and resources in Transition Planning.
+image: /images/SEB_Logo.png
 permalink: /
 notification: ""
 sections:
