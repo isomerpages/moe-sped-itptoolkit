@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Resources for SPED Schools
 ---
-<p>The FEM video is available in bite-sizes in the YouTube playlist &lt;link
-to playlist will be uploaded after full video clearance&gt; for step-by-step
+<p>The FEM video is available in bite-sizes in the YouTube playlist for step-by-step
 learning.</p>
 <p></p>
 <p>Check these parts out below!</p>
