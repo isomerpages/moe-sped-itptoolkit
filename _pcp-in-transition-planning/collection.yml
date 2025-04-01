@@ -1,0 +1,17 @@
+collections:
+  pcp-in-transition-planning:
+    output: true
+    order:
+      - Desired Outcomes of SPED.md
+      - Transition Planning in SPED Schools.md
+      - Role of the Family in PCP/.keep
+      - Role of the Family in PCP/The Family Envisioning Meeting (FEM).md
+      - Role of the Family in PCP/Preparing for FEM.md
+      - Role of the Family in PCP/Actions after FEM.md
+      - The Individual Transition Plan/.keep
+      - The Individual Transition Plan/About the ITP.md
+      - The Individual Transition Plan/Developing the ITP.md
+      - The Individual Transition Plan/Reviewing the ITP.md
+      - Transition to Post School/.keep
+      - Transition to Post School/Post School Pathways.md
+      - Transition to Post School/Resources for Transition to Post School.md

@@ -1,32 +1,55 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Person-Centred Planning in SPED
+description: A comprehensive guide to support PCP implementation in SPED
+  schools. Learn more about PCP processes and resources in Transition Planning.
+image: /images/SEB_Logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Interested to learn more about Person-Centred Planning?
+      subtitle: Your learning journey begins with this guide
+      background: /images/Gif_v3.gif
+      variant: floating
+      button: Learn more about PCP
+      url: /pcp/
+      backgroundColor: gray
+      alignment: left
+      size: md
+      key_highlights:
+        - title: Family envisioning meeting
+          description: A 5 Step Process
+          url: /example-folder/fem-overview/
+        - title: Individual transition plan
+          description: Download MOE's Template here!
+          url: /individual-transition-plan/about-itp/
+  - infopic:
+      title: Family Envisioning Meeting (FEM)
+      id: infopic
+      description: Bringing together everyone significant to a child to
+        collaboratively chart his/her future
+      button: About FEM
+      url: /example-folder/fem-overview/
+      alt: FEM meeting in action at sch
+      image: /images/Photos from School/Eden_FEM___Support_Seq.png
+  - infopic:
+      title: Individual Transition Plan (ITP)
+      id: infopic
+      button: Download MOE's ITP Template
+      url: /individual-transition-plan/about-itp/
+      alt: Image alt text
+      image: /images/pexels_rdne_stock_project_7821682.jpg
+  - infopic:
+      title: FEM Video
+      id: infopic
+      description: Watch how a Family Envisioning Meeting (FEM) takes place through a
+        step-by-step video of the process
+      button: Watch FEM in action!
+      url: /example-folder/fem-overview/
+      alt: Image alt text
+      image: /images/watch_now.png
+  - resources:
+      title: News and Happenings
+      id: resources
 ---
-
