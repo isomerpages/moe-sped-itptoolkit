@@ -38,13 +38,13 @@ student's autonomy and centrality during the conversation.</p>
 schooling when the student turns 15 years old, and is pivotal for the development
 of the student’s first ITP.</p>
 <p>The FEM process consists of 5 steps that guide the school in a conversation
-with families to plan and prepare for future goals. <strong><a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/fem-overview/" rel="noopener noreferrer nofollow" target="_blank">Click here for the 5 steps of FEM!</a></strong>
+with families to plan and prepare for future goals. <strong><a href="/fem-overview" rel="noopener noreferrer nofollow" target="_blank">Click here for the 5 steps of FEM!</a></strong>
 </p>
 <p></p>
 <h4><strong>Watch FEM in action!</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3DurexAAXBU?si=ja16q6cQQLSGW_9W"></iframe>
 </div>
-<p>You may find the FEM video in bite sizes <a href="https://staging.d3j5q81zdtd1vn.amplifyapp.com/fem-episodes/" rel="noopener nofollow" target="_blank">here</a>!</p>
+<p>You may find the FEM video in bite sizes <a href="/fem-episodes" rel="noopener nofollow" target="_blank">here</a>!</p>
 <p></p>
 <p></p>
