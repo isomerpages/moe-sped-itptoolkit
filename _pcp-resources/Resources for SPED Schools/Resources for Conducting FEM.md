@@ -24,4 +24,15 @@ meaningful post-school goals.</p>
 various modes of support to move the student towards attaining his/her
 post-school goals.</p>
 <hr>
+<p>More implementation tools are available on <a href="https://www.opal2.moe.edu.sg/csl/s/spedcurriculumportal/wiki/page/view?title=Person-centred+Transition+Planning" rel="noopener nofollow" target="_blank">OPAL 2.0 SPED Curriculum Portal</a>.</p>
+<p>Please note that a<em>ccess is restricted to SPED educators who:</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Have an OPAL 2.0 account</p>
+</li>
+<li>
+<p>Are members of the SPED Curriculum Portal Community</p>
+</li>
+</ul>
 <p></p>
