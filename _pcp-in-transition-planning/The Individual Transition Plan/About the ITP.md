@@ -17,4 +17,9 @@ their interests, strengths, and personal goals. It also details an action
 plan to guide the student's successful transition to post-school life.</p>
 <p></p>
 <p>Click <a href="https://go.gov.sg/sped-itp" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-download a copy of the ITP.</p>
+download a copy of the ITP*.</p>
+<p></p>
+<p>*[Last updated: 14 May 2025] The ITP has been revised with <em>a new 'Planning my next Pathway' section</em>,
+which captures&nbsp;important information and actions for post-school agencies
+to support students' transition. This section will be completed in the
+final schooling year, following the final ITP review and handover meeting.</p>
