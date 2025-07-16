@@ -20,10 +20,11 @@ various life stages.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/EG_Logo_PNG_Hires.png">
 </div>
 <p>The <strong>Enabling Guide</strong> is a first-stop resource portal for
-persons with disabilitiesand their caregivers. It provides information
+persons with disabilities and their caregivers. It provides information
 on disability schemes and services, and guides users in making more informed
 decisions about different service options across the life stages.</p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/post18interactiveguide.png">
 </div>
