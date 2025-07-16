@@ -13,15 +13,20 @@ the support offered, please visit <a href="www.sgenable.sg" rel="noopener nofoll
 <p>Families and caregivers are highly encouraged to explore the resources
 provided by SG Enable. These resources are designed to empower families
 with valuable information and support as they navigate the transition across
-various life stages.</p>
-<hr>
-<p></p><a class="isomer-image-wrapper" href="https://www.enablingguide.sg/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/sge_enabling_guide.png"></a>
+various life stages.</p><a class="isomer-image-wrapper" href="https://www.enablingguide.sg/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/sge_enabling_guide.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EG_Logo_PNG_Hires.png">
+</div>
 <p>The <strong>Enabling Guide</strong>, is a first-stop resource portal for
 persons with disabilities and their caregivers. It provides information
 on disability schemes and services, and guides users in making more informed
 decisions about different service options across the life stages.</p>
 <hr>
-<p></p><a class="isomer-image-wrapper" href="https://www.enablingguide.sg/disability-info/life-stages-transitions/post-18-interactive-guide"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sge_post_18_interactive_guide.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/post18interactiveguide.png">
+</div>
 <p>The Enabling Guide also includes a&nbsp;<strong>Post-18 Interactive Guide</strong>,
 which provides information on a variety of post-18 options for SPED graduates
 to aid planning for life after graduation.</p>
