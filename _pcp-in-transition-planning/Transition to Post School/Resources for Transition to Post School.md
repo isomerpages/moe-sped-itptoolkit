@@ -33,8 +33,4 @@ which provides information on a variety of post-18 options for SPED graduates
 to aid planning for life after graduation.</p>
 <hr>
 <p>Do look out for more resources on post-school options that will be released
-in the future!</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+in future!</p>
