@@ -14,6 +14,7 @@ the support offered, please visit <a href="www.sgenable.sg" rel="noopener nofoll
 provided by SG Enable. These resources are designed to empower families
 with valuable information and support as they navigate the transition across
 various life stages.</p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/EG_Logo_PNG_Hires.png">
@@ -24,7 +25,7 @@ on disability schemes and services, and guides users in making more informed
 decisions about different service options across the life stages.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/post18interactiveguide.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/post18interactiveguide.png">
 </div>
 <p></p>
 <p>The Enabling Guide also includes a&nbsp;<strong>Post-18 Interactive Guide</strong>,
