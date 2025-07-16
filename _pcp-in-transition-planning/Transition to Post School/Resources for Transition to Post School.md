@@ -16,10 +16,10 @@ with valuable information and support as they navigate the transition across
 various life stages.</p>
 <hr>
 <p></p><a class="isomer-image-wrapper" href="https://www.enablingguide.sg/"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/sge_enabling_guide.png"></a>
-<p>The Enabling Guide also includes a&nbsp;<strong>Post-18 Interactive Guide</strong>,
-which provides information on a variety of post-18 options for SPED graduates
-to explore potential options based on their abilities and passion, to aid
-planning for life after graduation.</p>
+<p>The <strong>Enabling Guide</strong>, is a first-stop resource portal for
+persons with disabilities and their caregivers. It provides information
+on disability schemes and services, and guides users in making more informed
+decisions about different service options across the life stages.</p>
 <hr>
 <p></p><a class="isomer-image-wrapper" href="https://www.enablingguide.sg/disability-info/life-stages-transitions/post-18-interactive-guide"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sge_post_18_interactive_guide.png"></a>
 <p>The Enabling Guide also includes a&nbsp;<strong>Post-18 Interactive Guide</strong>,
