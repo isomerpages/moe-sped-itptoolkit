@@ -9,7 +9,7 @@ third_nav_title: Transition to Post School
 to post school.&nbsp; SG Enable, the focal agency for disability and inclusion
 in Singapore, enables persons with disabilities to live, learn work and
 play in an inclusive society. For more information about SG Enable and
-the support offered, please visit <a href="www.sgenable.sg" rel="noopener nofollow" target="_blank">SG Enable</a>.</p>
+the support offered, please visit <a href="https://www.sgenable.sg/" rel="noopener nofollow" target="_blank">SG Enable</a>.</p>
 <p>Families and caregivers are highly encouraged to explore the resources
 provided by SG Enable. These resources are designed to empower families
 with valuable information and support as they navigate the transition across
