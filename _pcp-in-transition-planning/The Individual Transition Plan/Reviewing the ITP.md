@@ -136,11 +136,15 @@ are explored.</p>
 <p>[image]</p>
 </li>
 <li>
-<p>For scenarios where goals are not relevant: Re-establish the post-school
-goals before identifying relevant community services through Support Sequence
-#6: Community &amp; Services.</p>
+<p><strong>For scenarios where goals are not relevant</strong>: Re-establish
+the post-school goals before identifying relevant community services through
+Support Sequence #6: Community &amp; Services.</p>
 </li>
 </ul>
+<p>Following the review meeting, update the ITP, specifically the <strong>'My Transition Activities' section</strong>,
+to reflect the community services and resources actions identified through
+Support Sequence #6.</p>
+<p>[image]</p>
 <p></p>
 <p></p>
 <p></p>
