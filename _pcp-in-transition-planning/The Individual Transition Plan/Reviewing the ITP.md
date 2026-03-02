@@ -31,6 +31,9 @@ between the student, family, and school. It focuses on 2 key elements – <stron
 in determining the appropriate approach and actions for the ITP Review.&nbsp;
 Four scenarios are possible based on whether the student’s goals remain
 relevant, and whether the supports have been implemented.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/goal_support_matrix_1.png">
+</div>
 <p>For reference, <a href="https://pcp4sped.moe.edu.sg/fem-overview/" rel="noopener nofollow" target="_blank">click here for the 5 steps of FEM.</a>
 </p>
 <p><strong>Steps in the ITP Review Process</strong>
