@@ -18,8 +18,7 @@ place annually after the first ITP is developed, beginning at age 16 through
 to the graduating year.</p>
 <p>The ITP review is a <strong>person-centred</strong> and <strong>collaborative</strong> process
 between the student, family, and school. It focuses on 2 key elements – <strong>the student’s goals and the supports</strong>.</p>
-<p>&nbsp;</p>
-<p>In reviewing the ITP, we can ask the following questions:</p>
+<p>&nbsp;In reviewing the ITP, we can ask the following questions:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/review_qns.png">
 </div>
