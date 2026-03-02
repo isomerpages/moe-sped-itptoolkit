@@ -104,4 +104,38 @@ Plan’ section.</p>
 </div>
 </details>
 </div>
+<hr>
+<h4><strong>Considerations in Final Years</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8.png">
+</div>
+<p>During the Consolidating Phase when the student is in their final two
+years of schooling, the focus of the ITP Review shifts to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Reviewing and agreeing on the student's post-school goals;</p>
+</li>
+<li>
+<p>Narrowing down and deciding on post-school services and resources to meet
+these goals; and</p>
+</li>
+<li>
+<p>Understanding the family's readiness and support needs for post-school
+transition.</p>
+</li>
+</ul>
+<p></p>
+<p><strong>In the Penultimate Schooling Year (Age 17)</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>At 17 years old, the ITP review meeting should include <strong>identifying post-school services and resources</strong> and <strong>developing actions to prepare for possible applications and referrals in the final schooling year</strong>.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>For scenarios where goals remain relevant:</strong> facilitator
+should focus on <strong>Support Sequence #6: Community &amp; Services</strong> to
+ensure that appropriate post-school pathways are identified and services
+are explored.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
