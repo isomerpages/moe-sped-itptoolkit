@@ -127,10 +127,14 @@ transition.</p>
 <p><strong>In the Penultimate Schooling Year (Age 17)</strong>
 </p>
 <p>At 17 years old, the ITP review meeting should include <strong>identifying post-school services and resources</strong> and <strong>developing actions to prepare for possible applications and referrals in the final schooling year</strong>.&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>For scenarios where goals remain relevant:</strong> facilitator
 should focus on <strong>Support Sequence #6: Community &amp; Services</strong> to
 ensure that appropriate post-school pathways are identified and services
 are explored.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
