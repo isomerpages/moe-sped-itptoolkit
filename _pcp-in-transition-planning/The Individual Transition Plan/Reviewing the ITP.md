@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: The Individual Transition Plan
 ---
-<p></p>
 <h2>Overview</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.png">
