@@ -145,7 +145,26 @@ Support Sequence #6: Community &amp; Services.</p>
 to reflect the community services and resources actions identified through
 Support Sequence #6.</p>
 <p>[image]</p>
-<p></p>
+<p><strong>In the Final Schooling Year (Age 18)</strong>
+</p>
+<p><strong>&nbsp;</strong>The Final ITP Review should include <strong>confirming the student’s post-school goals </strong>and<strong> identifying support needs for post-school transition</strong>.
+The meeting should be conducted in the student’s graduating year to provide
+sufficient time for applications, referrals, and preparation for handover
+to post-school services.</p>
+<p>&nbsp;With reference to the student's post-school goals, focus on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Support Sequence #5: Family, Friends &amp; Neighbours</strong> to
+understand the family’s network of supports and readiness to navigate services,
+and</p>
+<p>[image]</p>
+</li>
+<li>
+<p><strong>Support Sequence #7: Specialised Support </strong>to identify
+any specific or significant family needs that require specialised resources.</p>
+</li>
+</ul>
+<p>[image]</p>
 <p></p>
 <p></p>
 <p></p>
