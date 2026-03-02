@@ -107,7 +107,7 @@ Plan’ section.</p>
 <hr>
 <h4><strong>Considerations in Final Years</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/new_8.png">
 </div>
 <p>During the Consolidating Phase when the student is in their final two
 years of schooling, the focus of the ITP Review shifts to:</p>
