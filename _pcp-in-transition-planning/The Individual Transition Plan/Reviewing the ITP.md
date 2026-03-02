@@ -22,7 +22,12 @@ between the student, family, and school. It focuses on 2 key elements – <stron
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/review_qns_1.png">
 </div>
+<p></p>
+<hr>
 <h3><strong>Overarching ITP Review Process</strong></h3>
 <h4><strong>The Goal-Support Matrix</strong></h4>
-<p></p>
+<p>The&nbsp;<strong>Goal–Support Matrix </strong>guides the transition team
+in determining the appropriate approach and actions for the ITP Review.&nbsp;
+Four scenarios are possible based on whether the student’s goals remain
+relevant, and whether the supports have been implemented</p>
 <p></p>
