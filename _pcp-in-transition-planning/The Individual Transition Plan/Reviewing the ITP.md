@@ -36,4 +36,24 @@ relevant, and whether the supports have been implemented.</p>
 </div>
 <p><a href="https://pcp4sped.moe.edu.sg/fem-overview/" rel="noopener nofollow" target="_blank">Click here for the 5 steps of FEM.</a>
 </p>
+<p><strong>Steps in the ITP Review Process</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Step 1</u>: Prepare for the ITP Review Meeting</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>&nbsp;</p>
+<p>a) Update the student’s One Page Profile (OPP) and any other PCP tools.</p>
+<p>b) Work with the student’s teachers, job coach, and/or allied professionals
+to prepare to share progress data on the student’s Goals and Supports.</p>
+<p>c) Invite the student, family members, and relevant school staff supporting
+the student’s goals to the meeting.</p>
+<p>d) Ensure that a conducive meeting room and materials (e.g., copies of
+the student’s ITP) are prepared.</p>
+</div>
+</details>
+</div>
+<p>&nbsp;</p>
+<p></p>
 <p></p>
