@@ -167,7 +167,6 @@ any specific or significant family needs that require specialised resources.</p>
 <p>[image]</p>
 <p>Update the student’s <strong>One-Page Profile</strong> (OPP) to ensure it
 accurately reflects their strengths, needs, and preferences.&nbsp;</p>
-<p>&nbsp;</p>
 <p>Following the review meeting, update the <strong>'Planning for My Next Pathway' section in the ITP</strong> to
 capture the student’s and family’s needs and goals, as well as the points
 of discussion made with relevant post-school agencies.</p>
