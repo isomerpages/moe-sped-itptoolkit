@@ -133,6 +133,12 @@ transition.</p>
 should focus on <strong>Support Sequence #6: Community &amp; Services</strong> to
 ensure that appropriate post-school pathways are identified and services
 are explored.</p>
+<p>[image]</p>
+</li>
+<li>
+<p>For scenarios where goals are not relevant: Re-establish the post-school
+goals before identifying relevant community services through Support Sequence
+#6: Community &amp; Services.</p>
 </li>
 </ul>
 <p></p>
