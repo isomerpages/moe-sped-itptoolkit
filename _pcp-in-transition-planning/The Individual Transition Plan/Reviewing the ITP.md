@@ -35,5 +35,6 @@ relevant, and whether the supports have been implemented.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/goal_support_matrix.png">
 </div>
-<p></p>
+<p><a href="https://pcp4sped.moe.edu.sg/fem-overview/" rel="noopener nofollow" target="_blank">Click here for the 5 steps of FEM.</a>
+</p>
 <p></p>
