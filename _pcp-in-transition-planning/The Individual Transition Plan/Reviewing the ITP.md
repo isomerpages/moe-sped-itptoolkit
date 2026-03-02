@@ -17,7 +17,6 @@ their goals may need to be adjusted.</p>
 is reviewed regularly until the student graduates. This review should take
 place annually after the first ITP is developed, beginning at age 16 through
 to the graduating year.</p>
-<p>&nbsp;</p>
 <p>The ITP review is a <strong>person-centred</strong> and <strong>collaborative</strong> process
 between the student, family, and school. It focuses on 2 key elements – <strong>the student’s goals and the supports</strong>.</p>
 <p>&nbsp;</p>
