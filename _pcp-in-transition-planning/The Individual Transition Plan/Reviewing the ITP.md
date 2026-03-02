@@ -30,5 +30,10 @@ between the student, family, and school. It focuses on 2 key elements – <stron
 <p>The&nbsp;<strong>Goal–Support Matrix </strong>guides the transition team
 in determining the appropriate approach and actions for the ITP Review.&nbsp;
 Four scenarios are possible based on whether the student’s goals remain
-relevant, and whether the supports have been implemented</p>
+relevant, and whether the supports have been implemented.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/goal_support_matrix.png">
+</div>
+<p></p>
 <p></p>
