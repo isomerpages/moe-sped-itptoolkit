@@ -20,6 +20,6 @@ to the graduating year.</p>
 between the student, family, and school. It focuses on 2 key elements – <strong>the student’s goals and the supports</strong>.</p>
 <p>&nbsp;In reviewing the ITP, we can ask the following questions:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/review_qns.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/review_qns_1.png">
 </div>
 <p></p>
