@@ -51,6 +51,42 @@ the student’s ITP) are prepared.</p>
 </div>
 </details>
 </div>
-<p>&nbsp;</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Step 2:</u> Conduct the ITP Review Meeting</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>&nbsp;a) Welcome participants and state the purpose of the ITP review
+meeting.</p>
+<p>b) With reference to the student’s ITP and the Goal-Support Matrix, ascertain
+the scenario together by:</p>
+<p>Checking on the student’s goals:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Do the post-school goals still reflect the student’s interests and aspirations?</p>
+</li>
+<li>
+<p>Do the post-school goals need to be adjusted?</p>
+</li>
+<li>
+<p>Do the short-term goals need to be reviewed or refined?</p>
+</li>
+</ul>
+<p>Checking on the supports:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Have the planned supports been carried out as intended?</p>
+</li>
+<li>
+<p>Have the supports been given sufficient time to work?</p>
+</li>
+<li>
+<p>Do the supports need to be adjusted?</p>
+</li>
+</ul>
+<p>Then carry out the steps indicated in the Suggested Approach accordingly.</p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
