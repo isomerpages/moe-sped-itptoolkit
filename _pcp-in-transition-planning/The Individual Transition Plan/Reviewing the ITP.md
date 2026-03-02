@@ -91,5 +91,17 @@ the scenario together by:</p>
 </div>
 </details>
 </div>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong><u>Step 3</u>: After the ITP Review Meeting</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>a)&nbsp;Consolidate notes on the progress shared and decisions made regarding
+Goals and Supports.</p>
+<p>b)&nbsp;Update the student’s ITP, particularly the ‘My Goals and Action
+Plan’ section.</p>
+<p>c)&nbsp;Disseminate the updated ITP.</p>
+</div>
+</details>
+</div>
 <p></p>
