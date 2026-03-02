@@ -6,11 +6,9 @@ description: ""
 third_nav_title: The Individual Transition Plan
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TP Overview (Annual Review Zoomed in)" src="/images/Overview of TP (Indicators)/TP_Overview__Annual_Review_.png">
-</div>
+<h2>Overview</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="Under Construction Graphic" src="/images/Under_Construction.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.png">
 </div>
 <p></p>
