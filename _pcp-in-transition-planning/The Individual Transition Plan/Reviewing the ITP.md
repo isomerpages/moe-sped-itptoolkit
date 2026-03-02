@@ -24,8 +24,9 @@ between the student, family, and school. It focuses on 2 key elements – <stron
 </div>
 <p></p>
 <hr>
-<h3><strong>Overarching ITP Review Process</strong></h3>
-<h4><strong>The Goal-Support Matrix</strong></h4>
+<h4><strong>Overarching ITP Review Process</strong></h4>
+<p><strong>The Goal-Support Matrix</strong>
+</p>
 <p>The&nbsp;<strong>Goal–Support Matrix </strong>guides the transition team
 in determining the appropriate approach and actions for the ITP Review.&nbsp;
 Four scenarios are possible based on whether the student’s goals remain
