@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: The Individual Transition Plan
 ---
-<h2>Overview</h2>
+<h3><strong>Overview</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.png">
 </div>
@@ -22,4 +22,7 @@ between the student, family, and school. It focuses on 2 key elements – <stron
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/review_qns_1.png">
 </div>
+<h3><strong>Overarching ITP Review Process</strong></h3>
+<h4><strong>The Goal-Support Matrix</strong></h4>
+<p></p>
 <p></p>
