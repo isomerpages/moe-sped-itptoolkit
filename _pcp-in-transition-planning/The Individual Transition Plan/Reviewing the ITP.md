@@ -176,7 +176,8 @@ accurately reflects their strengths, needs, and preferences.&nbsp;</p>
 <p>Following the review meeting, update the <strong>'Planning for My Next Pathway' section in the ITP</strong> to
 capture the student’s and family’s needs and goals, as well as the points
 of discussion made with relevant post-school agencies.</p>
-<p>[image]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ITP_5.png">
+</div>
 <p>Consolidate the student’s OPP and ITP for handover to post SPED agencies.</p>
-<p></p>
 <p></p>
