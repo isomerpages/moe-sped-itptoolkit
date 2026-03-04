@@ -159,14 +159,18 @@ to post-school services.</p>
 <p><strong>Support Sequence #5: Family, Friends &amp; Neighbours</strong> to
 understand the family’s network of supports and readiness to navigate services,
 and</p>
-<p>[image]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ITP3.png">
+</div>
 </li>
 <li>
 <p><strong>Support Sequence #7: Specialised Support </strong>to identify
 any specific or significant family needs that require specialised resources.</p>
 </li>
 </ul>
-<p>[image]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ITP4.png">
+</div>
 <p>Update the student’s <strong>One-Page Profile</strong> (OPP) to ensure it
 accurately reflects their strengths, needs, and preferences.&nbsp;</p>
 <p>Following the review meeting, update the <strong>'Planning for My Next Pathway' section in the ITP</strong> to
