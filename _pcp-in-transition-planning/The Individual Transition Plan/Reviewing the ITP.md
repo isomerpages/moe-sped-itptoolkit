@@ -146,7 +146,9 @@ Support Sequence #6: Community &amp; Services.</p>
 <p>Following the review meeting, update the ITP, specifically the <strong>'My Transition Activities' section</strong>,
 to reflect the community services and resources actions identified through
 Support Sequence #6.</p>
-<p>[image]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ITP_2.png">
+</div>
 <p><strong>In the Final Schooling Year (Age 18)</strong>
 </p>
 <p><strong>&nbsp;</strong>The Final ITP Review should include <strong>confirming the student’s post-school goals </strong>and<strong> identifying support needs for post-school transition</strong>.
