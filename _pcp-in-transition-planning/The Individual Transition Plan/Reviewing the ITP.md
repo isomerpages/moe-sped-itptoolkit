@@ -133,7 +133,9 @@ transition.</p>
 should focus on <strong>Support Sequence #6: Community &amp; Services</strong> to
 ensure that appropriate post-school pathways are identified and services
 are explored.</p>
-<p>[image]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ITP_1.png">
+</div>
 </li>
 <li>
 <p><strong>For scenarios where goals are not relevant</strong>: Re-establish
