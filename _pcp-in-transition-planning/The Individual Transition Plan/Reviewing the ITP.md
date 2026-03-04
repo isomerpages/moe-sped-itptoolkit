@@ -134,10 +134,8 @@ should focus on <strong>Support Sequence #6: Community &amp; Services</strong> t
 ensure that appropriate post-school pathways are identified and services
 are explored.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ITP_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ITP_11.png">
 </div>
-</li>
-<li>
 <p><strong>For scenarios where goals are not relevant</strong>: Re-establish
 the post-school goals before identifying relevant community services through
 Support Sequence #6: Community &amp; Services.</p>
