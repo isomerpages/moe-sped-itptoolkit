@@ -169,7 +169,7 @@ any specific or significant family needs that require specialised resources.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ITP4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/itp_44.png">
 </div>
 <p>Update the student’s <strong>One-Page Profile</strong> (OPP) to ensure it
 accurately reflects their strengths, needs, and preferences.&nbsp;</p>
